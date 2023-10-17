@@ -86,6 +86,8 @@ Don't leave your SEO strategy up to chance. Surfer will give you a SEO workflow 
 
 - [NeuronWriter](https://neuronwriter.com/) - Optimize your website content so Google adores it.
 
+- [ContentSwift](https://github.com/hilmanski/contentswift) - An open source content research/optimization tool for SEO.
+
 - [Market Muse](https://www.marketmuse.com/) - Our AI analyzes your entire website to give you personalized, objective insights so you can confidently plan better and faster.
 
 - [Frase io](https://www.frase.io/) - Frase is the fastest and easiest way to create content that ranks on Google.
