@@ -3,7 +3,6 @@
 # Awesome SEO tools
 Curated list of awesome SEO (Search Engine Optimization) tools to help improve your website's ranking and visibility on search engines.
 
-
 ## Contributing
 If you know any other SEO tools that deserve to be on this list, feel free to open a pull request or drop an issue with your suggestions.
 
@@ -174,3 +173,6 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 ---
 
 Happy optimizing! 🚀
+
+## Information
+This repo is maintained by [SerpApi](https://serpapi.com/) team: "Scrape Google and other search engines from our fast, easy, and complete API."
