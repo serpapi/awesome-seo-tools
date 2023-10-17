@@ -7,6 +7,12 @@ Curated list of awesome SEO (Search Engine Optimization) tools to help improve y
 ## Contributing
 If you know any other SEO tools that deserve to be on this list, feel free to open a pull request or drop an issue with your suggestions.
 
+**How to contribute:**
+
+- Work only on `README.md` file.
+- You can put the link at the bottom of the relevant category.
+- Make sure it does not exist in this list yet.
+
 ## Table of Contents
 
 1. [All in one SEO tools](#all-in-one-seo-tools)
