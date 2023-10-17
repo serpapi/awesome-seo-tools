@@ -1,7 +1,7 @@
+![Awesome SEO tools cover](/awesome-seo-tools-cover.webp)
+
 # Awesome SEO tools
 Curated list of awesome SEO (Search Engine Optimization) tools to help improve your website's ranking and visibility on search engines.
-
-awesome SEO (Search Engine Optimization) tools to help improve your website's ranking and visibility on search engines.
 
 
 ## Contributing
@@ -9,6 +9,7 @@ If you know any other SEO tools that deserve to be on this list, feel free to op
 
 ## Table of Contents
 
+0. [All in one SEO tools](#all-in-one-seo-tools)
 1. [Keyword Research](#keyword-research)
 2. [Backlink Analysis](#backlink-analysis)
 3. [Technical SEO](#technical-seo)
@@ -19,17 +20,25 @@ If you know any other SEO tools that deserve to be on this list, feel free to op
 8. [Miscellaneous Tools](#miscellaneous-tools)
 
 
+## All in one SEO tools
+From keyword research to link analysis, these tools are the Swiss army knives of the SEO world.
+
+- [Ahrefs](https://ahrefs.com/) - Everything you need to rank higher & get more traffic
+
+- [SEMrush](https://www.semrush.com/lp/keyword-research-b/) - Comprehensive keyword research tool with competitive analysis features.
+
+- [Ubersuggest](https://neilpatel.com/ubersuggest/) - Provides keyword suggestions, content ideas, and backlink data.
+
 ## Keyword Research
+Uncover high-potential keywords to target and captivate your audience.
 
-- Google Keyword Planner - Free tool from Google Ads that provides keyword ideas and traffic estimates.
+- [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/) - Free tool from Google Ads that provides keyword ideas and traffic estimates.
 
-- Ubersuggest - Provides keyword suggestions, content ideas, and backlink data.
+- [Ahrefs' Keywords Generator](https://ahrefs.com/keyword-generator) - Free keyword generator ideas by Ahref
 
-- SEMrush - Comprehensive keyword research tool with competitive analysis features.
-
-- Ahrefs' Keywords Explorer - Detailed keyword insights and search traffic estimates.
 
 ## Backlink Analysis
+Delve deep into your link profile and discover opportunities for growth and risk mitigation.
 
 - Ahrefs - Comprehensive tool to study backlinks and referring domains.
 
@@ -38,6 +47,7 @@ If you know any other SEO tools that deserve to be on this list, feel free to op
 - Moz Link Explorer - Analyzes backlinks, anchor text, and more.
 
 ## Technical SEO
+Ensure your website's foundation is solid for search engines and user experience.
 
 - Screaming Frog - SEO spider tool to crawl websites and find SEO issues.
 
@@ -46,6 +56,7 @@ If you know any other SEO tools that deserve to be on this list, feel free to op
 - Google Search Console - Free tool from Google to monitor and maintain site's presence in Google Search results.
 
 ## Content Optimization
+Fine-tune your content to resonate with search algorithms and your audience alike.
 
 - Yoast SEO - WordPress plugin for SEO optimization of posts and pages.
 
@@ -54,6 +65,7 @@ If you know any other SEO tools that deserve to be on this list, feel free to op
 - SurferSEO - Analyzes on-page data and gives recommendations for content optimization.
 
 ## Rank Tracking
+Monitor your website's position in search results and gauge your SEO strategies' effectiveness.
 
 - SERPWatcher - Monitors keyword rankings daily.
 
@@ -62,6 +74,7 @@ If you know any other SEO tools that deserve to be on this list, feel free to op
 - SE Ranking - Comprehensive rank tracking with competitor analysis.
 
 ## Local SEO
+Boost your local presence and connect with audiences in your community.
 
 - BrightLocal - Provides tools for local SEO and business listing optimization.
 
@@ -70,6 +83,7 @@ If you know any other SEO tools that deserve to be on this list, feel free to op
 - Moz Local - Simplifies the process of optimizing, managing, and measuring local search performance.
 
 ## SEO Browser Extensions
+Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - MozBar - Provides instant metrics for any page or SERP.
 
@@ -78,6 +92,7 @@ If you know any other SEO tools that deserve to be on this list, feel free to op
 - Ahrefs' SEO Toolbar - Quick access to backlink and keyword data.
 
 ## Miscellaneous Tools
+Explore a diverse range of tools for those niche tasks and unique SEO challenges.
 
 - GTmetrix - Analyzes site speed and provides performance insights.
 
