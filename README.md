@@ -57,9 +57,11 @@ PPC and social media marketing from just one platform.
 
 - [UseTopic](https://www.usetopic.com/) - SEO & Digital marketing tool for Keyword Research, Website Traffic Analysis and enterprise SEO solutions.
 
--[Barracuda](https://barracuda.digital/)- SEO and Digital marketing tool Real Time Analytics, Keyword Research and more
+- [Barracuda](https://barracuda.digital/) - SEO and Digital marketing tool Real Time Analytics, Keyword Research and more
 
+- [HigherVisibility](https://www.highervisibility.com/) - SEO tools , Digital Marketing , PPC managment and more
 
+  
 ## Keyword Research
 Uncover high-potential keywords to target and captivate your audience.
 
@@ -79,7 +81,9 @@ Uncover high-potential keywords to target and captivate your audience.
 
 - [KW Finder](https://mangools.com/kwfinder/) - A one in all keyword tool for long keyword research, serp checker and link mminer.
 
--[Word Tracker](https://www.wordtracker.com/inspect)SEO for keyword research and insights
+- [Word Tracker](https://www.wordtracker.com/inspect) - SEO for Keyword Research and Insights
+
+- [CanIRank](https://www.canirank.com/) - All in one SEO tool for Keyword Research and Competitor Analysis
 
 ## Backlink Analysis
 Delve deep into your link profile and discover opportunities for growth and risk mitigation.
@@ -143,6 +147,7 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [Sitebulb](https://sitebulb.com/) - The website auditing tool for SEO consultants and agencies
 
+- [Animalz Revive](https://revive.animalz.co/) - This website helps you improve SEO for old content
 
 ## Local SEO
 Boost your local presence and connect with audiences in your community.
@@ -172,6 +177,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [MozBar](https://moz.com/products/pro/seo-toolbar) - Provides instant metrics for any page or SERP.
 
 - [Ahrefs' SEO Toolbar](https://chrome.google.com/webstore/detail/ahrefs-seo-toolbar-on-pag/hgmoccdbjhknikckedaaebbpdeebhiei) - On-page SEO report, broken link checker, redirect tracer, and country changer for search results in one extension.
+
+- [Google Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) - Extension that gives you detailed reports about your site’s SEO performance and actionable tips on how to improve it.
 
 ## Miscellaneous Tools
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
