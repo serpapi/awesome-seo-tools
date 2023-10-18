@@ -53,6 +53,12 @@ PPC and social media marketing from just one platform.
 
 - [Zutrix](https://zutrix.com/) - SEO Tools to Boost your Traffic.
 
+- [Data Provider](https://www.dataprovider.com/) - SEO tool to Real time Website Analysis, Security and Business Infomation
+
+- [UseTopic](https://www.usetopic.com/) - SEO & Digital marketing tool for Keyword Research, Website Traffic Analysis and enterprise SEO solutions.
+
+-[Barracuda](https://barracuda.digital/)- SEO and Digital marketing tool Real Time Analytics, Keyword Research and more
+
 
 ## Keyword Research
 Uncover high-potential keywords to target and captivate your audience.
@@ -71,6 +77,9 @@ Uncover high-potential keywords to target and captivate your audience.
 
 - [LONG TAIL PRO](https://longtailpro.com/) - The Best Keyword Research Tool for Long Tail Keywords.
 
+- [KW Finder](https://mangools.com/kwfinder/) - A one in all keyword tool for long keyword research, serp checker and link mminer.
+
+-[Word Tracker](https://www.wordtracker.com/inspect)SEO for keyword research and insights
 
 ## Backlink Analysis
 Delve deep into your link profile and discover opportunities for growth and risk mitigation.
@@ -78,6 +87,8 @@ Delve deep into your link profile and discover opportunities for growth and risk
 - [Majestic](https://majestic.com/) - Find out who links to your website
 
 - [Monitor Backlinks](https://monitorbacklinks.com/) - Check the good and bad backlinks for you and the competition
+
+- [Backlinko](https://backlinko.com/) - Backlinko is the place for next-level SEO training and link building strategies.
 
 - Other "All in one SEO tools" offer this feature as well.
 
@@ -113,6 +124,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 - [SERPWatcher](https://serpwatch.io/) - The Most Advanced Rank Tracker for Marketers and Agencies
 
 - [AccuRanker](https://www.accuranker.com/) - The World's Fastest & Most Accurate Rank Tracker
+
+- [GTmetrix](https://gtmetrix.com/) - The World's Fastest & Most Accurate Rank Tracker
 
 - Other "All in one SEO tools" offer this feature as well.
 
@@ -163,12 +176,13 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 ## Miscellaneous Tools
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
 
-- GTmetrix - Analyzes site speed and provides performance insights.
+- [GTmetrix](https://gtmetrix.com/) - Analyzes site speed and provides performance insights.
 
-- Pingdom - Tests website load time and gives performance analysis.
+- [Pingdom](https://www.pingdom.com/) - Tests website load time and gives performance analysis.
 
-- Broken Link Checker - Detects and reports broken links on websites.
+- [Broken Link Checker](https://www.brokenlinkcheck.com/) - Detects and reports broken links on websites.
 
+- [DareBoost](https://www.dareboost.com/en) - Analyze your site for speed, SEO, security and more.
 
 ---
 
