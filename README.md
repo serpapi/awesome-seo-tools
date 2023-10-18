@@ -78,7 +78,9 @@ Delve deep into your link profile and discover opportunities for growth and risk
 - [Majestic](https://majestic.com/) - Find out who links to your website
 
 - [Monitor Backlinks](https://monitorbacklinks.com/) - Check the good and bad backlinks for you and the competition
-
+  
+- [uSERP's Backlink Analysis](https://userp.io/backlink-analysis/) - Allow you to see domain and page-level metrics for any target
+  
 - Other "All in one SEO tools" offer this feature as well.
 
 ## Content Optimization
