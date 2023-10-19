@@ -22,7 +22,6 @@ If you know any other SEO tools that deserve to be on this list, feel free to op
 1. [Technical SEO](#technical-seo)
 1. [Local SEO](#local-seo)
 1. [SEO Browser Extensions](#seo-browser-extensions)
-1. [On-Page SEO](#on-page-seo)
 1. [Miscellaneous Tools](#miscellaneous-tools)
 
 
@@ -131,6 +130,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [Sitebulb](https://sitebulb.com/) - The website auditing tool for SEO consultants and agencies
 
+- [Moz On-Page Grader](https://moz.com/tools/onpage-grader) - Analyzes individual page optimization.
+
 
 ## Local SEO
 Boost your local presence and connect with audiences in your community.
@@ -160,14 +161,6 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [MozBar](https://moz.com/products/pro/seo-toolbar) - Provides instant metrics for any page or SERP.
 
 - [Ahrefs' SEO Toolbar](https://chrome.google.com/webstore/detail/ahrefs-seo-toolbar-on-pag/hgmoccdbjhknikckedaaebbpdeebhiei) - On-page SEO report, broken link checker, redirect tracer, and country changer for search results in one extension.
-
-## On-Page SEO
-
-- [Yoast SEO (WordPress plugin)](https://yoast.com/wordpress/plugins/seo/) - Helps optimize content for on-page SEO.
-  
-- [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Crawls websites to analyze on-page SEO issues.
-  
-- [Moz On-Page Grader](https://moz.com/tools/onpage-grader) - Analyzes individual page optimization.
 
 ## Miscellaneous Tools
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
