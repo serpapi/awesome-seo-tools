@@ -55,10 +55,6 @@ PPC and social media marketing from just one platform.
 
 - [Data Provider](https://www.dataprovider.com/) - SEO tool to Real time Website Analysis, Security and Business Infomation
 
-- [UseTopic](https://www.usetopic.com/) - SEO & Digital marketing tool for Keyword Research, Website Traffic Analysis and enterprise SEO solutions.
-
-- [Barracuda](https://barracuda.digital/) - SEO and Digital marketing tool Real Time Analytics, Keyword Research and more
-
 - [HigherVisibility](https://www.highervisibility.com/) - SEO tools , Digital Marketing , PPC managment and more
 
   
@@ -118,7 +114,7 @@ Don't leave your SEO strategy up to chance. Surfer will give you a SEO workflow 
 
 - [Yoast SEO](https://yoast.com/) - WordPress plugin for SEO optimization of posts and pages.
 
-
+- [UseTopic](https://www.usetopic.com/) - SEO & Digital marketing tool for Keyword Research, Website Traffic Analysis and enterprise SEO solutions.
 
 ## Rank Tracking
 Monitor your website's position in search results and gauge your SEO strategies' effectiveness.
