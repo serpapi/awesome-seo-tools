@@ -170,6 +170,15 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 - Broken Link Checker - Detects and reports broken links on websites.
 
 
+## Meta Tags Tools
+
+Create new meta tags or analyze the existing ones to get an in-depth analysis of your meta tags and web pages.
+
+Small SEO Tools - https://smallseotools.com/meta-tags-analyzer/
+
+SmallSEO Tools - https://smallseotools.com/tag-generator/
+
+
 ---
 
 Happy optimizing! 🚀
