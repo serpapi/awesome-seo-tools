@@ -22,7 +22,9 @@ If you know any other SEO tools that deserve to be on this list, feel free to op
 1. [Technical SEO](#technical-seo)
 1. [Local SEO](#local-seo)
 1. [SEO Browser Extensions](#seo-browser-extensions)
+1. Google PageSpeed Insights(#Google-PageSpeed-Insights)
 1. [Miscellaneous Tools](#miscellaneous-tools)
+
 
 
 ## All in one SEO tools
@@ -159,6 +161,12 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [MozBar](https://moz.com/products/pro/seo-toolbar) - Provides instant metrics for any page or SERP.
 
 - [Ahrefs' SEO Toolbar](https://chrome.google.com/webstore/detail/ahrefs-seo-toolbar-on-pag/hgmoccdbjhknikckedaaebbpdeebhiei) - On-page SEO report, broken link checker, redirect tracer, and country changer for search results in one extension.
+##Google PageSpeed Insights
+Check the speed and usability of your site on multiple devices
+
+Enter a URL, and this tool will test the loading time and performance for that URL on desktop and mobile. It then grades your site’s performance on a score from 0 - 100. It tells you exactly how fast it takes to load the site according to different metrics and also suggests areas for improvement.
+
+
 
 ## Miscellaneous Tools
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
