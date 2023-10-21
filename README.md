@@ -71,6 +71,8 @@ Uncover high-potential keywords to target and captivate your audience.
 
 - [LONG TAIL PRO](https://longtailpro.com/) - The Best Keyword Research Tool for Long Tail Keywords.
 
+- [Ubersuggest](https://neilpatel.com/ubersuggest/) - Free Keyword Research Tool by Neil Patel
+
 
 ## Backlink Analysis
 Delve deep into your link profile and discover opportunities for growth and risk mitigation.
