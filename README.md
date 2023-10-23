@@ -130,6 +130,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [Sitebulb](https://sitebulb.com/) - The website auditing tool for SEO consultants and agencies
 
+- [Moz On-Page Grader](https://moz.com/tools/onpage-grader) - Analyzes individual page optimization.
+
 
 ## Local SEO
 Boost your local presence and connect with audiences in your community.
@@ -162,6 +164,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [Redirect Path](https://chrome.google.com/webstore/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll?hl=en) - The HTTP Header & Redirect Checker for SEO.
 
+- [META SEO inspector](https://chrome.google.com/webstore/detail/meta-seo-inspector/ibkclpciafdglkjkcibmohobjkcfkaef?hl=en) - Easily inspect the meta data found inside web pages, find issues and get advices to fix them.
+  
 ## Miscellaneous Tools
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
 
