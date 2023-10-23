@@ -114,7 +114,7 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [AccuRanker](https://www.accuranker.com/) - The World's Fastest & Most Accurate Rank Tracker
 
-- [Nightwatch](https://nightwatch.io/) -  Nightwatch is a cloud-based SEO and analytics tool that focuses on rank tracking and reporting. It offers keyword tracking across multiple search engines, competitor analysis, and integration with Google Analytics and Google Search Console.
+- [Nightwatch](https://nightwatch.io/) -  Nightwatch is a cloud-based SEO and analytics tool that focuses on rank tracking and reporting.
 
 - Other "All in one SEO tools" offer this feature as well.
 
