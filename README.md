@@ -162,6 +162,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [Ahrefs' SEO Toolbar](https://chrome.google.com/webstore/detail/ahrefs-seo-toolbar-on-pag/hgmoccdbjhknikckedaaebbpdeebhiei) - On-page SEO report, broken link checker, redirect tracer, and country changer for search results in one extension.
 
+- [Redirect Path](https://chrome.google.com/webstore/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll?hl=en) - The HTTP Header & Redirect Checker for SEO.
+
 - [META SEO inspector](https://chrome.google.com/webstore/detail/meta-seo-inspector/ibkclpciafdglkjkcibmohobjkcfkaef?hl=en) - Easily inspect the meta data found inside web pages, find issues and get advices to fix them.
   
 ## Miscellaneous Tools
