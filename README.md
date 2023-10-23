@@ -165,6 +165,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [Redirect Path](https://chrome.google.com/webstore/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll?hl=en) - The HTTP Header & Redirect Checker for SEO.
 
 - [META SEO inspector](https://chrome.google.com/webstore/detail/meta-seo-inspector/ibkclpciafdglkjkcibmohobjkcfkaef?hl=en) - Easily inspect the meta data found inside web pages, find issues and get advices to fix them.
+
+- [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp?hl=en) - Instant website analysis, including site rank, site traffic, sources and geography.
   
 ## Miscellaneous Tools
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
