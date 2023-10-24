@@ -53,6 +53,9 @@ PPC and social media marketing from just one platform.
 
 - [Zutrix](https://zutrix.com/) - SEO Tools to Boost your Traffic.
 
+- [BrightEdge](https://www.brightedge.com/) -  BrightEdge is an enterprise SEO platform for data-driven content optimization and competitive analysis, ideal for large businesses.
+
+- [CognitiveSEO](https://cognitiveseo.com/)- This tool provides comprehensive backlink analysis and content auditing to enhance your SEO strategy.
 
 ## Keyword Research
 Uncover high-potential keywords to target and captivate your audience.
