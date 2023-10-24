@@ -137,6 +137,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [Moz On-Page Grader](https://moz.com/tools/onpage-grader) - Analyzes individual page optimization.
 
+- [BROWSEO](https://www.browseo.net) - See your site through the eyes of a search engine. BROWSEO gives you the type of x-ray vision that search engines have.
+
 
 ## Local SEO
 Boost your local presence and connect with audiences in your community.
