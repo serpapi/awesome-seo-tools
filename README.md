@@ -53,6 +53,9 @@ PPC and social media marketing from just one platform.
 
 - [Zutrix](https://zutrix.com/) - SEO Tools to Boost your Traffic.
 
+- [BrightEdge](https://www.brightedge.com/) -  BrightEdge is an enterprise SEO platform for data-driven content optimization and competitive analysis, ideal for large businesses.
+
+- [CognitiveSEO](https://cognitiveseo.com/)- This tool provides comprehensive backlink analysis and content auditing to enhance your SEO strategy.
 
 ## Keyword Research
 Uncover high-potential keywords to target and captivate your audience.
@@ -114,6 +117,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [AccuRanker](https://www.accuranker.com/) - The World's Fastest & Most Accurate Rank Tracker
 
+- [Nightwatch](https://nightwatch.io/) -  Nightwatch is a cloud-based SEO and analytics tool that focuses on rank tracking and reporting.
+
 - Other "All in one SEO tools" offer this feature as well.
 
 
@@ -167,6 +172,9 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [META SEO inspector](https://chrome.google.com/webstore/detail/meta-seo-inspector/ibkclpciafdglkjkcibmohobjkcfkaef?hl=en) - Easily inspect the meta data found inside web pages, find issues and get advices to fix them.
 
 - [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp?hl=en) - Instant website analysis, including site rank, site traffic, sources and geography.
+
+- [MST SERP Counter](https://chrome.google.com/webstore/detail/mst-serp-counter-seo-free/dgpekiojagcbjhgfpmmngnkchekcfifn) - SERP Counter gives accurate search result of searched keyword.We Can see position of result or rank.
+
   
 ## Miscellaneous Tools
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
