@@ -177,7 +177,7 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [MST SERP Counter](https://chrome.google.com/webstore/detail/mst-serp-counter-seo-free/dgpekiojagcbjhgfpmmngnkchekcfifn) - SERP Counter gives accurate search result of searched keyword.We Can see position of result or rank.
 
-- [Text Optimizer] (https://chrome.google.com/webstore/detail/textoptimizer/fdbbkmpdjmpnebmdgbhcodhlafiicnkd) - It analyzes search results for relevant terms and extracts “intent tables” to suggest other words that you can use in your copy “to better match search engines’ expectations.”
+- [TextOptimizer] (https://chrome.google.com/webstore/detail/textoptimizer/fdbbkmpdjmpnebmdgbhcodhlafiicnkd) - It analyzes search results for relevant terms and extracts “intent tables” to suggest other words that you can use in your copy “to better match search engines’ expectations.”
 
   
 ## Miscellaneous Tools
