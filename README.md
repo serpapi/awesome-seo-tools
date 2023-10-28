@@ -176,7 +176,7 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp?hl=en) - Instant website analysis, including site rank, site traffic, sources and geography.
 
 - [MST SERP Counter](https://chrome.google.com/webstore/detail/mst-serp-counter-seo-free/dgpekiojagcbjhgfpmmngnkchekcfifn) - SERP Counter gives accurate search result of searched keyword.We Can see position of result or rank.
-
+- [Hunter](https://chrome.google.com/webstore/detail/hunter/hgmhmanijnjhaffoampdlllchpolkdnj?hl=en) - This extension from Hunter finds email addresses associated with the website that you’re visiting. You get 50 free credits per month. There’s also a Google Sheets add-on for fast bulk-checking.
   
 ## Miscellaneous Tools
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
