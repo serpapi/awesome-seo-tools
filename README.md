@@ -177,6 +177,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [MST SERP Counter](https://chrome.google.com/webstore/detail/mst-serp-counter-seo-free/dgpekiojagcbjhgfpmmngnkchekcfifn) - SERP Counter gives accurate search result of searched keyword.We Can see position of result or rank.
 
+- [Data Scraper] (https://chrome.google.com/webstore/detail/data-scraper-easy-web-scr/nndknepjnldbdbepjfgmncbggmopgden) - Data Scraper allows you to extract various data from any webpage and save it onto a spreadsheet.
+
   
 ## Miscellaneous Tools
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
