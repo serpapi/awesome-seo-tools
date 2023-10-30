@@ -191,6 +191,7 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [Broken Link Checker](https://www.brokenlinkcheck.com/) - Detects and reports broken links on websites.
 
+- [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
 ---
 
