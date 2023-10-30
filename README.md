@@ -106,6 +106,8 @@ Don't leave your SEO strategy up to chance. Surfer will give you a SEO workflow 
 
 - [Yoast SEO](https://yoast.com/) - WordPress plugin for SEO optimization of posts and pages.
 
+- [Superseo tips](https://superseo.tips/) - Actionable Tips to improve the website's SEO
+
 
 
 ## Rank Tracking
