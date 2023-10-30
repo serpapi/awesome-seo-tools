@@ -176,16 +176,20 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp?hl=en) - Instant website analysis, including site rank, site traffic, sources and geography.
 
 - [MST SERP Counter](https://chrome.google.com/webstore/detail/mst-serp-counter-seo-free/dgpekiojagcbjhgfpmmngnkchekcfifn) - SERP Counter gives accurate search result of searched keyword.We Can see position of result or rank.
+
 - [SEO Search Simulator](https://chrome.google.com/webstore/detail/seo-search-simulator-by-n/edfjfgjklednkencfhnokmkajbgfhpon?hl=en) - With this extension, you can emulate Google searches from any location and check if a particular URL ranks in the top 100 results.
+
+- [BuzzSumo](https://chrome.google.com/webstore/detail/buzzsumo/phpihcpfhciibkmlllgcjkbmhhpcaojc?hl=en) - Browser Extension that packs a punch when it comes to content research, link analysis, and social media investigation
+
   
 ## Miscellaneous Tools
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
 
-- GTmetrix - Analyzes site speed and provides performance insights.
+- [GTmetrix](https://gtmetrix.com/) - Analyzes site speed and provides performance insights.
 
-- Pingdom - Tests website load time and gives performance analysis.
+- [Pingdom](https://tools.pingdom.com/) - Tests website load time and gives performance analysis.
 
-- Broken Link Checker - Detects and reports broken links on websites.
+- [Broken Link Checker](https://www.brokenlinkcheck.com/) - Detects and reports broken links on websites.
 
 
 ---
