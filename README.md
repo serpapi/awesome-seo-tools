@@ -191,7 +191,7 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [Broken Link Checker](https://www.brokenlinkcheck.com/) - Detects and reports broken links on websites.
 
-- [Niche Insights](https://nicheinsights.org) - Database of 75,000 profitible niche websites
+- [Niche Insights](https://nicheinsights.org) - Database of 75,000 profitable niche websites
 ---
 
 Happy optimizing! 🚀
