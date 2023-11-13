@@ -177,6 +177,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [MST SERP Counter](https://chrome.google.com/webstore/detail/mst-serp-counter-seo-free/dgpekiojagcbjhgfpmmngnkchekcfifn) - SERP Counter gives accurate search result of searched keyword.We Can see position of result or rank.
 
+- [TextOptimizer] (https://chrome.google.com/webstore/detail/textoptimizer/fdbbkmpdjmpnebmdgbhcodhlafiicnkd) - It analyzes search results for relevant terms and extracts “intent tables” to suggest other words that you can use in your copy “to better match search engines’ expectations.”
+
 - [SEO Search Simulator](https://chrome.google.com/webstore/detail/seo-search-simulator-by-n/edfjfgjklednkencfhnokmkajbgfhpon?hl=en) - With this extension, you can emulate Google searches from any location and check if a particular URL ranks in the top 100 results.
 
 - [BuzzSumo](https://chrome.google.com/webstore/detail/buzzsumo/phpihcpfhciibkmlllgcjkbmhhpcaojc?hl=en) - Browser Extension that packs a punch when it comes to content research, link analysis, and social media investigation
