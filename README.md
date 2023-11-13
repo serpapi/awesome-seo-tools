@@ -183,7 +183,16 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [BuzzSumo](https://chrome.google.com/webstore/detail/buzzsumo/phpihcpfhciibkmlllgcjkbmhhpcaojc?hl=en) - Browser Extension that packs a punch when it comes to content research, link analysis, and social media investigation
 
-  
+## Validator / Checker
+
+- [Broken Link Checker](https://www.brokenlinkcheck.com/) - Detects and reports broken links on websites.
+
+- [Robots.txt Checker](https://support.google.com/webmasters/answer/6062598?hl=en) - Checks robots.txt files for errors.
+
+- [Lighthouse Rich Result Checker](https://search.google.com/test/rich-results) - Tests whether your website is eligible for rich results in Google Search.
+
+- [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
+
 ## Miscellaneous Tools
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
 
@@ -191,11 +200,6 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [Pingdom](https://tools.pingdom.com/) - Tests website load time and gives performance analysis.
 
-- [Broken Link Checker](https://www.brokenlinkcheck.com/) - Detects and reports broken links on websites.
-
-- [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
-
----
 
 Happy optimizing! 🚀
 
