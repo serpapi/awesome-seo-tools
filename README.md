@@ -81,7 +81,7 @@ Delve deep into your link profile and discover opportunities for growth and risk
 - [Majestic](https://majestic.com/) - Find out who links to your website
 
 - [Monitor Backlinks](https://monitorbacklinks.com/) - Check the good and bad backlinks for you and the competition
-
+- [Respona](https://respona.com/) - The all in one link building tool
 - Other "All in one SEO tools" offer this feature as well.
 
 ## Content Optimization
@@ -177,6 +177,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [MST SERP Counter](https://chrome.google.com/webstore/detail/mst-serp-counter-seo-free/dgpekiojagcbjhgfpmmngnkchekcfifn) - SERP Counter gives accurate search result of searched keyword.We Can see position of result or rank.
 
+- [TextOptimizer](https://chrome.google.com/webstore/detail/textoptimizer/fdbbkmpdjmpnebmdgbhcodhlafiicnkd) - It analyzes search results for relevant terms and extracts “intent tables” to suggest other words that you can use in your copy “to better match search engines’ expectations.”
+
 - [SEO Search Simulator](https://chrome.google.com/webstore/detail/seo-search-simulator-by-n/edfjfgjklednkencfhnokmkajbgfhpon?hl=en) - With this extension, you can emulate Google searches from any location and check if a particular URL ranks in the top 100 results.
 
 - [BuzzSumo](https://chrome.google.com/webstore/detail/buzzsumo/phpihcpfhciibkmlllgcjkbmhhpcaojc?hl=en) - Browser Extension that packs a punch when it comes to content research, link analysis, and social media investigation
@@ -184,6 +186,17 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [Google Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) - Browser Extension that offers detailed reports and actionable tips for enhancing your site's SEO performance such as Page load speeds, Accessibility, SEO and more.
 
   
+## Validator / Checker
+
+- [Broken Link Checker](https://www.brokenlinkcheck.com/) - Detects and reports broken links on websites.
+
+- [Robots.txt Checker](https://support.google.com/webmasters/answer/6062598?hl=en) - Checks robots.txt files for errors.
+
+- [Lighthouse Rich Result Checker](https://search.google.com/test/rich-results) - Tests whether your website is eligible for rich results in Google Search.
+
+- [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
+
+
 ## Miscellaneous Tools
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
 
@@ -191,10 +204,6 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [Pingdom](https://tools.pingdom.com/) - Tests website load time and gives performance analysis.
 
-- [Broken Link Checker](https://www.brokenlinkcheck.com/) - Detects and reports broken links on websites.
-
-
----
 
 Happy optimizing! 🚀
 
