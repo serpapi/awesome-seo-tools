@@ -179,16 +179,21 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [TextOptimizer] (https://chrome.google.com/webstore/detail/textoptimizer/fdbbkmpdjmpnebmdgbhcodhlafiicnkd) - It analyzes search results for relevant terms and extracts “intent tables” to suggest other words that you can use in your copy “to better match search engines’ expectations.”
 
+- [SEO Search Simulator](https://chrome.google.com/webstore/detail/seo-search-simulator-by-n/edfjfgjklednkencfhnokmkajbgfhpon?hl=en) - With this extension, you can emulate Google searches from any location and check if a particular URL ranks in the top 100 results.
+
+- [BuzzSumo](https://chrome.google.com/webstore/detail/buzzsumo/phpihcpfhciibkmlllgcjkbmhhpcaojc?hl=en) - Browser Extension that packs a punch when it comes to content research, link analysis, and social media investigation
+
   
 ## Miscellaneous Tools
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
 
-- GTmetrix - Analyzes site speed and provides performance insights.
+- [GTmetrix](https://gtmetrix.com/) - Analyzes site speed and provides performance insights.
 
-- Pingdom - Tests website load time and gives performance analysis.
+- [Pingdom](https://tools.pingdom.com/) - Tests website load time and gives performance analysis.
 
-- Broken Link Checker - Detects and reports broken links on websites.
+- [Broken Link Checker](https://www.brokenlinkcheck.com/) - Detects and reports broken links on websites.
 
+- [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
 ---
 
