@@ -59,6 +59,8 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 
 - [CognitiveSEO](https://cognitiveseo.com/)- This tool provides comprehensive backlink analysis and content auditing to enhance your SEO strategy.
 
+- [Keyword Insights](https://www.keywordinsights.ai/) - Make Better Content Faster. Much Faster. Transform Your Content and SEO Strategy with AI.
+
 ## Keyword Research
 
 Uncover high-potential keywords to target and captivate your audience.
