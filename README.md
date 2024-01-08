@@ -61,6 +61,8 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 
 - [Keyword Insights](https://www.keywordinsights.ai/) - Make Better Content Faster. Much Faster. Transform Your Content and SEO Strategy with AI.
 
+- [Seobility](https://www.seobility.net/en/) - An all-in-one SEO software offering useful tools such as website crawling, Google rank tracker, backlink checker, continuous monitoring and whitelabel reporting.
+
 ## Keyword Research
 
 Uncover high-potential keywords to target and captivate your audience.
@@ -126,6 +128,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [Nightwatch](https://nightwatch.io/) - Nightwatch is a cloud-based SEO and analytics tool that focuses on rank tracking and reporting.
 
+- [Keyword.com](https://keyword.com/) – Track, pinpoint and validate your SEO efforts with real-time accurate rank tracking and Share of Voice features.
+
 - Other "All in one SEO tools" offer this feature as well.
 
 ## Technical SEO
@@ -145,6 +149,8 @@ Ensure your website's foundation is solid for search engines and user experience
 - [Moz On-Page Grader](https://moz.com/tools/onpage-grader) - Analyzes individual page optimization.
 
 - [BROWSEO](https://www.browseo.net) - See your site through the eyes of a search engine. BROWSEO gives you the type of x-ray vision that search engines have.
+
+- [Prerender](https://prerender.io/) – Prerender serves 100% cached versions of your web pages to search engine bots that have problems executing JavaScript optimizing your [crawl budget](https://prerender.io/resources/free-downloads/white-papers/crawl-budget-guide/).
 
 ## Local SEO
 
