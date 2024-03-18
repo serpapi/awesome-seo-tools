@@ -32,8 +32,7 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 
 - [Ahrefs](https://ahrefs.com/) - Everything you need to rank higher & get more traffic.
 
-- [SEMrush](https://www.semrush.com/lp/keyword-research-b/) - Do SEO, content marketing, competitor research,
-  PPC and social media marketing from just one platform.
+- [SEMrush](https://www.semrush.com/lp/keyword-research-b/) - Do SEO, content marketing, competitor research, PPC and social media marketing from just one platform.
 
 - [Seodity](https://seodity.com/) - Seodity is a complete SEO toolkit to grow your business.
 
@@ -78,16 +77,18 @@ Uncover high-potential keywords to target and captivate your audience.
 - [Semrush's Keyword Magic Tool](https://www.semrush.com/analytics/keywordmagic/start) - Find millions of keyword suggestions for your SEO.
 
 - [Long Tail Pro](https://longtailpro.com/) - The best keyword research tool for long tail keywords.
+  
+- [Seoformulas](https://www.seoformulas.com) - Discover untapped keywords and build powerful SEO formulas to rank higher in the SERPs.
 
 ## Backlink Analysis
 
 Delve deep into your link profile and discover opportunities for growth and risk mitigation.
 
-- [Majestic](https://majestic.com/) - Find out who links to your website
+- [Majestic](https://majestic.com/) - Find out who links to your website.
 
 - [Monitor Backlinks](https://monitorbacklinks.com/) - Check the good and bad backlinks for you and the competition.
 
-- [Respona](https://respona.com/) - The all in one link building tool
+- [Respona](https://respona.com/) - The all in one link building tool.
 
 - Other "All in one SEO tools" offer this feature as well.
 
@@ -97,8 +98,7 @@ Fine-tune your content to resonate with search algorithms and your audience alik
 
 - [Clearscope](https://www.clearscope.io/) - Clearscope is the best-in-class SEO content optimization platform that drives search traffic.
 
-- [SurferSEO](https://surferseo.com/) -
-  Don't leave your SEO strategy up to chance. Surfer will give you a SEO workflow to boost your organic traffic, increase your visibility, and improve your rank.
+- [SurferSEO](https://surferseo.com/) - Don't leave your SEO strategy up to chance. Surfer will give you a SEO workflow to boost your organic traffic, increase your visibility, and improve your rank.
 
 - [NeuronWriter](https://neuronwriter.com/) - Optimize your website content so Google adores it.
 
