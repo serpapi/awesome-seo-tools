@@ -126,8 +126,6 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [Nightwatch](https://nightwatch.io/) - Nightwatch is a cloud-based SEO and analytics tool that focuses on rank tracking and reporting.
 
-- [SEO Gets](https://seogets.com/) - Privacy-focused analytics tool built to replace Google Search Console for Agencies and Affiliates.
-
 - Other "All in one SEO tools" offer this feature as well.
 
 ## Technical SEO
@@ -161,6 +159,12 @@ Boost your local presence and connect with audiences in your community.
 - [Grid My Business](https://gridmybusiness.com/) - The quickest way to discover your local visibility.
 
 - [Moz Local](https://moz.com/products/local) - Maximize your online visibility with Moz's powerful local SEO and reputation management tool.
+
+## SEO Analytics
+
+- [Google Search Console](https://search.google.com/search-console/about) - Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results
+ 
+- [SEO Gets](https://seogets.com/) - Privacy-focused analytics tool built to replace Google Search Console for Agencies and Affiliates.
 
 ## SEO Browser Extensions
 
