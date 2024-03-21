@@ -126,6 +126,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [Nightwatch](https://nightwatch.io/) - Nightwatch is a cloud-based SEO and analytics tool that focuses on rank tracking and reporting.
 
+- [SEO Gets](https://seogets.com/) - Privacy-focused analytics tool built to replace Google Search Console for Agencies and Affiliates.
+
 - Other "All in one SEO tools" offer this feature as well.
 
 ## Technical SEO
