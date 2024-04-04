@@ -148,6 +148,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [linkok.com](https://linkok.com) - A modern broken link checker.
 
+- [SEOnaut](https://seonaut.org) - Open source SEO auditing tool.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
