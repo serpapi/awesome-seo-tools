@@ -148,6 +148,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [linkok.com](https://linkok.com) - A modern broken link checker.
 
+- [SEO Programming](https://seo-programming.com/) - Learn how to improve your SEO with code.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
