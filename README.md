@@ -56,11 +56,13 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 
 - [BrightEdge](https://www.brightedge.com/) - BrightEdge is an enterprise SEO platform for data-driven content optimization and competitive analysis, ideal for large businesses.
 
-- [CognitiveSEO](https://cognitiveseo.com/)- This tool provides comprehensive backlink analysis and content auditing to enhance your SEO strategy.
+- [CognitiveSEO](https://cognitiveseo.com/) - This tool provides comprehensive backlink analysis and content auditing to enhance your SEO strategy.
 
 - [Keyword Insights](https://www.keywordinsights.ai/) - Make Better Content Faster. Much Faster. Transform Your Content and SEO Strategy with AI.
 
 - [Clicks.so](https://www.clicks.so/) - The Beginner-Friendly Affordable SEO Tool.
+
+- [SEO Utils](https://seoutils.app/) - An SEO desktop application built for macOS, Windows, Linux.
 
 ## Keyword Research
 
