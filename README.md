@@ -2,7 +2,9 @@
 
 # Awesome SEO tools
 
-Curated list of awesome SEO (Search Engine Optimization) tools to help improve your website's ranking and visibility on search engines.
+A curated list of awesome SEO (Search Engine Optimization) tools to help improve your website's ranking and visibility on search engines.
+
+> This repo is maintained by [SerpApi](https://serpapi.com?utm_source=awesome-seo-tools) team: "Scrape Google and other search engines from our fast, easy, and complete API."
 
 ## Contributing
 
@@ -229,4 +231,4 @@ Happy optimizing! 🚀
 
 ## Information
 
-This repo is maintained by [SerpApi](https://serpapi.com/) team: "Scrape Google and other search engines from our fast, easy, and complete API."
+This repo is maintained by [SerpApi](https://serpapi.com?utm_source=awesome-seo-tools) team: "Scrape Google and other search engines from our fast, easy, and complete API."
