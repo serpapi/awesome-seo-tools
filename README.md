@@ -60,6 +60,8 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 
 - [Keyword Insights](https://www.keywordinsights.ai/) - Make Better Content Faster. Much Faster. Transform Your Content and SEO Strategy with AI.
 
+- [Clicks.so](https://www.clicks.so/) - The Beginner-Friendly Affordable SEO Tool.
+
 ## Keyword Research
 
 Uncover high-potential keywords to target and captivate your audience.
