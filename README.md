@@ -96,6 +96,8 @@ Delve deep into your link profile and discover opportunities for growth and risk
 
 - [Respona](https://respona.com/) - The all in one link building tool.
 
+- [BacklinkGPT](https://www.backlinkgpt.com/) - An AI-powered link-building platform that helps you find backlink prospects and generate personalized outreach messages for faster link building.
+
 - Other "All in one SEO tools" offer this feature as well.
 
 ## Content Optimization
