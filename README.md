@@ -87,7 +87,9 @@ Uncover high-potential keywords to target and captivate your audience.
 - [Long Tail Pro](https://longtailpro.com/) - The best keyword research tool for long tail keywords.
   
 - [Seoformulas](https://www.seoformulas.com) - Discover untapped keywords and build powerful SEO formulas to rank higher in the SERPs.
-
+  
+- [Serp Miner](https://serpminer.com/free-seo-tools) Free Keyword Research Tools: Find long-tail keywords using Google Autocomplete and check the exact search volume of keywords in bulk.
+  
 ## Backlink Analysis
 
 Delve deep into your link profile and discover opportunities for growth and risk mitigation.
