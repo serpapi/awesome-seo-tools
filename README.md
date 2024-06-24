@@ -140,7 +140,7 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [Nightwatch](https://nightwatch.io/) - Nightwatch is a cloud-based SEO and analytics tool that focuses on rank tracking and reporting.
 
-- [DAXRM](https://www.daxrm.com/](https://www.daxrm.com/integrations/rank-tracker/) - Real-time SEO keyword rank tracking with multiple locations and devices
+- [DAXRM](https://www.daxrm.com/integrations/rank-tracker/) - Real-time SEO keyword rank tracking with multiple locations and devices
 
 - Other "All in one SEO tools" offer this feature as well.
 
