@@ -168,6 +168,7 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [PressProxy](https://pressproxy.io/) - No-code tool to serve blog.domain.tld on domain.tld/blog using Cloudflare Workers. 
 
+- [SEOnaut](https://seonaut.org) - Open source technical SEO auditing tool.
 
 ## Local SEO
 
