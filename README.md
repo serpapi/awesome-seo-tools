@@ -91,6 +91,8 @@ Uncover high-potential keywords to target and captivate your audience.
 - [Serp Miner](https://serpminer.com/free-seo-tools) Free Keyword Research Tools: Find long-tail keywords using Google Autocomplete and check the exact search volume of keywords in bulk.
 
 - [kwrds.ai](https://www.kwrds.ai) - Find great keywords & questions people are asking.
+
+- [AnswerThePublic](https://answerthepublic.com/) - AnswerThePublic visualizes search questions and autocomplete searches in an easy-to-digest keyword research tool that helps you create content ideas.
   
 ## Backlink Analysis
 
@@ -171,6 +173,8 @@ Ensure your website's foundation is solid for search engines and user experience
 - [Wizardstool](https://wizardstool.com/) - A tool to check broken links.
 
 - [SEOnaut](https://seonaut.org) - Open source technical SEO auditing tool.
+
+- [Siteliner](https://www.siteliner.com/) -  Siteliner is a free tool that helps identify duplicate content, broken links, and other issues that affect your site's quality and search engine rankings.
 
 ## Local SEO
 
