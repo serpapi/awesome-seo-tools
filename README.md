@@ -166,7 +166,9 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [linkok.com](https://linkok.com) - A modern broken link checker.
 
-- [PressProxy](https://pressproxy.io/) - No-code tool to serve blog.domain.tld on domain.tld/blog using Cloudflare Workers. 
+- [PressProxy](https://pressproxy.io/) - No-code tool to serve blog.domain.tld on domain.tld/blog using Cloudflare Workers.
+
+- [Wizardstool](https://wizardstool.com/) - A tool to check broken links.
 
 - [SEOnaut](https://seonaut.org) - Open source technical SEO auditing tool.
 
