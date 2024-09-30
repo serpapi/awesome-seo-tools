@@ -68,6 +68,8 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 
 - [Spexia](https://getspexia.com) - All in one tool to create & optimize informational content (specialized on ECom shops).
 
+- [Rank Math](https://rankmath.com/)  - A powerful WordPress SEO plugin that simplifies optimizing content with built-in suggestions.
+
 ## Keyword Research
 
 Uncover high-potential keywords to target and captivate your audience.
@@ -189,6 +191,8 @@ Boost your local presence and connect with audiences in your community.
 - [Grid My Business](https://gridmybusiness.com/) - The quickest way to discover your local visibility.
 
 - [Moz Local](https://moz.com/products/local) - Maximize your online visibility with Moz's powerful local SEO and reputation management tool.
+
+- [Yext](https://www.yext.com/index.html) - Manage your business listings across directories and monitor reviews to enhance your local SEO presence.
 
 ## SEO Analytics
 
