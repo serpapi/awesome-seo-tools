@@ -132,6 +132,8 @@ Fine-tune your content to resonate with search algorithms and your audience alik
 
 - [SearchSocket](https://searchsocket.com/) - A free AI-powered tool that provides real-time SEO suggestions to improve content alignment with Google's guidelines.
 
+- [BlogBud AI](https://blogbud.ai) - Generate SEO-optimized articles and export directly to your CMS (WordPress, Webflow, Ghost, Shopify)
+
 ## Rank Tracking
 
 Monitor your website's position in search results and gauge your SEO strategies' effectiveness.
