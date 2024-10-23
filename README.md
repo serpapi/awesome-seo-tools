@@ -135,7 +135,9 @@ Fine-tune your content to resonate with search algorithms and your audience alik
 - [BlogBud AI](https://blogbud.ai) - Generate SEO-optimized articles and export directly to your CMS (WordPress, Webflow, Ghost, Shopify)
 
 - [GrackerAI](https://gracker.ai/) - AI Editorial and Programtic SEO solution for B2B Cybersecurity SaaS companies.
-  
+ 
+- [TailorTask](https://www.tailortask.ai/) - TailorTask's AI agents propose internal links, rewrite micro-copy, write guest posts, and do more SEO content tasks.
+ 
 ## Rank Tracking
 
 Monitor your website's position in search results and gauge your SEO strategies' effectiveness.
