@@ -232,6 +232,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [Google Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) - Browser Extension that offers detailed reports and actionable tips for enhancing your site's SEO performance such as Page load speeds, Accessibility, SEO and more.
 
+- [Checkbot SEO checker](https://www.checkbot.io/) - Chrome extension that crawls 100s of pages at the same time checking for 50+ common website SEO, page speed and security problems. 
+
   
 ## Validator / Checker
 
