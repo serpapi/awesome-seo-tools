@@ -106,6 +106,8 @@ Delve deep into your link profile and discover opportunities for growth and risk
 
 - [BacklinkGPT](https://www.backlinkgpt.com/) - An AI-powered link-building platform that helps you find backlink prospects and generate personalized outreach messages for faster link building.
 
+- [YouLinker](https://youlinker.pro/) - Submit your product to multiple directories.
+
 - Other "All in one SEO tools" offer this feature as well.
 
 ## Content Optimization
@@ -136,8 +138,10 @@ Fine-tune your content to resonate with search algorithms and your audience alik
 
 - [GrackerAI](https://gracker.ai/) - AI Editorial and Programtic SEO solution for B2B Cybersecurity SaaS companies.
 
+- [TailorTask](https://www.tailortask.ai/solutions/for-seo) - A.I. agents to automate internal linking, guest blog proposals, blog post creation, and more.
+
 - [SearchAttention](https://searchattention.com) - Optimize your content for AI Search Engines like Google AI Overview, Perplexity or SearchGPT.
-  
+ 
 ## Rank Tracking
 
 Monitor your website's position in search results and gauge your SEO strategies' effectiveness.
@@ -233,6 +237,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [BuzzSumo](https://chrome.google.com/webstore/detail/buzzsumo/phpihcpfhciibkmlllgcjkbmhhpcaojc?hl=en) - Browser Extension that packs a punch when it comes to content research, link analysis, and social media investigation.
 
 - [Google Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) - Browser Extension that offers detailed reports and actionable tips for enhancing your site's SEO performance such as Page load speeds, Accessibility, SEO and more.
+
+- [Checkbot SEO checker](https://www.checkbot.io/) - Chrome extension that crawls 100s of pages at the same time checking for 50+ common website SEO, page speed and security problems. 
 
   
 ## Validator / Checker
