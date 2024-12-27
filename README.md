@@ -68,6 +68,8 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 
 - [Spexia](https://getspexia.com) - All in one tool to create & optimize informational content (specialized on ECom shops).
 
+- [DiagnoSEO](https://diagnoseo.com/) - AI-powered tools for SEO and content marketing, including a WordPress SEO plugin.
+
 ## Keyword Research
 
 Uncover high-potential keywords to target and captivate your audience.
