@@ -70,6 +70,8 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 
 - [DiagnoSEO](https://diagnoseo.com/) - AI-powered tools for SEO and content marketing, including a WordPress SEO plugin.
 
+- [Telescope](https://withtelescope.com/) - All-in-One, affordable SEO toolkit that features keyword research, technical SEO audits, keyword rank tracking, internal linking opportunities, and more.
+
 ## Keyword Research
 
 Uncover high-potential keywords to target and captivate your audience.
