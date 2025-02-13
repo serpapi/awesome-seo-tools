@@ -72,6 +72,8 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 
 - [Telescope](https://withtelescope.com/) - All-in-One, affordable SEO toolkit that features keyword research, technical SEO audits, keyword rank tracking, internal linking opportunities, and more.
 
+- [DAXRM](https://www.daxrm.com/) - DAXRM is the all-in-one Digital Marketing CRM designed for agencies. Manage SEO, PPC, client reporting, and team collaboration in one seamless platform.
+
 ## Keyword Research
 
 Uncover high-potential keywords to target and captivate your audience.
