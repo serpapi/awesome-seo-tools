@@ -97,6 +97,8 @@ Uncover high-potential keywords to target and captivate your audience.
 - [kwrds.ai](https://www.kwrds.ai) - Find great keywords & questions people are asking.
 
 - [AnswerThePublic](https://answerthepublic.com/) - AnswerThePublic visualizes search questions and autocomplete searches in an easy-to-digest keyword research tool that helps you create content ideas.
+
+- [Keywordideas.xyz](https://keywordideas.xyz/) - Get keyword suggestions based on a URL or example keyword from real Google search data.
   
 ## Backlink Analysis
 
@@ -159,6 +161,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 - [Nightwatch](https://nightwatch.io/) - Nightwatch is a cloud-based SEO and analytics tool that focuses on rank tracking and reporting.
 
 - [DAXRM](https://www.daxrm.com/integrations/rank-tracker/) - Real-time SEO keyword rank tracking with multiple locations and devices
+
+- [That's Rank!](https://www.thatisrank.com/) - That's Rank! helps you know and track instantly where your website ranks on Google for every keyword.
 
 - Other "All in one SEO tools" offer this feature as well.
 
