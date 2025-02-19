@@ -149,6 +149,8 @@ Fine-tune your content to resonate with search algorithms and your audience alik
 - [TailorTask](https://www.tailortask.ai/solutions/for-seo) - A.I. agents to automate internal linking, guest blog proposals, blog post creation, and more.
 
 - [SearchAttention](https://searchattention.com) - Optimize your content for AI Search Engines like Google AI Overview, Perplexity or SearchGPT.
+  
+- [OptimalUX](https://optimalux.com/seo-patching) - Seamless SEO patching and A/B testing tool built on Cloudflare for effortless integration.
  
 ## Rank Tracking
 
