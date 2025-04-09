@@ -89,8 +89,6 @@ Uncover high-potential keywords to target and captivate your audience.
 - [Ahrefs' Keywords Generator](https://ahrefs.com/keyword-generator) - Free keyword generator ideas by Ahref.
 
 - [Semrush's Keyword Magic Tool](https://www.semrush.com/analytics/keywordmagic/start) - Find millions of keyword suggestions for your SEO.
-
-- [Long Tail Pro](https://longtailpro.com/) - The best keyword research tool for long tail keywords.
   
 - [Seoformulas](https://www.seoformulas.com) - Discover untapped keywords and build powerful SEO formulas to rank higher in the SERPs.
   
@@ -149,6 +147,8 @@ Fine-tune your content to resonate with search algorithms and your audience alik
 - [TailorTask](https://www.tailortask.ai/solutions/for-seo) - A.I. agents to automate internal linking, guest blog proposals, blog post creation, and more.
 
 - [SearchAttention](https://searchattention.com) - Optimize your content for AI Search Engines like Google AI Overview, Perplexity or SearchGPT.
+
+- [Koala AI](https://koala.sh) - AI-powered platform for SEO content creation, SEO AI agents, internal linking, entity schema generation, and more.
  
 ## Rank Tracking
 
