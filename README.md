@@ -196,6 +196,10 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [Siteliner](https://www.siteliner.com/) -  Siteliner is a free tool that helps identify duplicate content, broken links, and other issues that affect your site's quality and search engine rankings.
 
+- [Black SEO Analyzer](https://github.com/sethblack/black-seo-analyzer) - A professional command-line tool for comprehensive SEO analysis, designed for websites that need to be found in both search results and AI answers.
+
+- [Python SEO Analyzer](https://github.com/sethblack/python-seo-analyzer) - SEO tool that analyzes the structure of a site, crawls the site, counts words in the body of the site, and warns of any technical SEO issues.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
