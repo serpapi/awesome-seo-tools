@@ -276,6 +276,7 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [Core Web Vitals History Checker](http://punits.dev/core-web-vitals-historical/) - Know if the Core Web Vitals for a URL or an origin have improved, degraded or remained stable for the last six months.
 
 Happy optimizing! 🚀
 
