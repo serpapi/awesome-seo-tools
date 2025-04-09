@@ -174,9 +174,9 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [Google Search Console](https://search.google.com/search-console/about) - Free tool from Google to monitor and maintain site's presence in Google Search results.
 
-- [Bing Webmaster Tools] (https://www.bing.com/webmasters/about) - Free tool from Bing to monitore sites presense in Bing Search results. Has some additional tools like Keyword research and Recommendations for technical SEO.
+- [Bing Webmaster Tools](https://www.bing.com/webmasters/about) - Free tool from Bing to monitore sites presense in Bing Search results. Has some additional tools like Keyword research and Recommendations for technical SEO.
 
-- [Yandex Webmaster] (https://webmaster.yandex.com/) - Similar tool from Yandex. 
+- [Yandex Webmaster](https://webmaster.yandex.com/) - Free tool from Yandex to monitor a site's presence in Yandex Search results. Includes features like indexing status, crawl statistics, search query analytics, and recommendations to improve technical SEO.
 
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/#spider-features) - SEO Spider is a website crawler that helps you improve onsite SEO by auditing for common SEO issues.
 
