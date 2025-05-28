@@ -149,6 +149,8 @@ Fine-tune your content to resonate with search algorithms and your audience alik
 - [SearchAttention](https://searchattention.com) - Optimize your content for AI Search Engines like Google AI Overview, Perplexity or SearchGPT.
 
 - [Koala AI](https://koala.sh) - AI-powered platform for SEO content creation, SEO AI agents, internal linking, entity schema generation, and more.
+
+- [AltTextLab](https://www.alttextlab.com/) - AI-powered tool that generates SEO-optimized, accessible alt text for images to improve search visibility.
  
 ## Rank Tracking
 
