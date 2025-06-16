@@ -204,6 +204,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [Python SEO Analyzer](https://github.com/sethblack/python-seo-analyzer) - SEO tool that analyzes the structure of a site, crawls the site, counts words in the body of the site, and warns of any technical SEO issues.
 
+- IncRev JavaScript Crawler https://github.com/VesterlundCoder/SEO-JavaScript-Crawler-IncRev (by https://increv.co) Most Crawlers dont render JavaScript but his one does. Whether you're auditing a React, Vue, or Angular site — this is the tool your stack has been missing.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
