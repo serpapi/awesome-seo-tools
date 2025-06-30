@@ -74,6 +74,8 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 
 - [DAXRM](https://www.daxrm.com/) - DAXRM is the all-in-one Digital Marketing CRM designed for agencies. Manage SEO, PPC, client reporting, and team collaboration in one seamless platform.
 
+- [SEO Toolbox](https://seotoolbox.site) – An all-in-one SEO platform that combines page-by-page analysis with AI powered insights and in-depth report generation, built for everyone from individuals to SEO agencies.
+
 ## Keyword Research
 
 Uncover high-potential keywords to target and captivate your audience.
@@ -261,6 +263,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [Google Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) - Browser Extension that offers detailed reports and actionable tips for enhancing your site's SEO performance such as Page load speeds, Accessibility, SEO and more.
 
 - [Checkbot SEO checker](https://www.checkbot.io/) - Chrome extension that crawls 100s of pages at the same time checking for 50+ common website SEO, page speed and security problems. 
+
+- [SEO Sidebar](https://chromewebstore.google.com/detail/seo-sidebar/gmmiickdcmghfpliaiefhjafccapgmpp) - A browser extension that displays real-time on-page SEO data in a persistent side panel, with one-click export to text reports.
 
   
 ## Validator / Checker
