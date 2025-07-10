@@ -75,6 +75,7 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 - [DAXRM](https://www.daxrm.com/) - DAXRM is the all-in-one Digital Marketing CRM designed for agencies. Manage SEO, PPC, client reporting, and team collaboration in one seamless platform.
 
 - [SEO Toolbox](https://seotoolbox.site) – An all-in-one SEO platform that combines page-by-page analysis with AI powered insights and in-depth report generation, built for everyone from individuals to SEO agencies.
+- [Serplux](https://serplux.com/) - Everything you need to rank higher & get more traffic.
 
 ## Keyword Research
 
@@ -101,6 +102,7 @@ Uncover high-potential keywords to target and captivate your audience.
 - [AnswerThePublic](https://answerthepublic.com/) - AnswerThePublic visualizes search questions and autocomplete searches in an easy-to-digest keyword research tool that helps you create content ideas.
 
 - [Keywordideas.xyz](https://keywordideas.xyz/) - Get keyword suggestions based on a URL or example keyword from real Google search data.
+- [Serplux's Keyword Analyser Agent](https://serplux.com/premium/agent/keyword-analyser) - The Keyword Analyser Agent is an AI-powered SEO assistant that automatically scans your target niche, discovers high-impact keywords, evaluates their search volume and competitive difficulty, and suggests optimal keyword clusters to boost your rankings.
   
 ## Backlink Analysis
 
