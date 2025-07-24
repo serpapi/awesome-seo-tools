@@ -91,9 +91,7 @@ Uncover high-potential keywords to target and captivate your audience.
 - [Ahrefs' Keywords Generator](https://ahrefs.com/keyword-generator) - Free keyword generator ideas by Ahref.
 
 - [Semrush's Keyword Magic Tool](https://www.semrush.com/analytics/keywordmagic/start) - Find millions of keyword suggestions for your SEO.
-  
 - [Seoformulas](https://www.seoformulas.com) - Discover untapped keywords and build powerful SEO formulas to rank higher in the SERPs.
-  
 - [Serp Miner](https://serpminer.com/free-seo-tools) Free Keyword Research Tools: Find long-tail keywords using Google Autocomplete and check the exact search volume of keywords in bulk.
 
 - [kwrds.ai](https://www.kwrds.ai) - Find great keywords & questions people are asking.
@@ -101,7 +99,7 @@ Uncover high-potential keywords to target and captivate your audience.
 - [AnswerThePublic](https://answerthepublic.com/) - AnswerThePublic visualizes search questions and autocomplete searches in an easy-to-digest keyword research tool that helps you create content ideas.
 
 - [Keywordideas.xyz](https://keywordideas.xyz/) - Get keyword suggestions based on a URL or example keyword from real Google search data.
-  
+
 ## Backlink Analysis
 
 Delve deep into your link profile and discover opportunities for growth and risk mitigation.
@@ -153,7 +151,9 @@ Fine-tune your content to resonate with search algorithms and your audience alik
 - [Koala AI](https://koala.sh) - AI-powered platform for SEO content creation, SEO AI agents, internal linking, entity schema generation, and more.
 
 - [AltTextLab](https://www.alttextlab.com/) - AI-powered tool that generates SEO-optimized, accessible alt text for images to improve search visibility.
- 
+
+- [SERPrecon](https://www.serprecon.com/) - Optimize your content with a competitive analysis based on real semantic search metrics. Track AI SOV.
+
 ## Rank Tracking
 
 Monitor your website's position in search results and gauge your SEO strategies' effectiveness.
@@ -202,7 +202,7 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [SEOnaut](https://seonaut.org) - Open source technical SEO auditing tool.
 
-- [Siteliner](https://www.siteliner.com/) -  Siteliner is a free tool that helps identify duplicate content, broken links, and other issues that affect your site's quality and search engine rankings.
+- [Siteliner](https://www.siteliner.com/) - Siteliner is a free tool that helps identify duplicate content, broken links, and other issues that affect your site's quality and search engine rankings.
 
 - [Black SEO Analyzer](https://github.com/sethblack/black-seo-analyzer) - A professional command-line tool for comprehensive SEO analysis, designed for websites that need to be found in both search results and AI answers.
 
@@ -227,7 +227,7 @@ Boost your local presence and connect with audiences in your community.
 ## SEO Analytics
 
 - [Google Search Console](https://search.google.com/search-console/about) - Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results
- 
+
 - [SEO Gets](https://seogets.com/) - Privacy-focused analytics tool built to replace Google Search Console for Agencies and Affiliates.
 
 ## SEO Browser Extensions
@@ -262,11 +262,10 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [Google Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) - Browser Extension that offers detailed reports and actionable tips for enhancing your site's SEO performance such as Page load speeds, Accessibility, SEO and more.
 
-- [Checkbot SEO checker](https://www.checkbot.io/) - Chrome extension that crawls 100s of pages at the same time checking for 50+ common website SEO, page speed and security problems. 
+- [Checkbot SEO checker](https://www.checkbot.io/) - Chrome extension that crawls 100s of pages at the same time checking for 50+ common website SEO, page speed and security problems.
 
 - [SEO Sidebar](https://chromewebstore.google.com/detail/seo-sidebar/gmmiickdcmghfpliaiefhjafccapgmpp) - A browser extension that displays real-time on-page SEO data in a persistent side panel, with one-click export to text reports.
 
-  
 ## Validator / Checker
 
 - [Broken Link Checker](https://www.brokenlinkcheck.com/) - Detects and reports broken links on websites.
@@ -277,7 +276,6 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
-
 ## Miscellaneous Tools
 
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
@@ -287,7 +285,6 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 - [Pingdom](https://tools.pingdom.com/) - Tests website load time and gives performance analysis.
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
-
 
 Happy optimizing! 🚀
 
