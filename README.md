@@ -153,6 +153,8 @@ Fine-tune your content to resonate with search algorithms and your audience alik
 - [Koala AI](https://koala.sh) - AI-powered platform for SEO content creation, SEO AI agents, internal linking, entity schema generation, and more.
 
 - [AltTextLab](https://www.alttextlab.com/) - AI-powered tool that generates SEO-optimized, accessible alt text for images to improve search visibility.
+
+- [SERPrecon](https://www.serprecon.com/) - Optimize your content with a competitive analysis based on real semantic search metrics. Track AI SOV.
  
 ## Rank Tracking
 
