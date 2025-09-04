@@ -154,6 +154,8 @@ Fine-tune your content to resonate with search algorithms and your audience alik
 
 - [AltTextLab](https://www.alttextlab.com/) - AI-powered tool that generates SEO-optimized, accessible alt text for images to improve search visibility.
 
+- [SERPrecon](https://www.serprecon.com/) - Optimize your content with a competitive analysis based on real semantic search metrics. Track AI SOV.
+
 - [Hypertxt](https://hypertxt.ai) - If Perplexity, ChatGPT and Ahrefs had a baby, you'd have Hypertxt. Generate deeply-researched SEO/GEO-optimized content.
  
 ## Rank Tracking
