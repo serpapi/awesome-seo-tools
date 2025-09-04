@@ -212,6 +212,9 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - IncRev JavaScript Crawler https://github.com/VesterlundCoder/SEO-JavaScript-Crawler-IncRev Most Crawlers don't render JavaScript, but his one does. Whether you're auditing a React, Vue, or Angular site — this is the tool your stack has been missing.
 
+- [Prerender.io](https://prerender.io/) - A service that pre-renders JavaScript-heavy websites, enabling efficient crawling and indexing by search engines while preserving the site's crawl budget. [Source on GitHub](https://github.com/prerender/prerender)
+
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
