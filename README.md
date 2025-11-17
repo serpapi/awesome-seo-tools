@@ -190,6 +190,8 @@ Ensure your website's foundation is solid for search engines and user experience
  
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/#spider-features) - SEO Spider is a website crawler that helps you improve onsite SEO by auditing for common SEO issues.
 
+- [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
+
 - [SiteAnalyzer](https://site-analyzer.pro/) - Scan your websites and get detailed information about each page.
 
 - [Screpy](https://screpy.com/) - Stop worrying about missing important website metrics or checking multiple platforms!
