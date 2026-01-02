@@ -296,6 +296,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [Vedika](https://vedika.io/) - B2B astrology API with AI chatbot for matrimony apps, wellness platforms, and horoscope content generation.
+
 
 Happy optimizing! 🚀
 
