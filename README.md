@@ -76,6 +76,8 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 
 - [SEO Toolbox](https://seotoolbox.site) – An all-in-one SEO platform that combines page-by-page analysis with AI powered insights and in-depth report generation, built for everyone from individuals to SEO agencies.
 
+- [X-AlgoVision Pro](https://github.com/dogemos-josh/X-AlgoVision-Pro-Open-Source-Web3-Growth-Engine) - Predictive engine for X (Twitter) algorithm ranking weights and visibility scoring in anticipation of the 2026 source code leak.
+
 ## Keyword Research
 
 Uncover high-potential keywords to target and captivate your audience.
