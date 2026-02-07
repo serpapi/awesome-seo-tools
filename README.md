@@ -257,6 +257,7 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [Redirect Path](https://chrome.google.com/webstore/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll?hl=en) - The HTTP header & redirect checker for SEO.
 
 - [META SEO inspector](https://chrome.google.com/webstore/detail/meta-seo-inspector/ibkclpciafdglkjkcibmohobjkcfkaef?hl=en) - Easily inspect the meta data found inside web pages, find issues and get advice to fix them.
+- [MetaForge](https://simplereally.github.io/meta-forge/) - A free browser-based meta tag previewer that shows how your pages will appear in Google, Facebook, and Twitter. Instant preview without publishing.
 
 - [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp?hl=en) - Instant website analysis, including site rank, site traffic, sources and geography.
 
