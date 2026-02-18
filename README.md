@@ -218,6 +218,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [Server-side Rendering (SSR) Checker](https://www.crawlably.com/ssr-checker/) - Check any URL for SSR (Server-side rendering) by visually comparing server-side rendered version of a page with regular version.
 
+- [Vercel SEO Audit](https://github.com/JosephDoUrden/vercel-seo-audit) - A fast CLI tool that diagnoses SEO and indexing issues for Next.js and Vercel sites, checking redirects, robots.txt, sitemaps, metadata, structured data, and security headers.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
