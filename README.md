@@ -285,6 +285,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [Redirect Checker](https://redirect-checker.autocompany.workers.dev/) - Analyzes HTTP redirect chains, detects redirect loops, and measures redirect performance for SEO audits.
+
 
 ## Miscellaneous Tools
 
