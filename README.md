@@ -235,6 +235,8 @@ Boost your local presence and connect with audiences in your community.
 ## SEO Analytics
 
 - [Google Search Console](https://search.google.com/search-console/about) - Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results
+
+-  [Organic Trends](https://www.hbfreelance.com/get-gsc-data/) - Free tool that connects to Google Search Console and automatically splits branded vs non-branded traffic, helping you measure true SEO-driven growth and brand dependency
  
 - [SEO Gets](https://seogets.com/) - Privacy-focused analytics tool built to replace Google Search Console for Agencies and Affiliates.
 
