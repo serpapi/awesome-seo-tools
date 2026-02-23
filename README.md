@@ -32,6 +32,8 @@ If you know any other SEO tools that deserve to be on this list, feel free to op
 
 From keyword research to link analysis, these tools are the Swiss army knives of the SEO world.
 
+- [PageGuard](https://pageguard.qiudeqiu.workers.dev) - Free all-in-one website health scanner powered by Cloudflare Workers AI. Includes SEO auditing, performance analysis, accessibility checks, and best practices recommendations. No signup required.
+
 - [Ahrefs](https://ahrefs.com/) - Everything you need to rank higher & get more traffic.
 
 - [SEMrush](https://www.semrush.com/lp/keyword-research-b/) - Do SEO, content marketing, competitor research, PPC and social media marketing from just one platform.
