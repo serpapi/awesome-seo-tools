@@ -26,6 +26,7 @@ If you know any other SEO tools that deserve to be on this list, feel free to op
 1. [Technical SEO](#technical-seo)
 1. [Local SEO](#local-seo)
 1. [SEO Browser Extensions](#seo-browser-extensions)
+1. [Social Media & Open Graph](#social-media--open-graph)
 1. [Miscellaneous Tools](#miscellaneous-tools)
 
 ## All in one SEO tools
@@ -292,6 +293,12 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+
+## Social Media & Open Graph
+
+Tools for optimizing how your content appears when shared on social platforms.
+
+- [ogimg.xyz](https://ogimg.xyz/) - API for generating Open Graph images programmatically. 10 templates, custom branding, URL auto-fetch mode. Free tier available.
 
 ## Miscellaneous Tools
 
