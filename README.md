@@ -302,6 +302,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 - [Pingdom](https://tools.pingdom.com/) - Tests website load time and gives performance analysis.
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
+- 
+- [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
 - [ShotOG](https://github.com/nicepkg/shotog) - Open source, edge-native OG image generation API (~50ms) to boost social media click-through rates and improve content visibility.
 
