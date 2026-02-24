@@ -288,6 +288,20 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
 
+## AI & Answer Engine Optimization (AIO/AEO) Tools
+
+Answer Engine Optimization (AEO) or AI Optimization (AIO) is the process of optimizing content to appear in the responses of generative AI models like ChatGPT, Gemini, and Perplexity. The following tools & platforms specialize in this emerging field: 
+
+  - [AI Monitor](https://www.getaimonitor.com/) - An open-source tool that tracks and analyzes how your brand and content appear in AI search responses and how much traffic you are getting from the same. The project's repository is available on **[GitHub](https://github.com/aio-guru/ai-monitor-first-open-source-free-ai-search-optimization-aio-answer-engine-optimization-aeo-tool)**.
+  - [Anvil](https://www.anvilmediainc.com/) - A digital marketing tool that offers AEO and other performance marketing services.
+  - [Brandrank.AI](https://brandrank.ai/) - Tracks your brand's visibility, sentiment, and accuracy across major AI chatbots.
+  - [Chatrank.ai](https://chatrank.ai/) - Monitors how your brand is mentioned in AI conversations to help manage your reputation.
+  - [Daydream](https://www.withdaydream.com/) - An AIO agency focused on making brands visible in the answer-and-action era of search.
+  - [Evertune](https://www.evertune.ai/) - A platform designed to help businesses get their content featured in generative AI answers.
+  - [Geordy.ai](https://www.geordy.ai/) - An AI-powered tool for creating and optimizing content for both traditional and generative search engines.
+  - [Leverage](https://rankwithleverage.com/) - A digital marketing agency providing AEO services as part of its broader marketing solutions.
+  - [Quno.AI](https://quno.ai/) - An Answer Engine Optimization platform that helps businesses manage their presence in AI chat models.
+
 ## Miscellaneous Tools
 
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
