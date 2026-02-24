@@ -293,6 +293,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [RatedWithAI](https://ratedwithai.com/) - AI-powered website accessibility scanner that checks for ADA and WCAG 2.2 compliance issues with actionable fix recommendations.
+
 
 ## Social Media & Open Graph
 
