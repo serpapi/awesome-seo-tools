@@ -223,6 +223,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [Server-side Rendering (SSR) Checker](https://www.crawlably.com/ssr-checker/) - Check any URL for SSR (Server-side rendering) by visually comparing server-side rendered version of a page with regular version.
 
+- [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
