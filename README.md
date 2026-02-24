@@ -190,8 +190,6 @@ Ensure your website's foundation is solid for search engines and user experience
  
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/#spider-features) - SEO Spider is a website crawler that helps you improve onsite SEO by auditing for common SEO issues.
 
-- [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
-
 - [SiteAnalyzer](https://site-analyzer.pro/) - Scan your websites and get detailed information about each page.
 
 - [Screpy](https://screpy.com/) - Stop worrying about missing important website metrics or checking multiple platforms!
@@ -219,6 +217,8 @@ Ensure your website's foundation is solid for search engines and user experience
 - IncRev JavaScript Crawler https://github.com/VesterlundCoder/SEO-JavaScript-Crawler-IncRev Most Crawlers don't render JavaScript, but his one does. Whether you're auditing a React, Vue, or Angular site — this is the tool your stack has been missing.
 
 - [Server-side Rendering (SSR) Checker](https://www.crawlably.com/ssr-checker/) - Check any URL for SSR (Server-side rendering) by visually comparing server-side rendered version of a page with regular version.
+
+- [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
 ## Local SEO
 
