@@ -26,13 +26,12 @@ If you know any other SEO tools that deserve to be on this list, feel free to op
 1. [Technical SEO](#technical-seo)
 1. [Local SEO](#local-seo)
 1. [SEO Browser Extensions](#seo-browser-extensions)
+1. [Social Media & Open Graph](#social-media--open-graph)
 1. [Miscellaneous Tools](#miscellaneous-tools)
 
 ## All in one SEO tools
 
 From keyword research to link analysis, these tools are the Swiss army knives of the SEO world.
-
-- [PageGuard](https://pageguard.qiudeqiu.workers.dev) - Free all-in-one website health scanner powered by Cloudflare Workers AI. Includes SEO auditing, performance analysis, accessibility checks, and best practices recommendations. No signup required.
 
 - [Ahrefs](https://ahrefs.com/) - Everything you need to rank higher & get more traffic.
 
@@ -66,6 +65,7 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 
 - [Clicks.so](https://www.clicks.so/) - The Beginner-Friendly Affordable SEO Tool.
 
+  
 - [SEO Utils](https://seoutils.app/) - An SEO desktop application built for macOS, Windows, Linux.
 
 - [Spexia](https://getspexia.com) - All in one tool to create & optimize informational content (specialized on ECom shops).
@@ -77,6 +77,10 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 - [DAXRM](https://www.daxrm.com/) - DAXRM is the all-in-one Digital Marketing CRM designed for agencies. Manage SEO, PPC, client reporting, and team collaboration in one seamless platform.
 
 - [SEO Toolbox](https://seotoolbox.site) – An all-in-one SEO platform that combines page-by-page analysis with AI powered insights and in-depth report generation, built for everyone from individuals to SEO agencies.
+
+- [Bishopi.io](https://www.bishopi.io/) - Get Enterprise-Grade SEO and Domain Intelligence.
+
+- [PageGuard](https://pageguard.qiudeqiu.workers.dev) - Free all-in-one website health scanner powered by Cloudflare Workers AI. Includes SEO auditing, performance analysis, accessibility checks, and best practices recommendations. No signup required.
 
 ## Keyword Research
 
@@ -161,6 +165,8 @@ Fine-tune your content to resonate with search algorithms and your audience alik
 - [SERPrecon](https://www.serprecon.com/) - Optimize your content with a competitive analysis based on real semantic search metrics. Track AI SOV.
 
 - [Hypertxt](https://hypertxt.ai) - If Perplexity, ChatGPT and Ahrefs had a baby, you'd have Hypertxt. Generate deeply-researched SEO/GEO-optimized content.
+
+- [TuxSEO](https://tuxseo.com/) - Fully automated, SEO optimized, blog creation for your business.  
  
 ## Rank Tracking
 
@@ -219,6 +225,8 @@ Ensure your website's foundation is solid for search engines and user experience
 - IncRev JavaScript Crawler https://github.com/VesterlundCoder/SEO-JavaScript-Crawler-IncRev Most Crawlers don't render JavaScript, but his one does. Whether you're auditing a React, Vue, or Angular site — this is the tool your stack has been missing.
 
 - [Server-side Rendering (SSR) Checker](https://www.crawlably.com/ssr-checker/) - Check any URL for SSR (Server-side rendering) by visually comparing server-side rendered version of a page with regular version.
+
+- [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
 ## Local SEO
 
@@ -288,6 +296,14 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
 
+## Social Media & Open Graph
+
+Tools for optimizing how your content appears when shared on social platforms.
+
+- [ShotOG](https://github.com/nicepkg/shotog) - Open source, edge-native OG image generation API (~50ms) to boost social media click-through rates and improve content visibility.
+
+- [ogimg.xyz](https://ogimg.xyz/) - API for generating Open Graph images programmatically. 10 templates, custom branding, URL auto-fetch mode. Free tier available.
+
 ## Miscellaneous Tools
 
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
@@ -297,7 +313,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 - [Pingdom](https://tools.pingdom.com/) - Tests website load time and gives performance analysis.
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
-
+  
+- [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
 Happy optimizing! 🚀
 
