@@ -80,7 +80,7 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 
 - [Bishopi.io](https://www.bishopi.io/) - Get Enterprise-Grade SEO and Domain Intelligence.
 
-- [PageGuard](https://pageguard.qiudeqiu.workers.dev) - Free all-in-one website health scanner powered by Cloudflare Workers AI. Includes SEO auditing, performance analysis, accessibility checks, and best practices recommendations. No signup required.
+- [PageGuard](https://pageguard.org) - Free all-in-one website health scanner powered by Cloudflare Workers AI. Includes SEO auditing, performance analysis, accessibility checks, and best practices recommendations. No signup required.
 
 ## Keyword Research
 
