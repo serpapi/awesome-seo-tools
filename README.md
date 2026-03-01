@@ -285,6 +285,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
   
 ## Validator / Checker
 
+- [Redirect Checker](https://redirect-checker.autocompany.workers.dev/) - Open-source HTTP redirect chain analyzer. Detect redirect loops, analyze 301/302/307/308 redirects, and measure performance.
+
 - [Broken Link Checker](https://www.brokenlinkcheck.com/) - Detects and reports broken links on websites.
 
 - [Robots.txt Checker](https://support.google.com/webmasters/answer/6062598?hl=en) - Checks robots.txt files for errors.
