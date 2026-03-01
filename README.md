@@ -226,6 +226,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [Screaming Frog MCP Server](https://github.com/bzsasson/screaming-frog-mcp) - MCP server that gives AI assistants programmatic access to Screaming Frog SEO Spider — crawl websites, export crawl data, and manage crawl storage.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
