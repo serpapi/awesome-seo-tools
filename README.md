@@ -225,6 +225,8 @@ Ensure your website's foundation is solid for search engines and user experience
 - [Server-side Rendering (SSR) Checker](https://www.crawlably.com/ssr-checker/) - Check any URL for SSR (Server-side rendering) by visually comparing server-side rendered version of a page with regular version.
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
+- [SEO Score API](https://seoscoreapi.com/) - API-first SEO audit tool that returns a score (0-100), grade, and 28 checks across meta, technical, social, performance, and accessibility with prioritized fix recommendations. Free tier available.
+
 
 ## Local SEO
 
