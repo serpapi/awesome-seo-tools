@@ -164,8 +164,10 @@ Fine-tune your content to resonate with search algorithms and your audience alik
 
 - [Hypertxt](https://hypertxt.ai) - If Perplexity, ChatGPT and Ahrefs had a baby, you'd have Hypertxt. Generate deeply-researched SEO/GEO-optimized content.
 
-- [TuxSEO](https://tuxseo.com/) - Fully automated, SEO optimized, blog creation for your business.  
- 
+- [TuxSEO](https://tuxseo.com/) - Fully automated, SEO optimized, blog creation for your business.
+
+- [textlens](https://github.com/ckmtools/textlens) - Open source readability and SEO content scoring library with 8 readability formulas, keyword density analysis, and actionable optimization suggestions.
+
 ## Rank Tracking
 
 Monitor your website's position in search results and gauge your SEO strategies' effectiveness.
