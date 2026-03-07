@@ -226,6 +226,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [Hermes Dead Link Checker](https://51-68-119-197.sslip.io/tools/deadlinks) - Free API to check any URL or GitHub repo for broken links. Supports CSV, Markdown, and GitHub Actions annotation output formats.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
@@ -286,6 +288,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 ## Validator / Checker
 
 - [Broken Link Checker](https://www.brokenlinkcheck.com/) - Detects and reports broken links on websites.
+
+- [Hermes Dead Link Checker](https://51-68-119-197.sslip.io/tools/deadlinks) - Free broken link checker API with CI/CD integration. Check URLs or GitHub repos for broken links via REST API or GitHub Actions.
 
 - [Robots.txt Checker](https://support.google.com/webmasters/answer/6062598?hl=en) - Checks robots.txt files for errors.
 
