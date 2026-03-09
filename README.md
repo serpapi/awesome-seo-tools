@@ -65,6 +65,8 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 
 - [Clicks.so](https://www.clicks.so/) - The Beginner-Friendly Affordable SEO Tool.
 
+- [SearchAtlas](https://searchatlas.com/) - AI-powered SEO platform with an [MCP server](https://github.com/Search-Atlas-Group/searchatlas-mcp-server) that exposes 16 tools for 
+  keyword research, site auditing, content optimization, backlink analysis, PPC management, and LLM brand visibility monitoring directly inside AI assistants.
   
 - [SEO Utils](https://seoutils.app/) - An SEO desktop application built for macOS, Windows, Linux.
 
