@@ -216,6 +216,10 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [Siteliner](https://www.siteliner.com/) -  Siteliner is a free tool that helps identify duplicate content, broken links, and other issues that affect your site's quality and search engine rankings.
 
+- [GEOScore AI Robots.txt Generator](https://geoscoreai.com/tools/robots-txt-generator) - Free tool to generate AI-optimized robots.txt files, helping you control how AI crawlers and search engines access your site.
+
+- [GEOScore AI Crawler Checker](https://geoscoreai.com/tools/ai-crawler-checker) - Free tool to check if AI crawlers (GPTBot, ClaudeBot, etc.) can access your website and analyze your site's AI accessibility.
+
 - [Black SEO Analyzer](https://github.com/sethblack/black-seo-analyzer) - A professional command-line tool for comprehensive SEO analysis, designed for websites that need to be found in both search results and AI answers.
 
 - [Python SEO Analyzer](https://github.com/sethblack/python-seo-analyzer) - SEO tool that analyzes the structure of a site, crawls the site, counts words in the body of the site, and warns of any technical SEO issues.
