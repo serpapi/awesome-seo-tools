@@ -314,6 +314,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
   
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
+- [WordPress GEO Optimizer](https://github.com/henu-wang/wordpress-geo-optimizer) - WordPress plugin for Generative Engine Optimization (GEO) — manages AI crawler access via robots.txt, auto-generates llms.txt, and injects JSON-LD structured data for AI search engines like ChatGPT, Perplexity, and Gemini.
+
 Happy optimizing! 🚀
 
 ## Information
