@@ -314,6 +314,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
   
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
+- [GEOScore AI](https://geoscoreai.com) - Free AI search visibility scanner that checks 11 GEO signals including robots.txt, llms.txt, structured data, and citation readiness for AI search engines.
+
 Happy optimizing! 🚀
 
 ## Information
