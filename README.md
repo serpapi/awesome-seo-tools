@@ -293,6 +293,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [Web Accessibility Checker](https://web-accessibility-checker.com) - Free online WCAG 2.1 compliance testing tool with actionable fix recommendations.
+
 
 ## Social Media & Open Graph
 
