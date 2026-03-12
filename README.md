@@ -226,6 +226,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [GEOScore](https://geoscoreai.com/) - Free AI search visibility scanner that checks 11 technical factors for AI search readiness, including AI crawl access, structured data, llms.txt, and citation potential across ChatGPT, Perplexity, and Google AI Overviews.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
