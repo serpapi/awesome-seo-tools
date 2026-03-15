@@ -80,6 +80,8 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 
 - [Bishopi.io](https://www.bishopi.io/) - Get Enterprise-Grade SEO and Domain Intelligence.
 
+- [Foglift](https://foglift.io/) - Free SEO and GEO (Generative Engine Optimization) analyzer that checks five categories: SEO, GEO, Performance, Security, and Accessibility. Includes a REST API, CLI, and MCP server for AI agents.
+
 ## Keyword Research
 
 Uncover high-potential keywords to target and captivate your audience.
