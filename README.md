@@ -80,6 +80,8 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 
 - [Bishopi.io](https://www.bishopi.io/) - Get Enterprise-Grade SEO and Domain Intelligence.
 
+- [Rank4AI](https://rank4ai.co.uk) - AI search visibility platform for optimizing how businesses appear in ChatGPT, Gemini, Perplexity and Google AI Overviews.
+
 ## Keyword Research
 
 Uncover high-potential keywords to target and captivate your audience.
