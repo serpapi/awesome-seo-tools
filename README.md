@@ -165,6 +165,8 @@ Fine-tune your content to resonate with search algorithms and your audience alik
 - [Hypertxt](https://hypertxt.ai) - If Perplexity, ChatGPT and Ahrefs had a baby, you'd have Hypertxt. Generate deeply-researched SEO/GEO-optimized content.
 
 - [TuxSEO](https://tuxseo.com/) - Fully automated, SEO optimized, blog creation for your business.  
+
+- [JustBlogged](https://justblogged.com/) - No-setup blogging platform with built-in SEO optimization, custom domains, and beautiful themes. Start writing in 2 minutes with a free forever plan.
  
 ## Rank Tracking
 
