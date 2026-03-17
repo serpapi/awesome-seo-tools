@@ -316,6 +316,7 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 Happy optimizing! 🚀
 
+- [anyserp](https://github.com/probeo-io/anyserp) - Unified SERP API router. Route search requests across 11 providers (Serper, SerpAPI, Google CSE, Bing, Brave, DataForSEO, and more) with a single API.
 ## Information
 
 This repo is maintained by [SerpApi](https://serpapi.com?utm_source=awesome-seo-tools) team: "Scrape Google and other search engines from our fast, easy, and complete API."
