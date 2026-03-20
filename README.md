@@ -289,6 +289,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [Robots.txt Checker](https://support.google.com/webmasters/answer/6062598?hl=en) - Checks robots.txt files for errors.
 
+- [robotstxt.ai](https://github.com/sharozdawa/robotstxt-ai) - Open-source visual robots.txt manager for AI crawlers. Toggle GPTBot, ClaudeBot, PerplexityBot, Google-Extended, and 20+ AI bots with one click. Generate and analyze robots.txt files.
+
 - [Lighthouse Rich Result Checker](https://search.google.com/test/rich-results) - Tests whether your website is eligible for rich results in Google Search.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
