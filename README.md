@@ -226,6 +226,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [AEOrank](https://github.com/vinpatel/aeorank) - Open-source CLI that scans any website for AI Engine Optimization (AEO), scores it 0-100 across 12 dimensions, and generates the 8 files AI search engines look for. Includes 13 framework plugins and a GitHub Action.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
