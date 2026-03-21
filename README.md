@@ -226,6 +226,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [indexnow-mcp](https://github.com/sharozdawa/indexnow-mcp) - Open-source MCP server for instant URL indexing via IndexNow (Bing, Yandex, Naver, Seznam) and Google Indexing API. Submit URLs, parse sitemaps, and generate API keys.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
