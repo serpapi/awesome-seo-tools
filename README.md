@@ -293,6 +293,10 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [schema-gen](https://github.com/sharozdawa/schema-gen) - Open-source Schema.org JSON-LD markup generator with 12 types (Person, Product, FAQ, Article, Organization, HowTo, etc.). Live preview web app + MCP server.
+
+- [ai-visibility](https://github.com/sharozdawa/ai-visibility) - Open-source tool to track brand visibility across ChatGPT, Perplexity, Claude, and Gemini. Visibility scores, sentiment analysis, competitor detection, and trend charts.
+
 
 ## Social Media & Open Graph
 
