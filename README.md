@@ -134,7 +134,9 @@ Fine-tune your content to resonate with search algorithms and your audience alik
 
 - [NeuronWriter](https://neuronwriter.com/) - Optimize your website content so Google adores it.
 
-- [ContentSwift](https://github.com/hilmanski/contentswift) - An open source content research/optimization tool for SEO.
+- [ContentSwift](https://github.com/hilmanski/contentswift) - An open source content research/optimization tool for SEO. (Abandoned since 2023)
+
+- [Content Optimizer](https://github.com/sharozdawa/content-optimizer) - Open source alternative to Surfer SEO. SERP-based content scoring with 7 categories, entity analysis, heading optimization, readability scoring, and actionable recommendations. Web app + MCP server.
 
 - [Market Muse](https://www.marketmuse.com/) - Our AI analyzes your entire website to give you personalized, objective insights so you can confidently plan better and faster.
 
