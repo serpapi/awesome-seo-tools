@@ -319,3 +319,4 @@ Happy optimizing! 🚀
 ## Information
 
 This repo is maintained by [SerpApi](https://serpapi.com?utm_source=awesome-seo-tools) team: "Scrape Google and other search engines from our fast, easy, and complete API."
+- [AI Stack Picks](https://aistackpicks.com) - Verified pricing comparisons and reviews for 27+ AI and SEO tools, updated monthly with current data from official pricing pages.
