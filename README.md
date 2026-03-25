@@ -302,6 +302,8 @@ Tools for optimizing how your content appears when shared on social platforms.
 
 - [ogimg.xyz](https://ogimg.xyz/) - API for generating Open Graph images programmatically. 10 templates, custom branding, URL auto-fetch mode. Free tier available.
 
+- [Ooty Free SEO Tools](https://ooty.io/free-tools) - 7 free SEO tools with no signup: 44-check content analyzer, AI readiness checker (9 AI crawlers), schema validator (8 rich result types), meta tag analyzer, topic cluster mapper, sitemap validator, and robots.txt generator with AI crawler presets.
+
 ## Miscellaneous Tools
 
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
