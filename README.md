@@ -312,6 +312,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
   
+- [Ooty Free SEO Tools](https://ooty.io/free-tools) - 7 free SEO tools including AI readiness checker, content analyzer, schema validator, and more. No signup required.
+
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
 Happy optimizing! 🚀
