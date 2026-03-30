@@ -296,6 +296,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [Shopify Theme Detector](https://podifai.com/tools/shopify-theme-detector) - Free tool to identify any Shopify store's theme, apps, and technology stack for competitive research and SEO analysis.
+
 
 Happy optimizing! 🚀
 
