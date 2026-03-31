@@ -122,6 +122,8 @@ Delve deep into your link profile and discover opportunities for growth and risk
 
 - [BacklinkScan](https://backlinkscan.com/) - Backlink Checker. Simple. Powerful.
 
+- [Adbassador](https://adbassador.com/) - A vetted marketplace for guest posts, link insertions, and other ad placements across 800+ publishers, with prices starting at $5.
+
 - Other "All in one SEO tools" offer this feature as well.
 
 ## Content Optimization
@@ -181,6 +183,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 - [DAXRM](https://www.daxrm.com/integrations/rank-tracker/) - Real-time SEO keyword rank tracking with multiple locations and devices
 
 - [That's Rank!](https://www.thatisrank.com/) - That's Rank! helps you know and track instantly where your website ranks on Google for every keyword.
+
+- [Adbassador](https://adbassador.com/) - A vetted marketplace for guest posts, link insertions, and other ad placements across 800+ publishers, with prices starting at $5.
 
 - Other "All in one SEO tools" offer this feature as well.
 
