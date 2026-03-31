@@ -226,6 +226,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [site-roaster](https://www.npmjs.com/package/site-roaster) - A zero-dependency CLI tool that analyzes websites for SEO, accessibility, performance, security, and design issues, delivering a letter grade with specific recommendations. Run via `npx site-roaster <url>`.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
