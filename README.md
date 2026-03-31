@@ -302,6 +302,10 @@ Tools for optimizing how your content appears when shared on social platforms.
 
 - [ogimg.xyz](https://ogimg.xyz/) - API for generating Open Graph images programmatically. 10 templates, custom branding, URL auto-fetch mode. Free tier available.
 
+- [LinkMeta](https://linkmeta.dev) - Free URL metadata extraction API for Open Graph, Twitter Cards, and favicons. No API key required.
+
+- [OGForge](https://ogforge.dev) - Free Open Graph image generator API. No API key required.
+
 ## Miscellaneous Tools
 
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
