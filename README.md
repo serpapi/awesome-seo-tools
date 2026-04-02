@@ -283,6 +283,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [Lighthouse Rich Result Checker](https://search.google.com/test/rich-results) - Tests whether your website is eligible for rich results in Google Search.
 
+- [Shopify Schema Validator](https://podifai.com/tools/shopify-schema-validator) - Validates structured data and Schema.org markup with AI Search Readiness scoring for Shopify stores.
+
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
 
