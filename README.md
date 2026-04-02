@@ -226,6 +226,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [AEO Scanner](https://aeo.codecity.com.tw/) - Free website AI-friendliness scoring tool. Analyzes 9 AEO metrics (meta tags, Open Graph, JSON-LD, FAQ Schema, llms.txt, social cards) and generates fix code snippets to optimize for AI search engines.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
