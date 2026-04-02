@@ -226,6 +226,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [ToolPipe](https://toolpipe.dev) - Free REST API with SEO analysis, meta tag extraction, sitemap parsing, DNS lookup, WHOIS queries, and 230+ other developer utility endpoints. No signup required.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
