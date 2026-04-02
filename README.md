@@ -1,6 +1,7 @@
 ![Awesome SEO tools cover](/awesome-seo-tools-cover.webp)
 
 # Awesome SEO tools
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - Automated discovery of product submission sites, launch directories, and distribution channels for indie hackers.
 
 A curated list of awesome SEO (Search Engine Optimization) tools to help improve your website's ranking and visibility on search engines.
 
