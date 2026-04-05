@@ -165,6 +165,8 @@ Fine-tune your content to resonate with search algorithms and your audience alik
 - [Hypertxt](https://hypertxt.ai) - If Perplexity, ChatGPT and Ahrefs had a baby, you'd have Hypertxt. Generate deeply-researched SEO/GEO-optimized content.
 
 - [TuxSEO](https://tuxseo.com/) - Fully automated, SEO optimized, blog creation for your business.  
+
+- [Ajusta](https://ajusta.ai/) - AI-powered resume content optimizer that scores resumes against ATS requirements, performs keyword gap analysis, and provides AI rewrite suggestions.
  
 ## Rank Tracking
 
