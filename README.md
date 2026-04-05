@@ -314,6 +314,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
   
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
+- [Signals CLI](https://github.com/sortlist/signals-cli) - Intent signal monitoring CLI for B2B. Track LinkedIn engagement, keyword posters, job changers, and funding events. JSON output. Install with `npm install -g signals-sortlist-cli`.
+
 Happy optimizing! 🚀
 
 ## Information
