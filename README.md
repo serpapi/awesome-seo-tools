@@ -313,6 +313,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
   
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
+  
+- [IndexBolt IndexCheck](https://www.indexbolt.com/free-google-index-checker) - Free, open-source desktop app for bulk Google index checking. Unlimited URL checks, Google Search Console integration, and CSV/JSON export.
 
 Happy optimizing! 🚀
 
