@@ -6,6 +6,7 @@ A curated list of awesome SEO (Search Engine Optimization) tools to help improve
 
 > This repo is maintained by [SerpApi](https://serpapi.com?utm_source=awesome-seo-tools) team: "Scrape Google and other search engines from our fast, easy, and complete API."
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for SEO tools workflow orchestration, automated search engine analysis management, and multi-agent coordination. MIT licensed.
 ## Contributing
 
 If you know any other SEO tools that deserve to be on this list, feel free to open a pull request or drop an issue with your suggestions.
