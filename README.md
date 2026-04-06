@@ -78,6 +78,8 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 
 - [SEO Toolbox](https://seotoolbox.site) – An all-in-one SEO platform that combines page-by-page analysis with AI powered insights and in-depth report generation, built for everyone from individuals to SEO agencies.
 
+- [SEOAgent](https://github.com/yagomp/seoagent) - Open-source, agent-first SEO toolkit. Keyword research, rank tracking, site audits (up to 50k pages), competitor analysis, content gap detection, domain reputation, backlink intelligence, and AI-powered strategy generation. CLI + MCP server for AI agents (Claude, Cursor, Codex). Free and self-hosted, BYOK.
+
 - [Bishopi.io](https://www.bishopi.io/) - Get Enterprise-Grade SEO and Domain Intelligence.
 
 ## Keyword Research
@@ -319,3 +321,4 @@ Happy optimizing! 🚀
 ## Information
 
 This repo is maintained by [SerpApi](https://serpapi.com?utm_source=awesome-seo-tools) team: "Scrape Google and other search engines from our fast, easy, and complete API."
+
