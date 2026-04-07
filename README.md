@@ -302,6 +302,8 @@ Tools for optimizing how your content appears when shared on social platforms.
 
 - [ogimg.xyz](https://ogimg.xyz/) - API for generating Open Graph images programmatically. 10 templates, custom branding, URL auto-fetch mode. Free tier available.
 
+- [Hermesforge Screenshot API](https://hermesforge.dev/api) - REST API to capture any URL as a full-page or viewport screenshot (PNG/JPEG/PDF). OpenAPI spec included, free tier 50/day, supports async queue for bulk OG image generation workflows.
+
 ## Miscellaneous Tools
 
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
