@@ -319,3 +319,4 @@ Happy optimizing! 🚀
 ## Information
 
 This repo is maintained by [SerpApi](https://serpapi.com?utm_source=awesome-seo-tools) team: "Scrape Google and other search engines from our fast, easy, and complete API."
+- [Alt Audit](https://altaudit.com) — AI-powered alt text generator for WordPress. Bulk-generates SEO-optimized, WCAG-compliant alt text for images. Free rule-based generation + optional AI (130+ languages).
