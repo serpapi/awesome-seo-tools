@@ -214,6 +214,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [SEOnaut](https://seonaut.org) - Open source technical SEO auditing tool.
 
+- [AuditZap](https://auditzap.io/) - AI-powered website audit tool that runs 24 checks across SEO, performance, and site health, then generates code-level fix instructions ranked by revenue impact.
+
 - [Siteliner](https://www.siteliner.com/) -  Siteliner is a free tool that helps identify duplicate content, broken links, and other issues that affect your site's quality and search engine rankings.
 
 - [Black SEO Analyzer](https://github.com/sethblack/black-seo-analyzer) - A professional command-line tool for comprehensive SEO analysis, designed for websites that need to be found in both search results and AI answers.
