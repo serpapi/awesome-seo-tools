@@ -172,6 +172,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [SerpBear](https://docs.serpbear.com/) - An open source search engine position tracking app.
 
+- [SEOTesting Rank Tracker](https://seotesting.com/ranktracker/) - Rank track up to 500 keywords for free.
+
 - [SERPWatcher](https://serpwatch.io/) - The most advanced rank tracker for marketers and agencies.
 
 - [AccuRanker](https://www.accuranker.com/) - The world's fastest & most accurate rank tracker.
