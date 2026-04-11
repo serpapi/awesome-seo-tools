@@ -226,6 +226,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin that pulls real Search Console data and PageSpeed Insights, runs technical SEO audits, rewrites meta tags, generates JSON-LD schema, and ships fixes directly to your repo or CMS. MIT licensed.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
