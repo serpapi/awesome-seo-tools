@@ -314,6 +314,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
   
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
+- [Snaplert](https://snaplert.com) - Website change monitoring with AI-powered visual diffs and email alerts. Track competitor page changes with before/after screenshots and AI summaries.
+
 Happy optimizing! 🚀
 
 ## Information
