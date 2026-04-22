@@ -204,6 +204,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [Moz On-Page Grader](https://moz.com/tools/onpage-grader) - Analyzes individual page optimization.
 
+- [AuditWidget](https://auditwidget.app/?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome-seo-tools) - Embeddable SEO audit widget for marketing agencies. Drop a single script tag on your site; visitors run a 12-point SEO analysis and share their email to unlock the full report — turning site visits into qualified leads.
+
 - [BROWSEO](https://www.browseo.net) - See your site through the eyes of a search engine. BROWSEO gives you the type of x-ray vision that search engines have.
 
 - [linkok.com](https://linkok.com) - A modern broken link checker.
