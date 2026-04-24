@@ -80,6 +80,8 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 
 - [Bishopi.io](https://www.bishopi.io/) - Get Enterprise-Grade SEO and Domain Intelligence.
 
+- [SEO Booster](https://www.sgeo.it.com/) - AI SEO autopilot that writes, optimizes, and auto-publishes daily articles to 13 CMS platforms (WordPress, Shopify, Webflow, Ghost, Wix, etc). Includes brand voice learning, audience analysis, 87+ technical SEO checks, programmatic SEO, GEO/AEO optimization for ChatGPT/Claude/Gemini, internal link engine, and 51 languages. Free forever plan available.
+
 ## Keyword Research
 
 Uncover high-potential keywords to target and captivate your audience.
@@ -164,8 +166,10 @@ Fine-tune your content to resonate with search algorithms and your audience alik
 
 - [Hypertxt](https://hypertxt.ai) - If Perplexity, ChatGPT and Ahrefs had a baby, you'd have Hypertxt. Generate deeply-researched SEO/GEO-optimized content.
 
-- [TuxSEO](https://tuxseo.com/) - Fully automated, SEO optimized, blog creation for your business.  
- 
+- [TuxSEO](https://tuxseo.com/) - Fully automated, SEO optimized, blog creation for your business.
+
+- [SEO Booster](https://www.sgeo.it.com/) - Daily AI articles auto-published to your CMS with brand voice learning, audience persona analysis, 87+ technical SEO checks, internal link engine, GEO/AEO optimization, multi-language translation, and content repurposing (article → social/podcast/video scripts).
+
 ## Rank Tracking
 
 Monitor your website's position in search results and gauge your SEO strategies' effectiveness.
