@@ -79,6 +79,8 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 - [SEO Toolbox](https://seotoolbox.site) – An all-in-one SEO platform that combines page-by-page analysis with AI powered insights and in-depth report generation, built for everyone from individuals to SEO agencies.
 
 - [Bishopi.io](https://www.bishopi.io/) - Get Enterprise-Grade SEO and Domain Intelligence.
+- [SEOintent](https://seointent.com) - AI SEO platform that auto-clusters keywords, generates SEO-optimized articles with Claude, tracks AI citations across ChatGPT/Perplexity/Gemini, and publishes directly to WordPress, Shopify, Webflow, or Ghost. Built for agencies and SaaS teams.
+
 
 ## Keyword Research
 
