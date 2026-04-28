@@ -31,6 +31,8 @@ If you know any other SEO tools that deserve to be on this list, feel free to op
 
 ## All in one SEO tools
 
+- [30tools SEO Toolkit](https://30tools.com/seotoolkit) - Free open-source SEO tools including meta tag generator, Open Graph generator, keyword density checker, sitemap generator, Twitter card generator, FAQ schema generator, and more. 100% browser-based, no signup required. ([GitHub](https://github.com/SH20RAJ/30tools))
+
 From keyword research to link analysis, these tools are the Swiss army knives of the SEO world.
 
 - [Ahrefs](https://ahrefs.com/) - Everything you need to rank higher & get more traffic.
