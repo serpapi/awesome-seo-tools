@@ -230,6 +230,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 Boost your local presence and connect with audiences in your community.
 
+- [Avukatistan Visibility Analysis](https://avukatistan.com/gorunurluk) - Local SEO, Google Maps, and AI visibility analysis for lawyers in Turkey.
+
 - [BrightLocal](https://www.brightlocal.com/local-seo-tools/) -The complete platform to monitor, audit, and improve local SEO.
 
 - [Whitespark](https://whitespark.ca/) - Everything you need for better local SEO.
