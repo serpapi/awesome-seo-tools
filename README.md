@@ -302,6 +302,8 @@ Tools for optimizing how your content appears when shared on social platforms.
 
 - [ogimg.xyz](https://ogimg.xyz/) - API for generating Open Graph images programmatically. 10 templates, custom branding, URL auto-fetch mode. Free tier available.
 
+- [TinyTools — OG Image Generator](https://tinytools-smoky.vercel.app/og-image-generator/) - Free OG image generator with templates and live preview. Browser-based, no signup, no rate limits.
+
 ## Miscellaneous Tools
 
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
@@ -313,6 +315,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
   
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
+
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Collection of free single-purpose web utilities for SEO and content workflows: SEO meta tag generator, AI robots.txt generator, OG image generator, favicon generator, color palette generator, and more. All browser-based, no signup. Open source.
 
 Happy optimizing! 🚀
 
