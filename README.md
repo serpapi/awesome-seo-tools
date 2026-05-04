@@ -246,6 +246,8 @@ Boost your local presence and connect with audiences in your community.
  
 - [SEO Gets](https://seogets.com/) - Privacy-focused analytics tool built to replace Google Search Console for Agencies and Affiliates.
 
+- [PromptEden](https://www.prompteden.com) - AEO (Answer Engine Optimization) monitoring: track how ChatGPT, Claude, Gemini, Perplexity, Copilot, and Grok describe your brand and which competitors they recommend instead.
+
 ## SEO Browser Extensions
 
 Equip your browser with tools for quick and efficient SEO insights on the go.
