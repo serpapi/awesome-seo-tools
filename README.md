@@ -314,6 +314,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
   
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
+- [Arenza](https://arenza.ai/) - Generative Engine Optimization platform that measures brand visibility, share of voice, sentiment, and citations across ChatGPT, Claude, Gemini, Perplexity, Copilot, and Grok.
+
 Happy optimizing! 🚀
 
 ## Information
