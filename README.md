@@ -302,8 +302,6 @@ Tools for optimizing how your content appears when shared on social platforms.
 
 - [ogimg.xyz](https://ogimg.xyz/) - API for generating Open Graph images programmatically. 10 templates, custom branding, URL auto-fetch mode. Free tier available.
 
-- [TinyTools OG Image Generator](https://tinytools-smoky.vercel.app/og-image-generator) - Free browser-based Open Graph image generator. Customize text, colors, and layout, then download instant social preview images for Twitter, Facebook, and LinkedIn. No signup required, runs locally in your browser. Open source.
-
 ## Miscellaneous Tools
 
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
@@ -316,11 +314,7 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
   
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
-- [TinyTools SEO Meta Generator](https://tinytools-smoky.vercel.app/seo-meta-generator) - Free browser-based generator for SEO meta tags including title, description, Open Graph, and Twitter Card. Live preview of how your page appears in Google, Facebook, and Twitter before publishing. No signup required.
-
-- [TinyTools Favicon Generator](https://tinytools-smoky.vercel.app/favicon-generator) - Free browser-based favicon generator. Upload an image or use text/emoji, then download a multi-size favicon package (ICO, PNG, Apple touch icons) with the matching HTML snippet. No signup, no upload to a server.
-
-- [TinyTools AI Robots.txt Generator](https://tinytools-smoky.vercel.app/ai-robots-txt-generator) - Free browser-based robots.txt generator with AI crawler controls (GPTBot, Google-Extended, ClaudeBot, PerplexityBot, and others). Useful for managing how AI bots access your site for SEO and content protection.
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based toolkit with several SEO-relevant utilities: SEO meta tag generator (title/description/OG/Twitter), AI robots.txt generator (configures GPTBot, Claude-Web, etc.), favicon generator, and OG image generator. No signup, runs client-side, open source.
 
 Happy optimizing! 🚀
 
