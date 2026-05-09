@@ -314,6 +314,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
   
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
+- [calcfuel](https://calcfuel.com) - Free suite of 35+ marketing calculators (ROI, ROAS, CAC, CLV, CTR, and more) to help measure and optimize marketing performance.
+
 Happy optimizing! 🚀
 
 ## Information
