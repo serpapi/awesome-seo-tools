@@ -293,6 +293,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [ORECTIC SEO CHECK](https://wordpress.org/plugins/orectic-seo-check/) - Free WordPress plugin that runs on-page SEO audits covering meta tags, headings, images, structured data, Core Web Vitals, and more. Results displayed directly in the WordPress admin.
+
 
 ## Social Media & Open Graph
 
