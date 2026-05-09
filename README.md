@@ -165,7 +165,9 @@ Fine-tune your content to resonate with search algorithms and your audience alik
 - [Hypertxt](https://hypertxt.ai) - If Perplexity, ChatGPT and Ahrefs had a baby, you'd have Hypertxt. Generate deeply-researched SEO/GEO-optimized content.
 
 - [TuxSEO](https://tuxseo.com/) - Fully automated, SEO optimized, blog creation for your business.  
- 
+
+- [LLMs.txt Generator](https://llms-txt-generator.net/) - Free tool to auto-generate a spec-compliant llms.txt file for your website so AI crawlers (ChatGPT, Claude, Perplexity) understand your content structure.
+
 ## Rank Tracking
 
 Monitor your website's position in search results and gauge your SEO strategies' effectiveness.
