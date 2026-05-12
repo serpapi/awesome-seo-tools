@@ -1,3 +1,10 @@
+- [MultiLipi Schema.org Checker](https://multilipi.com/tools/schema-checker) - Free structured data checker for validating Schema.org, JSON-LD, and rich snippet markup on webpages.
+-  [MultiLipi Schema.org Checker](https://multilipi.com/tools/schema-checker) - Free structured data checker for validating Schema.org, JSON-LD, and rich snippet markup on webpages.
+ - [MultiLipi Schema.org Generator](https://multilipi.com/tools/schema-generator) - Free JSON-LD schema generator for creating structured data markup for websites, articles, products, FAQs, and local business pages.
+ - [MultiLipi Hreflang Checker](https://multilipi.com/tools/hreflang-checker) - Free hreflang checker for validating language and regional tags on multilingual and international websites.
+- [MultiLipi AI SEO Analyzer](https://multilipi.com/tools/seo-analyzer) - Free SEO audit tool for checking metadata, H1 tags, alt text, canonical tags, broken links, and on-page SEO issues.
+
+
 ![Awesome SEO tools cover](/awesome-seo-tools-cover.webp)
 
 # Awesome SEO tools
