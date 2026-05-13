@@ -291,6 +291,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [Robots.txt Checker](https://support.google.com/webmasters/answer/6062598?hl=en) - Checks robots.txt files for errors.
 
+- [AI Crawler Robots.txt Builder](https://ai-crawler-robots-builder.vercel.app/) - Free no-tracking browser utility for generating and checking AI crawler robots.txt rules for GPTBot, OAI-SearchBot, ClaudeBot, Google-Extended, and PerplexityBot.
+
 - [Lighthouse Rich Result Checker](https://search.google.com/test/rich-results) - Tests whether your website is eligible for rich results in Google Search.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
