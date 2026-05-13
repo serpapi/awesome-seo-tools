@@ -302,6 +302,8 @@ Tools for optimizing how your content appears when shared on social platforms.
 
 - [ogimg.xyz](https://ogimg.xyz/) - API for generating Open Graph images programmatically. 10 templates, custom branding, URL auto-fetch mode. Free tier available.
 
+- [TinyTools OG Image Generator](https://tinytools-smoky.vercel.app/) - Free browser-based Open Graph image generator. Create custom OG/Twitter card images with multiple templates, fonts, and gradients. No signup, all processing in-browser. Part of TinyTools open-source utility suite (favicon, color palette, SEO meta tag generators).
+
 ## Miscellaneous Tools
 
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
