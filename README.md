@@ -226,6 +226,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [IndexNow Changed URL Payload Builder](https://indexnow-payload-builder.vercel.app/) - Free, no-tracking browser utility for preparing same-host IndexNow JSON payloads, curl commands, checklists, Markdown notes, and CSV launch-log rows.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
@@ -288,6 +290,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [Broken Link Checker](https://www.brokenlinkcheck.com/) - Detects and reports broken links on websites.
 
 - [Robots.txt Checker](https://support.google.com/webmasters/answer/6062598?hl=en) - Checks robots.txt files for errors.
+
+- [AI Crawler Robots.txt Builder](https://ai-crawler-robots-builder.vercel.app/) - Free no-tracking browser utility for generating and checking AI crawler robots.txt rules for GPTBot, OAI-SearchBot, ClaudeBot, Google-Extended, and PerplexityBot.
 
 - [Lighthouse Rich Result Checker](https://search.google.com/test/rich-results) - Tests whether your website is eligible for rich results in Google Search.
 
