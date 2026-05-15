@@ -226,6 +226,14 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [Lighthouse Auditor](https://apify.com/accurate_pouch/lighthouse-auditor) - Batch PageSpeed Insights API runner with Core Web Vitals tracking and competitor comparison.
+
+- [Tech Stack Detector](https://apify.com/accurate_pouch/tech-stack-detector) - Website technology detection with 7,517 signatures across 105 categories (Wappalyzer-style database).
+
+- [Broken Link Checker](https://apify.com/accurate_pouch/broken-link-checker) - Recursive site crawler that parses sitemaps and robots.txt to find broken links, with webhook alerts.
+
+- [Security Headers Scanner](https://apify.com/accurate_pouch/security-headers) - Audits 12 OWASP-recommended HTTP security headers with A+ to F grading.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
