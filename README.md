@@ -226,6 +226,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [GeoScore](https://geoscoreapp.pages.dev) - Free, open-source instant SEO & GEO (AI search visibility) audit. 39 checks covering technical SEO, Core Web Vitals, E-E-A-T, structured data, and AI citation signals (ChatGPT, Perplexity, Gemini). No login, no tracking. ([GitHub](https://github.com/sprawf/geoscore))
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
