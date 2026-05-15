@@ -80,6 +80,8 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 
 - [Bishopi.io](https://www.bishopi.io/) - Get Enterprise-Grade SEO and Domain Intelligence.
 
+- [The SEO Autopilot](https://the-seo-autopilot.com) - Autonomous AI agent that runs the full SEO pipeline (keyword research, fact-checked drafts, schema markup, internal linking, scheduling) for indie SaaS founders — plus 13 free in-browser SEO tools (llms.txt generator, JSON-LD schema, SERP CTR calculator, hreflang, canonical, robots, AI overview checker, AI content cost calculator).
+
 ## Keyword Research
 
 Uncover high-potential keywords to target and captivate your audience.
