@@ -239,6 +239,7 @@ Boost your local presence and connect with audiences in your community.
 - [Grid My Business](https://gridmybusiness.com/) - The quickest way to discover your local visibility.
 
 - [Moz Local](https://moz.com/products/local) - Maximize your online visibility with Moz's powerful local SEO and reputation management tool.
+- [Reply Champion](https://www.replychampion.com/google-review-management) - Google review management tool for local businesses, with AI review responses, review request workflows, and Google review link/QR tools.
 
 ## SEO Analytics
 
