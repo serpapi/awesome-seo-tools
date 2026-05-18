@@ -79,6 +79,7 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 - [SEO Toolbox](https://seotoolbox.site) – An all-in-one SEO platform that combines page-by-page analysis with AI powered insights and in-depth report generation, built for everyone from individuals to SEO agencies.
 
 - [Bishopi.io](https://www.bishopi.io/) - Get Enterprise-Grade SEO and Domain Intelligence.
+- [FeedPulse](https://feed-pulse.com/) - 100% free all-in-one SEO checker suite (Traffic Rank, DA, DR, Backlinks, SERP, Index, Lighthouse, Speed, Trust, Age) with [transparent data-source disclosure](https://feed-pulse.com/data-sources) for every metric. No signup, no upsell.
 
 ## Keyword Research
 
