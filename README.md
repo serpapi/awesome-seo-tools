@@ -226,6 +226,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [@unlocksaas/seo](https://www.npmjs.com/package/@unlocksaas/seo) - Open-source CLI (MIT) that fetches a deployed page, parses every JSON-LD block, and reports honesty violations (fabricated `aggregateRating`, non-https `sameAs`, malformed ISO dates) plus drift between schema claims and the rendered HTML. Also generates `/llms.txt` and `/llms-feed.json`. Exits non-zero in CI.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
