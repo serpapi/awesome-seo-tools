@@ -226,6 +226,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [Schema Markup Generators](https://99tools.net/category/schema-markup-generators/) - Create SEO-friendly structured data markup for your website in seconds.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
