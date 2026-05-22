@@ -301,6 +301,7 @@ Tools for optimizing how your content appears when shared on social platforms.
 - [ShotOG](https://github.com/nicepkg/shotog) - Open source, edge-native OG image generation API (~50ms) to boost social media click-through rates and improve content visibility.
 
 - [ogimg.xyz](https://ogimg.xyz/) - API for generating Open Graph images programmatically. 10 templates, custom branding, URL auto-fetch mode. Free tier available.
+- [TinyTools OG Image Generator](https://tinytools-smoky.vercel.app/) - Free browser-based Open Graph image generator with instant preview. No signup, no upload. Part of TinyTools, an open-source collection of single-purpose web utilities including SEO meta tag generator, AI robots.txt generator, favicon generator, and color palette generator.
 
 ## Miscellaneous Tools
 
