@@ -293,6 +293,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [AgentGrade](https://agentgrade.com/) - Scans websites for AI agent readiness, validating MCP servers, llms.txt, OpenAPI specs, content negotiation, and 70+ other signals AI agents look for.
+
 
 ## Social Media & Open Graph
 
