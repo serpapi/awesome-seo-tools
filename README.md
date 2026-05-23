@@ -226,6 +226,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [TrustYourWebsite](https://trustyourwebsite.com) - Site audit scanner: structured data, hreflang, robots.txt, plus GDPR/cookie compliance and axe-core accessibility. Free risk score, €2.50 full report.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
