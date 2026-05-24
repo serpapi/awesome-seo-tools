@@ -4,7 +4,7 @@
 
 A curated list of awesome SEO (Search Engine Optimization) tools to help improve your website's ranking and visibility on search engines.
 
-> This repo is maintained by [SerpApi](https://serpapi.com?utm_source=awesome-seo-tools) team: "Scrape Google and other search engines from our fast, easy, and complete API."
+> This repo is maintained by [SerpApi](https://serpapi.com?utm_source=awesome-seo-tools) team: "Scrape Google and other search engines from our fast, easy, and complete API.">此仓库由[SerpApi](https://serpapi.com?utm_source=awesome-seo-tools)团队维护：通过我们快速、简便且功能完善的API抓取Google及其他搜索引擎。
 
 ## Contributing
 
@@ -79,6 +79,8 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 - [SEO Toolbox](https://seotoolbox.site) – An all-in-one SEO platform that combines page-by-page analysis with AI powered insights and in-depth report generation, built for everyone from individuals to SEO agencies.
 
 - [Bishopi.io](https://www.bishopi.io/) - Get Enterprise-Grade SEO and Domain Intelligence.
+
+- [SEO Textools](https://seo.textools.site) - Free SEO audit tool with 20+ checks including technical SEO, content analysis, mobile-friendliness, performance, security, and structured data validation — no sign-up required.
 
 ## Keyword Research
 
@@ -192,27 +194,28 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [Bing Webmaster Tools](https://www.bing.com/webmasters/about) - monitor site presence in Bing Search results. It has additional features like keyword research and recommendations for technical SEO.
 
-- [Yandex Webmaster](https://webmaster.yandex.com/) - monitor a site’s presence in Yandex Search results. It includes features such as indexing status, crawl statistics, search query analytics, and recommendations for improving technical SEO.
+- [Yandex Webmaster](https://webmaster.yandex.com/) - monitor a site’s presence in Yandex Search results. It includes features such as indexing status, crawl statistics, search query analytics, and recommendations for improving technical SEO.- [Yandex Webmaster](https://webmaster.yandex.com/)—监控网站在Yandex搜索结果中的表现。它包含索引状态、抓取统计数据、搜索词分析以及提升技术SEO的建议等功能。
  
-- [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/#spider-features) - SEO Spider is a website crawler that helps you improve onsite SEO by auditing for common SEO issues.
+- [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/#spider-features) - SEO Spider is a website crawler that helps you improve onsite SEO by auditing for common SEO issues.- [尖叫青蛙SEO蜘蛛](https://www.screamingfrog.co.uk/seo-spider/#spider-features)- SEO Spider 是一款网站爬虫，可通过检测常见SEO问题，帮助您提升站内SEO效果。-[尖叫青蛙SEO蜘蛛](https://www.screamingfrog.co.uk/seo-spider/#spider-features)- SEO蜘蛛是一款网站爬虫，可通过检测常见的SEO问题，帮助您提升站内SEO效果。
 
-- [SiteAnalyzer](https://site-analyzer.pro/) - Scan your websites and get detailed information about each page.
+- [SiteAnalyzer](https://site-analyzer.pro/) - Scan your websites and get detailed information about each page.- [SiteAnalyzer](https://site-analyzer.pro/)- 扫描您的网站，获取每个页面的详细信息。[SiteAnalyzer](https://site-analyzer.pro/)- 扫描您的网站，获取每个页面的详细信息。-[SiteAnalyzer](https://site-analyzer.pro/)- 扫描您的网站，获取每个页面的详细信息。
 
-- [Screpy](https://screpy.com/) - Stop worrying about missing important website metrics or checking multiple platforms!
+- [Screpy](https://screpy.com/) - Stop worrying about missing important website metrics or checking multiple platforms!- [Screpy斯克雷皮](https://screpy.com/)- 别再为错过重要网站指标或频繁切换多个平台而烦恼了！-[Screpy斯克雷皮](https://screpy.com/)- [Screpy斯克雷皮斯克雷皮斯克雷皮斯克雷皮斯克雷皮斯克雷皮斯克雷皮斯克雷皮斯克雷皮斯克雷皮](https://screpy.com/)- 别再为错过重要网站指标或频繁切换多个平台而烦恼了！-[Screpy斯克雷皮斯克雷皮斯克雷皮斯克雷皮斯克雷皮斯克雷皮斯克雷皮斯克雷皮斯克雷皮斯克雷皮](https://screpy.com/)- 别再为错过重要网站指标或频繁切换多个平台而烦恼了！-[Screpy斯克雷皮斯克雷皮斯克雷皮斯克雷皮斯克雷皮斯克雷皮斯克雷皮斯克雷皮斯克雷皮斯克雷皮](https://screpy.com/)- 别再为错过重要网站指标或频繁切换多个平台而烦恼啦！
+- - [SEO Audit ToolSEO审计工具SEO审计工具](https://seo.textools.site) - Free online SEO audit tool that checks 16+ on-page factors — meta tags, headings, images, alt text, schema, performance, social tags, and more. Generates PDF reports. No signup required for basic scans.- 免费在线SEO审计工具，可检测16项以上页面因素——元标签、标题、图片、替代文本、Schema、性能、社交标签等。生成PDF报告。基本扫描无需注册。- 免费在线SEO审计工具，可检测16项以上页面因素——元标签、标题、图片、替代文本、Schema、性能、社交标签等。生成PDF报告。基本扫描无需注册。SEO审计工具SEO审计工具SEO审计工具](https://seo.textools.site)- 免费在线SEO审计工具，可检测16项以上页面因素——元标签、标题、图片、替代文本、Schema、性能、社交标签等。生成PDF报告。基本扫描无需注册。- 免费在线SEO审计工具，可检测16项以上页面因素——元标签、标题、图片、替代文本、Schema、性能、社交标签等。生成PDF报告。基本扫描无需注册。SEO审计工具SEO审计工具SEO审计工具](https://seo.textools.site)- 免费在线SEO审计工具，可检测16项以上页面因素——元标签、标题、图片、替代文本、Schema、性能、社交标签等。生成PDF报告。基本扫描无需注册。- 免费在线SEO审计工具，可检测16项以上页面因素——元标签、标题、图片、替代文本、Schema、性能、社交标签等。生成PDF报告。基本扫描无需注册。
 
-- [Sitebulb](https://sitebulb.com/) - The website auditing tool for SEO consultants and agencies.
+- [Sitebulb](https://sitebulb.com/) - The website auditing tool for SEO consultants and agencies.- [Sitebulb](https://sitebulb.com/)- 专为SEO顾问和代理机构打造的网站审计工具。-[Sitebulb](https://sitebulb.com/)- 专为SEO顾问和代理机构打造的网站审计工具。
 
-- [Moz On-Page Grader](https://moz.com/tools/onpage-grader) - Analyzes individual page optimization.
+- [Moz On-Page Grader](https://moz.com/tools/onpage-grader) - Analyzes individual page optimization.- [Moz页面评分工具](https://moz.com/tools/onpage-grader)— 分析单个页面的优化情况。-[Moz页面评分工具](https://moz.com/tools/onpage-grader)— 分析单个页面的优化情况。
 
-- [BROWSEO](https://www.browseo.net) - See your site through the eyes of a search engine. BROWSEO gives you the type of x-ray vision that search engines have.
+- [BROWSEO](https://www.browseo.net) - See your site through the eyes of a search engine. BROWSEO gives you the type of x-ray vision that search engines have.- [BROWSEO](https://www.browseo.net)- 通过搜索引擎的视角查看您的网站。BROWSEO为您呈现搜索引擎所拥有的那种“X光”般的洞察力。
 
-- [linkok.com](https://linkok.com) - A modern broken link checker.
+- [linkok.com](https://linkok.com) - A modern broken link checker.- [linkok.com](https://linkok.com)- 一款现代化的失效链接检查工具。
 
-- [PressProxy](https://pressproxy.io/) - No-code tool to serve blog.domain.tld on domain.tld/blog using Cloudflare Workers.
+- [PressProxy](https://pressproxy.io/) - No-code tool to serve blog.domain.tld on domain.tld/blog using Cloudflare Workers.- [PressProxy](https://pressproxy.io/)- 无需代码的工具，可借助Cloudflare Workers，在domain.tld/blog上提供blog.domain.tld服务。
 
-- [Wizardstool](https://wizardstool.com/) - A tool to check broken links.
+- [Wizardstool](https://wizardstool.com/) - A tool to check broken links.- [Wizardstool](https://wizardstool.com/)- 用于检查失效链接的工具。
 
-- [SEOnaut](https://seonaut.org) - Open source technical SEO auditing tool.
+- [SEOnaut](https://seonaut.org) - Open source technical SEO auditing tool.- [SEOnaut](https://seonaut.org)- 开源技术SEO审计工具。
 
 - [Siteliner](https://www.siteliner.com/) -  Siteliner is a free tool that helps identify duplicate content, broken links, and other issues that affect your site's quality and search engine rankings.
 
@@ -225,6 +228,8 @@ Ensure your website's foundation is solid for search engines and user experience
 - [Server-side Rendering (SSR) Checker](https://www.crawlably.com/ssr-checker/) - Check any URL for SSR (Server-side rendering) by visually comparing server-side rendered version of a page with regular version.
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
+
+- [SEO Audit Tool](https://seo.textools.site/) - Self-evolving SEO analysis system with 24-point detection matrix. Weekly rule updates from Google official sources, automated fix generation, and optimized HTML output.
 
 ## Local SEO
 
@@ -308,7 +313,7 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [GTmetrix](https://gtmetrix.com/) - Analyzes site speed and provides performance insights.
 
-- [Pingdom](https://tools.pingdom.com/) - Tests website load time and gives performance analysis.
+- [Pingdom](https://tools.pingdom.com/) - Tests website load time and gives performance analysis.- [Pingdom](https://tools.pingdom.com/)- 测试网站加载时间并提供性能分析。
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
   
