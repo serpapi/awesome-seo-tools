@@ -225,6 +225,8 @@ Ensure your website's foundation is solid for search engines and user experience
 - [Server-side Rendering (SSR) Checker](https://www.crawlably.com/ssr-checker/) - Check any URL for SSR (Server-side rendering) by visually comparing server-side rendered version of a page with regular version.
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
+*   [aio-surfaces](https://github.com/Janady13/aio-surfaces) - MIT-licensed Python toolkit that generates the four canonical AI-citation surfaces (llms.txt, aeo.json, entity.json, brand.json) from a single typed site config. Pure stdlib, 10/10 tests passing.
+*   [seo-sidecar](https://github.com/Janady13/seo-sidecar) - FastAPI + nginx SSI sidecar that injects up-to-date Schema.org JSON-LD into nginx-served sites with zero crons, zero file changes, always fresh.
 
 ## Local SEO
 
@@ -292,7 +294,7 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [Lighthouse Rich Result Checker](https://search.google.com/test/rich-results) - Tests whether your website is eligible for rich results in Google Search.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
-
+*   [llms.txt generator (HF Space)](https://huggingface.co/spaces/Janady07/llms-txt-generator) - Free Gradio web tool that drafts a spec-compliant llms.txt from any homepage or sitemap URL. Built on aio-surfaces.
 
 ## Social Media & Open Graph
 
