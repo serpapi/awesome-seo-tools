@@ -112,6 +112,8 @@ Delve deep into your link profile and discover opportunities for growth and risk
 
 - [Majestic](https://majestic.com/) - Find out who links to your website.
 
+- [crawlgraph](https://crawlgraph.com/) - Free backlink intelligence built on the public Common Crawl web graph (4.4B edges, 120M domains). Paste a competitor, export every referring domain as CSV. 5 free queries, $99 lifetime for unlimited.
+
 - [Monitor Backlinks](https://monitorbacklinks.com/) - Check the good and bad backlinks for you and the competition.
 
 - [Respona](https://respona.com/) - The all in one link building tool.
