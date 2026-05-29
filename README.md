@@ -314,6 +314,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
   
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
+- [MiN8T UTM Builder](https://min8t.com/tools/utm-builder/) - GA4-compatible UTM parameter generator with copy-ready URL preview. Browser-only, no signup.
+
 Happy optimizing! 🚀
 
 ## Information
