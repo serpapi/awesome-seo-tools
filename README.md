@@ -302,6 +302,8 @@ Tools for optimizing how your content appears when shared on social platforms.
 
 - [ogimg.xyz](https://ogimg.xyz/) - API for generating Open Graph images programmatically. 10 templates, custom branding, URL auto-fetch mode. Free tier available.
 
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based OG image generator plus SEO meta tag generator and AI robots.txt generator. All tools run in-browser with no signup or backend. Open source.
+
 ## Miscellaneous Tools
 
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
