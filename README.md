@@ -226,6 +226,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [Storetown SEO & AI Visibility Checker](https://www.storetown-media.de/stm-seo-audit-tool/) - Free, no-signup tool that scores a site's SEO, pulls real Google PageSpeed data, and checks whether AI crawlers (GPTBot, OAI-SearchBot, PerplexityBot, ClaudeBot) can access it — includes llms.txt, robots.txt and structured-data generators.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
