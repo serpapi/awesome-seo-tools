@@ -214,8 +214,6 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [SEOnaut](https://seonaut.org) - Open source technical SEO auditing tool.
 
-- [Storetown SEO & AI Visibility Checker](https://www.storetown-media.de/stm-seo-audit-tool/) - Free, no-signup tool that scores a site's SEO, pulls real Google PageSpeed data, and checks whether AI crawlers (GPTBot, OAI-SearchBot, PerplexityBot, ClaudeBot) can access it — includes llms.txt, robots.txt and structured-data generators.
-
 - [Siteliner](https://www.siteliner.com/) -  Siteliner is a free tool that helps identify duplicate content, broken links, and other issues that affect your site's quality and search engine rankings.
 
 - [Black SEO Analyzer](https://github.com/sethblack/black-seo-analyzer) - A professional command-line tool for comprehensive SEO analysis, designed for websites that need to be found in both search results and AI answers.
@@ -227,6 +225,8 @@ Ensure your website's foundation is solid for search engines and user experience
 - [Server-side Rendering (SSR) Checker](https://www.crawlably.com/ssr-checker/) - Check any URL for SSR (Server-side rendering) by visually comparing server-side rendered version of a page with regular version.
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
+
+- [Storetown SEO & AI Visibility Checker](https://www.storetown-media.de/stm-seo-audit-tool/) - Free, no-signup tool that scores a site's SEO, pulls real Google PageSpeed data, and checks whether AI crawlers (GPTBot, OAI-SearchBot, PerplexityBot, ClaudeBot) can access it — includes llms.txt, robots.txt and structured-data generators.
 
 ## Local SEO
 
