@@ -301,6 +301,7 @@ Tools for optimizing how your content appears when shared on social platforms.
 - [ShotOG](https://github.com/nicepkg/shotog) - Open source, edge-native OG image generation API (~50ms) to boost social media click-through rates and improve content visibility.
 
 - [ogimg.xyz](https://ogimg.xyz/) - API for generating Open Graph images programmatically. 10 templates, custom branding, URL auto-fetch mode. Free tier available.
+- [Open Graph Preview & Debugger](https://imagedimensions.com/tools/og-image-preview) - Enter a URL to preview its Facebook, X, LinkedIn, and Slack share cards and validate Open Graph and Twitter Card tags.
 
 ## Miscellaneous Tools
 
