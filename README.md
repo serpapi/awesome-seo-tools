@@ -27,6 +27,7 @@ If you know any other SEO tools that deserve to be on this list, feel free to op
 1. [Local SEO](#local-seo)
 1. [SEO Browser Extensions](#seo-browser-extensions)
 1. [Social Media & Open Graph](#social-media--open-graph)
+1. [AI Search / GEO](#ai-search--geo)
 1. [Miscellaneous Tools](#miscellaneous-tools)
 
 ## All in one SEO tools
@@ -301,6 +302,12 @@ Tools for optimizing how your content appears when shared on social platforms.
 - [ShotOG](https://github.com/nicepkg/shotog) - Open source, edge-native OG image generation API (~50ms) to boost social media click-through rates and improve content visibility.
 
 - [ogimg.xyz](https://ogimg.xyz/) - API for generating Open Graph images programmatically. 10 templates, custom branding, URL auto-fetch mode. Free tier available.
+
+## AI Search / GEO
+
+Tools for Generative Engine Optimization (GEO) — measuring and improving your website's visibility in AI search engines and chatbot answers.
+
+- [auto-geo](https://github.com/shadowresearch/auto-geo) - Open-source CLI that audits pages for AI-citation readiness and measures whether ChatGPT, Claude, Gemini, Perplexity, and Grok cite a domain.
 
 ## Miscellaneous Tools
 
