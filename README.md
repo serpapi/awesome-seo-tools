@@ -226,6 +226,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [WebsiteReady](https://websiteready.org/?utm_source=github&utm_medium=github_awesome_list&utm_campaign=websiteready_backlink_outreach&utm_content=awesome_seo_tools_pr) - Free website launch checker for indie makers and AI tool sites, covering SEO basics, crawlability, sitemap, robots.txt, analytics signals, security headers, and AI search readiness.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
