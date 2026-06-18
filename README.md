@@ -314,6 +314,7 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
   
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
+- [PageRX](https://ivo1974kanchev-arch.github.io/pagerx-frontend/) - AI-powered landing page analyzer that scores 5 perspectives (UX, Copy, SEO, Performance, Security). Free tool for instant page audits.
 Happy optimizing! 🚀
 
 ## Information
