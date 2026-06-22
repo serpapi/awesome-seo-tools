@@ -226,6 +226,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [AI Crawler Bots](https://github.com/TryGeoSuite/ai-crawler-bots) - Open-source command-line tool and GitHub Action that audits robots.txt for AI crawler access, scores AI visibility, and analyzes server logs to see which AI bots crawled the site.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
