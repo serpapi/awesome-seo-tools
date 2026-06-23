@@ -293,6 +293,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [AI Readiness Checker](https://samedaydesk.com/tools/ai-readiness) - Checks whether AI search engines (ChatGPT, Perplexity, Claude, Google AI) can crawl and understand your site: AI-crawler access in robots.txt, JSON-LD structured data, title/meta, Open Graph, and sitemap. Free, no signup ([open-source CLI](https://github.com/epistemedeus/ai-readiness)).
+
 
 ## Social Media & Open Graph
 
