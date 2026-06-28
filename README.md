@@ -246,6 +246,8 @@ Boost your local presence and connect with audiences in your community.
  
 - [SEO Gets](https://seogets.com/) - Privacy-focused analytics tool built to replace Google Search Console for Agencies and Affiliates.
 
+- [LLM Pulse](https://llmpulse.ai) - AI search visibility analytics tracking brand mentions, citations and share of voice across ChatGPT, Perplexity, Gemini and Google AI Overviews.
+
 ## SEO Browser Extensions
 
 Equip your browser with tools for quick and efficient SEO insights on the go.
