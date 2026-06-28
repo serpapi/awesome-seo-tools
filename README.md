@@ -226,6 +226,10 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [Edos SEO Scanner](https://edos.com.au/tools/seo-scanner/) - Free in-browser on-page SEO audit: 11 checks, a letter grade and plain-English fixes. No signup.
+
+- [Edos GEO/AEO Scanner](https://edos.com.au/tools/geo-aeo-scanner/) - Free AI-search readiness audit (structured data, content depth, citations) for Google AI Overviews, ChatGPT and Perplexity.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
