@@ -314,6 +314,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
   
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
+- [Archytas AISpy](https://www.archytasdigital.com) - Free, downloadable AI visibility tracker app. Bring-your-own-key, runs on Windows / Mac with Linux support coming soon. Contains visibility dashboards, ongoing scheduling, Web Query Fanout Search tracking and analysis of citations, and NLP to track language usage over time. Support for ChatGPT, Gemini, Claude, Perplexity, AI Mode and AI Overviews.
+
 Happy optimizing! 🚀
 
 ## Information
