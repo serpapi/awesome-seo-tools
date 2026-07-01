@@ -80,6 +80,8 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 
 - [Bishopi.io](https://www.bishopi.io/) - Get Enterprise-Grade SEO and Domain Intelligence.
 
+- [SeoMods](https://seomods.com/) - Free collection of 50+ professional SEO tools including SEO audits, keyword research, backlink analysis, technical SEO, DNS, WHOIS, SSL, robots.txt, sitemap, redirect checker, and meta tag analysis.
+  
 ## Keyword Research
 
 Uncover high-potential keywords to target and captivate your audience.
