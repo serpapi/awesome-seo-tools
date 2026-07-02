@@ -246,6 +246,8 @@ Boost your local presence and connect with audiences in your community.
  
 - [SEO Gets](https://seogets.com/) - Privacy-focused analytics tool built to replace Google Search Console for Agencies and Affiliates.
 
+- [ReputeMap](https://reputemap.com/) - Get more Google reviews, reply with AI, and monitor negative reviews to improve local SEO and Google Maps visibility.
+
 ## SEO Browser Extensions
 
 Equip your browser with tools for quick and efficient SEO insights on the go.
