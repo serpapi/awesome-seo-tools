@@ -302,6 +302,8 @@ Tools for optimizing how your content appears when shared on social platforms.
 
 - [ogimg.xyz](https://ogimg.xyz/) - API for generating Open Graph images programmatically. 10 templates, custom branding, URL auto-fetch mode. Free tier available.
 
+- [PublishPixel](https://publishpixel.net/) - Free, in-browser image checks for SEO and social sharing: dimensions, file size, metadata, alt text, Open Graph readiness and exact platform image sizes. No upload, no signup.
+
 ## Miscellaneous Tools
 
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
