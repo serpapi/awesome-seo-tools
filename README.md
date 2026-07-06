@@ -226,6 +226,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [AnswerLens](https://app.sfdj.net/) - Audits B2B SaaS public evidence across crawlable pages, metadata, pricing, comparison pages, proof, and llms.txt, then turns gaps into a source-backed fix plan.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
