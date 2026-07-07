@@ -226,6 +226,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [XML Sitemap Generator](https://www.nasrtech.dev/tools/sitemap-generator/) - Free browser-based tool that builds a valid XML sitemap, HTML sitemap, and robots.txt from your URL list. Runs 100% client-side — no upload, no sign-up.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
