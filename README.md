@@ -220,6 +220,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [Python SEO Analyzer](https://github.com/sethblack/python-seo-analyzer) - SEO tool that analyzes the structure of a site, crawls the site, counts words in the body of the site, and warns of any technical SEO issues.
 
+- [Nudex SEO Toolkit](https://github.com/dy275678472-ship-it/nudex-seo-toolkit) - Open-source Python toolkit for multi-site SEO monitoring, multilingual sitemap generation with hreflang, and content gap detection.
+
 - IncRev JavaScript Crawler https://github.com/VesterlundCoder/SEO-JavaScript-Crawler-IncRev Most Crawlers don't render JavaScript, but his one does. Whether you're auditing a React, Vue, or Angular site — this is the tool your stack has been missing.
 
 - [Server-side Rendering (SSR) Checker](https://www.crawlably.com/ssr-checker/) - Check any URL for SSR (Server-side rendering) by visually comparing server-side rendered version of a page with regular version.
