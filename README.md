@@ -226,6 +226,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [Leaster Site-Check](https://check.leaster.it) - Free, privacy-first website checker for SEO, AI visibility (GAIO/GEO), privacy, performance and accessibility. Open JSON API, no signup, no tracking.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
