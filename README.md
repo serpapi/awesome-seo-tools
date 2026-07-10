@@ -314,6 +314,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
   
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
+- [SEO Report Kit](https://seoreportkit.com/tools/seo-report-brief-generator/) - Free, browser-based generators and original templates for client SEO reports, audits, keyword rankings, and AI visibility; no signup or data upload.
+
 Happy optimizing! 🚀
 
 ## Information
