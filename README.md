@@ -314,6 +314,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
   
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
+- [Rankfor.AI](https://rankfor.ai/) - Measures how AI assistants (ChatGPT, Gemini, Perplexity) describe and recommend brands, per model and per language, with a repeated-query methodology published as open data.
+
 Happy optimizing! 🚀
 
 ## Information
