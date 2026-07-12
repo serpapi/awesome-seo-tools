@@ -226,6 +226,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [actablesite-check](https://github.com/unitedideas/actablesite-check) - Free, open-source CLI and GitHub Action that checks robots.txt policy for eight OpenAI, Anthropic, Perplexity, and Google AI crawler tokens.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
