@@ -172,6 +172,7 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [SerpBear](https://docs.serpbear.com/) - An open source search engine position tracking app.
 
+- [SEO Command Center](https://github.com/testedmedia/seo-command-center) - Self-hosted, open-source (MIT) SEO platform: rank tracking, keyword research, competitor gaps, AI Overview visibility, site audits, and local map-pack grids on pay-as-you-go SERP data.
 - [SERPWatcher](https://serpwatch.io/) - The most advanced rank tracker for marketers and agencies.
 
 - [AccuRanker](https://www.accuranker.com/) - The world's fastest & most accurate rank tracker.
