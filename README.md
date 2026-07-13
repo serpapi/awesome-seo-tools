@@ -295,6 +295,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [NasrTech SEO Checker](https://www.nasrtech.dev/tools/seo-checker/) - Free on-page SEO audit for any URL — title, meta, headings, canonical, schema, Open Graph, robots.txt/sitemap, security headers, AI-crawler access and Lighthouse speed, with a 0-100 score. No sign-up.
+
 
 ## Social Media & Open Graph
 
