@@ -302,6 +302,8 @@ Tools for optimizing how your content appears when shared on social platforms.
 
 - [ogimg.xyz](https://ogimg.xyz/) - API for generating Open Graph images programmatically. 10 templates, custom branding, URL auto-fetch mode. Free tier available.
 
+- [CodeQuest OGP Preview](https://codequest.work/generator/ogp-preview/) - Preview how a URL's Open Graph tags render on X, Facebook, LINE, Hatena Bookmark, LinkedIn, and Pinterest in real time, and copy the meta tags in one click. Free, no signup.
+
 ## Miscellaneous Tools
 
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
