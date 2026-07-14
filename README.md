@@ -293,6 +293,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [HTML Outline Checker](https://codequest.work/generator/html-outline-checker/) - Paste HTML to validate heading hierarchy (outline), invalid tag nesting, duplicate classes, and missing alt/charset/title. Runs entirely in the browser; no data is sent. Free.
+
 
 ## Social Media & Open Graph
 
