@@ -226,6 +226,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [website-seo-audit](https://github.com/zxhydfzr/website-seo-audit) - Zero-dependency SEO auditor that crawls a site and grades on-page, technical, and JSON-LD structured-data signals; runs as a CLI or an AI agent skill.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
