@@ -242,6 +242,8 @@ Boost your local presence and connect with audiences in your community.
 
 ## SEO Analytics
 
+- [KusiGEO](https://kusiai.es/) — AI visibility audit tool for ChatGPT, Gemini, Perplexity and AI Overviews; measures brand mentions, entity clarity and citation readiness.
+
 - [Google Search Console](https://search.google.com/search-console/about) - Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results
  
 - [SEO Gets](https://seogets.com/) - Privacy-focused analytics tool built to replace Google Search Console for Agencies and Affiliates.
