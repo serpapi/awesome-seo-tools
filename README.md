@@ -313,6 +313,7 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
   
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
+- [goose-aeo](https://github.com/gooseworks-ai/goose-aeo) - Open-source AEO tracking toolkit (CLI + dashboard) for checking and improving brand visibility across AI search engines: ChatGPT, Perplexity, Gemini, Grok, Claude, and DeepSeek.
 
 Happy optimizing! 🚀
 
