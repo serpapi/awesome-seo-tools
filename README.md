@@ -282,6 +282,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [SEO Sidebar](https://chromewebstore.google.com/detail/seo-sidebar/gmmiickdcmghfpliaiefhjafccapgmpp) - A browser extension that displays real-time on-page SEO data in a persistent side panel, with one-click export to text reports.
 
+- [LinkViz](https://konabayev.com/linkviz/) - Free privacy-first browser extension that highlights dofollow, nofollow, sponsored, and UGC links on any page and exports link audits to CSV or JSON.
+
   
 ## Validator / Checker
 
