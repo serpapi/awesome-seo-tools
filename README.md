@@ -300,6 +300,8 @@ Tools for optimizing how your content appears when shared on social platforms.
 
 - [ShotOG](https://github.com/nicepkg/shotog) - Open source, edge-native OG image generation API (~50ms) to boost social media click-through rates and improve content visibility.
 
+- [ImageSizeKit Open Graph Preview Checker](https://imagesizekit.com/open-graph-preview-checker/) - Browser-based checker for Open Graph preview image dimensions before publishing. Runs locally with no image upload required.
+
 - [ogimg.xyz](https://ogimg.xyz/) - API for generating Open Graph images programmatically. 10 templates, custom branding, URL auto-fetch mode. Free tier available.
 
 ## Miscellaneous Tools
