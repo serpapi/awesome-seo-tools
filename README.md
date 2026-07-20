@@ -188,6 +188,7 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 Ensure your website's foundation is solid for search engines and user experience.
 
+- [gsc-indexer](https://github.com/toolsura/gsc-indexer) - Submit and re-index URLs to Google Search Console's URL Inspection API from CI.
 - [Google Search Console](https://search.google.com/search-console/about) - Free tool from Google to monitor and maintain site's presence in Google Search results.
 
 - [Bing Webmaster Tools](https://www.bing.com/webmasters/about) - monitor site presence in Bing Search results. It has additional features like keyword research and recommendations for technical SEO.
