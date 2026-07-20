@@ -122,6 +122,8 @@ Delve deep into your link profile and discover opportunities for growth and risk
 
 - [BacklinkScan](https://backlinkscan.com/) - Backlink Checker. Simple. Powerful.
 
+- [RankParse](https://rankparse.com) - Pay-per-credit SEO API for backlinks, domain authority, tech-stack detection, and page audits, built on pre-processed Common Crawl data. 100 free credits, credits never expire, official Python/Node SDKs and an MCP server.
+
 - Other "All in one SEO tools" offer this feature as well.
 
 ## Content Optimization
