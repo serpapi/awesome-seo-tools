@@ -226,6 +226,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [SEO Snapshot](https://seosnapshot.dev) - Free SEO report with 100+ on-page checks and copy-paste fix code for every issue (meta, headings, structured data, security headers). No signup.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
