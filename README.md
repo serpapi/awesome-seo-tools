@@ -226,6 +226,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [aijob-seo-audit](https://github.com/jacky6658/aijob-seo-audit) - Open-source AI-driven white-hat SEO/AEO/GEO audit tool that finds orphan pages via full-site link graph analysis, misused schema markup, sitemap gaps, and interprets Core Web Vitals against real CrUX field data instead of Lighthouse lab scores alone. Works as a Claude Code Skill or standalone Python scripts with any AI tool.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
