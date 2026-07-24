@@ -294,6 +294,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
 
+- [Meta Tag Checker](https://meta-tag-checker.appsnap.co.uk/) - Free meta tag checker and SEO auditor. Validates title tags, meta descriptions, Open Graph, Twitter Cards, and schema markup.
+
 ## Social Media & Open Graph
 
 Tools for optimizing how your content appears when shared on social platforms.
