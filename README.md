@@ -240,6 +240,8 @@ Boost your local presence and connect with audiences in your community.
 
 - [Moz Local](https://moz.com/products/local) - Maximize your online visibility with Moz's powerful local SEO and reputation management tool.
 
+- [GeoImageTagger](https://geoimagetagger.com/) - AI-powered image geotagging and metadata editor for local SEO. Geotag photos with GPS coordinates, edit EXIF/IPTC/XMP metadata, and generate AI tags. 8 free browser-based tools.
+
 ## SEO Analytics
 
 - [Google Search Console](https://search.google.com/search-console/about) - Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results
