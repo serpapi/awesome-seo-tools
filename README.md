@@ -293,6 +293,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [AI Visibility Checker](https://alexander-k-eliot.github.io/ai-visibility-check-free/) - Free, no-signup browser check for whether GPTBot, ClaudeBot, PerplexityBot and other AI crawlers can actually read a site: llms.txt, robots.txt AI-crawler policy, structured data, and no-JS legibility, scored out of 100.
+
 
 ## Social Media & Open Graph
 
