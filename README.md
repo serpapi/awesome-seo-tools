@@ -314,6 +314,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
   
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
+- [LLM Visibility Check](https://llmvisibilitycheck.com/) - Free LLM visibility check: see whether ChatGPT, Perplexity, Gemini and Google AI Overviews recommend your brand. Free first report, no credit card.
+
 Happy optimizing! 🚀
 
 ## Information
