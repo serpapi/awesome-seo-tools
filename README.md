@@ -226,6 +226,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [CrawlFuse Monitor](https://github.com/Mandrilsquad1441/crawlfuse-monitor) - Open-source GitHub Action that fails CI when HTTP status, canonical, meta robots, or X-Robots-Tag checks regress on selected public URLs.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
