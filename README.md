@@ -166,7 +166,7 @@ Fine-tune your content to resonate with search algorithms and your audience alik
 
 - [TuxSEO](https://tuxseo.com/) - Fully automated, SEO optimized, blog creation for your business.  
  
-- [CharCount](https://charcount.app/) - Free character and word counter to keep titles, meta descriptions, and content within SEO-friendly length limits.
+- [CharCount](https://charcount.app/) - Free character and word counter to keep titles, meta descriptions, and content within SEO-friendly length limits. 
 
 ## Rank Tracking
 
