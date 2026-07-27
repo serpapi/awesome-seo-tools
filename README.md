@@ -122,6 +122,8 @@ Delve deep into your link profile and discover opportunities for growth and risk
 
 - [BacklinkScan](https://backlinkscan.com/) - Backlink Checker. Simple. Powerful.
 
+- [Mydentify Dofollow/Nofollow Backlink Checker](https://mydentify.com/tools/dofollow-nofollow-checker) - Free checker that scans a live page, follows safe redirects, and reports matching links as followed, nofollow, sponsored, or UGC.
+
 - Other "All in one SEO tools" offer this feature as well.
 
 ## Content Optimization
