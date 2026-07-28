@@ -293,6 +293,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [ScrapTheWeb](https://scraptheweb.in/tools/) - Free browser-based SEO checkers: robots.txt tester covering AI crawlers, meta tag analyzer with pixel-width SERP preview, Open Graph checker and HTTP header/redirect tracer. No signup or usage limits.
+
 
 ## Social Media & Open Graph
 
