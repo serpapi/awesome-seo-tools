@@ -313,6 +313,7 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
   
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
+- [ExpiredFeed](https://expiredfeed.com) - Free daily lists of deleted, pending-delete and newly registered domains, with brand ability scoring, SEO history and drop statistics.
 
 Happy optimizing! 🚀
 
