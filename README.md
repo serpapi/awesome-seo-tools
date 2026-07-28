@@ -226,6 +226,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [ToolMint Technical SEO Audit Checklist](https://www.tool-mint.com/technical-seo-audit-checklist) - Free interactive 60-point technical SEO checklist with progress tracking, notes, severity filters, CSV and TXT export, and print support.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
