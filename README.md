@@ -314,6 +314,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
   
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
+- [SERP Preview Tool](https://alltoolsverse.com/tools/serp-preview-tool/) - Preview desktop and mobile Google snippets with title pixel-width checks, meta description length guidance, and a live checklist.
+
 Happy optimizing! 🚀
 
 ## Information
