@@ -314,7 +314,7 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
   
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
-- [FixAEO](https://fixaeo.com/) - Track and improve how your brand shows up in AI answers across ChatGPT, Perplexity, Gemini, Claude and 8 engines total (Answer Engine Optimization), plus 19 free AEO tools.
+- [FixAEO](https://fixaeo.com/) - Track brand mentions, ranks, and citations across nine AI engines, with free AEO tools including a browser-based robots.txt checker.
 
 Happy optimizing! 🚀
 
