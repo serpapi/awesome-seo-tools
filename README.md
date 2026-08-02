@@ -80,6 +80,8 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 
 - [Bishopi.io](https://www.bishopi.io/) - Get Enterprise-Grade SEO and Domain Intelligence.
 
+- [SerpScale](https://www.serpscale.com/) - All-in-one SEO platform with keyword rank tracking, keyword research, site audits and backlink monitoring, plus Google Search Console and GA4 data in one dashboard.
+
 ## Keyword Research
 
 Uncover high-potential keywords to target and captivate your audience.
