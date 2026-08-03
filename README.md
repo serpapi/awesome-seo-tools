@@ -285,7 +285,9 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
   
 ## Validator / Checker
 
+
 - [Broken Link Checker](https://www.brokenlinkcheck.com/) - Detects and reports broken links on websites.
+- [Broken Link Checker for Chrome](https://chromewebstore.google.com/detail/broken-link-checker/cipdlgmjblnniiicohcmcafcncippbha) - Checks every link on the current page, highlights broken URLs and redirects, and exports results to CSV.
 
 - [Robots.txt Checker](https://support.google.com/webmasters/answer/6062598?hl=en) - Checks robots.txt files for errors.
 
