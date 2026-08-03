@@ -314,6 +314,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
   
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
+- [PageSpeed.ONE](https://pagespeed.one/en) - Page speed monitoring with daily automated synthetic tests and current and historical CrUX field data for Core Web Vitals.
+
 Happy optimizing! 🚀
 
 ## Information
