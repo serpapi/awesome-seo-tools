@@ -218,6 +218,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [Black SEO Analyzer](https://github.com/sethblack/black-seo-analyzer) - A professional command-line tool for comprehensive SEO analysis, designed for websites that need to be found in both search results and AI answers.
 
+- [SEO Snapshot](https://seosnapshot.dev) - Free on-page SEO analyzer that runs 100 checks (meta tags, headings, Core Web Vitals, security headers, accessibility, structured data) and returns copy-paste code fixes rather than just warnings. 5 free analyses/day, no signup.
+
 - [Python SEO Analyzer](https://github.com/sethblack/python-seo-analyzer) - SEO tool that analyzes the structure of a site, crawls the site, counts words in the body of the site, and warns of any technical SEO issues.
 
 - IncRev JavaScript Crawler https://github.com/VesterlundCoder/SEO-JavaScript-Crawler-IncRev Most Crawlers don't render JavaScript, but his one does. Whether you're auditing a React, Vue, or Angular site — this is the tool your stack has been missing.
