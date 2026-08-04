@@ -122,6 +122,8 @@ Delve deep into your link profile and discover opportunities for growth and risk
 
 - [BacklinkScan](https://backlinkscan.com/) - Backlink Checker. Simple. Powerful.
 
+- [DR Checker](https://dr-checker.com/) - Free Ahrefs Domain Rating checker for quick backlink prospect and competitor authority checks.
+
 - Other "All in one SEO tools" offer this feature as well.
 
 ## Content Optimization
