@@ -226,6 +226,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [Bot Ledger](https://farrelldan.github.io/ai-bot-directory/) - Free directory of verified AI crawler user-agents (GPTBot, ClaudeBot, PerplexityBot, etc.) with a one-click robots.txt and llms.txt generator, so you can control which AI bots can access your site.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
