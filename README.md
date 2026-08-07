@@ -54,6 +54,7 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 - [WebCEO](https://www.webceo.com/) - SEO & digital marketing tools. For agency-level analysis, reports & lead generation.
 
 - [SpyFu](https://www.spyfu.com/) - SEO marketing suite, PPC analyzer, historic data, competitive analysis, backlink outreach, unlimited keyword & domain projects, custom reporting.
+- [Vaytric Google Ads Lookup](https://vaytric.com/google-ads-lookup/) - Free tool to find a company's Google advertiser ID and live ads from Ads Transparency Center.
 
 - [Zutrix](https://zutrix.com/) - SEO Tools to boost your traffic.
 
