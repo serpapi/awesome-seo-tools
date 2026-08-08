@@ -302,6 +302,8 @@ Tools for optimizing how your content appears when shared on social platforms.
 
 - [ogimg.xyz](https://ogimg.xyz/) - API for generating Open Graph images programmatically. 10 templates, custom branding, URL auto-fetch mode. Free tier available.
 
+- [OG Forge](https://github.com/percymcn/og-forge) - Free GitHub Action that generates Open Graph and Twitter card images in CI. Satori + resvg, fonts vendored, no headless browser required.
+
 ## Miscellaneous Tools
 
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
