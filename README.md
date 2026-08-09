@@ -314,7 +314,7 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
   
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
-- [FixAEO](https://fixaeo.com/) - Track brand mentions, ranks, and citations across nine AI engines, with free AEO tools including a browser-based robots.txt checker.
+- [FixAEO](https://fixaeo.com/) - Track brand mentions, ranks, and citations across major AI search engines, with free AEO tools including a browser-based robots.txt checker.
 
 Happy optimizing! 🚀
 
