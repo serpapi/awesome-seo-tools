@@ -314,6 +314,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
   
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
+- [GEO-Score](https://geo-score.online) – Free checker that scores any URL (0-100) on how well it's optimized to be cited by ChatGPT, Perplexity, Claude and Google AI Overviews. No signup required.
+
 Happy optimizing! 🚀
 
 ## Information
