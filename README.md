@@ -226,6 +226,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [MergeFix](https://mergefix.com) - Audits a site for technical SEO, performance, accessibility, and security issues, then opens the fixes as a real GitHub pull request instead of just a report.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
