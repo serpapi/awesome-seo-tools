@@ -226,7 +226,7 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
-- [Sitemap Cohort Auditor](https://github.com/edilec/sitemap-cohort-auditor) - Open-source, dependency-free Node.js CLI for recursively auditing XML and GZip sitemaps, comparing URL and image cohorts, and producing deterministic JSON reports.
+- [Sitemap Cohort Auditor](https://github.com/edilec/sitemap-cohort-auditor) - Open-source, dependency-free Node.js CLI for recursively auditing XML and GZip sitemaps, measuring URL and image coverage, comparing URL cohorts, and producing deterministic JSON reports.
 
 ## Local SEO
 
