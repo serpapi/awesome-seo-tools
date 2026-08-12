@@ -314,6 +314,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
   
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
+- [Mentioned](https://mentioned.to/) - Done-for-you Reddit growth for search and AI visibility. Finds the Reddit threads already ranking on Google for your keywords, places your brand in them, and reports share of voice vs competitors.
+
 Happy optimizing! 🚀
 
 ## Information
