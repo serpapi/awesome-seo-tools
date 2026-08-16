@@ -240,6 +240,8 @@ Boost your local presence and connect with audiences in your community.
 
 - [Moz Local](https://moz.com/products/local) - Maximize your online visibility with Moz's powerful local SEO and reputation management tool.
 
+- [RepuShield Review Policy Checker](https://repushield.app/tools/google-review-policy-checker) - Check a Google review against Google's published review policy and see what evidence a removal case needs. Runs client-side, no signup.
+
 ## SEO Analytics
 
 - [Google Search Console](https://search.google.com/search-console/about) - Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results
