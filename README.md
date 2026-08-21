@@ -293,6 +293,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [SitemapKit XML Sitemap Validator](https://sitemapkit.com/tools/sitemap-checker) - Free browser-based validator for malformed XML, invalid or duplicate URLs, sitemap size limits, and invalid `lastmod` dates.
+
 
 ## Social Media & Open Graph
 
