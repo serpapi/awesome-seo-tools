@@ -164,7 +164,9 @@ Fine-tune your content to resonate with search algorithms and your audience alik
 
 - [Hypertxt](https://hypertxt.ai) - If Perplexity, ChatGPT and Ahrefs had a baby, you'd have Hypertxt. Generate deeply-researched SEO/GEO-optimized content.
 
-- [TuxSEO](https://tuxseo.com/) - Fully automated, SEO optimized, blog creation for your business.  
+- [TuxSEO](https://tuxseo.com/) - Fully automated, SEO optimized, blog creation for your business.
+
+- [Toolsy Word and Character Counter](https://toolsy.pro/word-character-counter/) - Word and character counts with reading and speaking time, a Flesch reading ease score, and the words and phrases a draft repeats most. 
  
 ## Rank Tracking
 
@@ -293,6 +295,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [Toolsy robots.txt Tester](https://toolsy.pro/robots-txt-tester/) - Tests any URL against any crawler and shows which rule decides it, including longest-match precedence, wildcards and group selection. Runs in the browser.
+
 
 ## Social Media & Open Graph
 
@@ -301,6 +305,8 @@ Tools for optimizing how your content appears when shared on social platforms.
 - [ShotOG](https://github.com/nicepkg/shotog) - Open source, edge-native OG image generation API (~50ms) to boost social media click-through rates and improve content visibility.
 
 - [ogimg.xyz](https://ogimg.xyz/) - API for generating Open Graph images programmatically. 10 templates, custom branding, URL auto-fetch mode. Free tier available.
+
+- [Toolsy Social Share Preview](https://toolsy.pro/social-preview/) - Paste a page's HTML and see the card it produces on Facebook, X and LinkedIn, with warnings for a missing or non-loading og:image.
 
 ## Miscellaneous Tools
 
