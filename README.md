@@ -293,6 +293,10 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [On-Page SEO Checker](https://kinetixseo.com/on-page-seo-checker) - Free, no-signup checker for heading hierarchy order, alt text, internal linking, and canonical tags.
+
+- [Hreflang Checker](https://kinetixseo.com/tools/hreflang-checker) - Free hreflang validator for format, x-default, self-reference, and reciprocal return-tags.
+
 
 ## Social Media & Open Graph
 
