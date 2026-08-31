@@ -282,6 +282,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [SEO Sidebar](https://chromewebstore.google.com/detail/seo-sidebar/gmmiickdcmghfpliaiefhjafccapgmpp) - A browser extension that displays real-time on-page SEO data in a persistent side panel, with one-click export to text reports.
 
+- [SearchScope](https://www.khalidsemary.com/marketing-tools) - Free Chrome extension for source-versus-rendered checks, structured data, hreflang, HTTP status codes, and AI-crawler access signals.
+
   
 ## Validator / Checker
 
