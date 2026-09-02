@@ -226,6 +226,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [SearchVitals](https://searchvitals.com/) - Free technical SEO and AI-visibility checks: which AI crawlers your robots.txt blocks, llms.txt validity, JS-free rendered HTML, structured data and Core Web Vitals.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
