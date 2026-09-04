@@ -226,6 +226,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [Greadme](https://www.greadme.com/) - Website audits for SEO, performance and AI visibility, with fixes you can copy. Includes a free Schema Validator and AI Access Checker that need no signup.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
