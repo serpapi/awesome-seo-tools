@@ -226,6 +226,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [SchemaForge](https://schemaforge.thememend.com) - Free JSON-LD structured data generator for 10 schema.org types that validates required fields before output.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
