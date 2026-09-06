@@ -80,6 +80,8 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 
 - [Bishopi.io](https://www.bishopi.io/) - Get Enterprise-Grade SEO and Domain Intelligence.
 
+- [SiteData](https://sitedata.dev/) - SEO, Ads & traffic intelligence: estimate website traffic, uncover connected sites via reverse AdSense lookup, research Google Ads advertisers, ranking keywords and Domain Rating.
+
 ## Keyword Research
 
 Uncover high-potential keywords to target and captivate your audience.
@@ -283,6 +285,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [SEO Sidebar](https://chromewebstore.google.com/detail/seo-sidebar/gmmiickdcmghfpliaiefhjafccapgmpp) - A browser extension that displays real-time on-page SEO data in a persistent side panel, with one-click export to text reports.
 
   
+- [SiteData](https://chromewebstore.google.com/detail/emeakbgdecgmdjgegnejpppcnkcnoaen) - Analyze any website's traffic, keywords, Google Ads activity and reverse AdSense connections right in your browser.
+
 ## Validator / Checker
 
 - [Broken Link Checker](https://www.brokenlinkcheck.com/) - Detects and reports broken links on websites.
