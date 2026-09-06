@@ -226,6 +226,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [RankCLI](https://rankcli.dev) - Developer-first SEO automation: 280+ checks from the CLI or CI/CD, GEO (AI search visibility) analysis for GPTBot/ClaudeBot/PerplexityBot, GitHub auto-fix PRs, and a free MCP server (no signup) for running audits straight from Claude, Cursor, or any MCP host.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
