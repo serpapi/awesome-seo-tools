@@ -244,6 +244,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [geo-lint](https://github.com/IJONIS/geo-lint) - First open-source linter for Generative Engine Optimization (GEO). 92 rules for AI search visibility including structured data, citation density, and answer-ready formatting. Agent-first JSON output for automated lint-fix loops.
 
+- [RankCLI](https://rankcli.dev) - Developer-first SEO automation: 280+ checks from the CLI or CI/CD, GEO (AI search visibility) analysis for GPTBot/ClaudeBot/PerplexityBot, GitHub auto-fix PRs, and a free MCP server (no signup) for running audits straight from Claude, Cursor, or any MCP host.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
