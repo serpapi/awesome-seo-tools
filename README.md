@@ -228,6 +228,8 @@ Ensure your website's foundation is solid for search engines and user experience
 - [SEO Score API](https://seoscoreapi.com/) - API-first SEO audit tool that returns a score (0-100), grade, and 28 checks across meta, technical, social, performance, and accessibility with prioritized fix recommendations. Free tier available.
 
 
+- [AI Crawler Bots](https://github.com/TryGeoSuite/ai-crawler-bots) - Open-source command-line tool and GitHub Action that audits robots.txt for AI crawler access, scores AI visibility, and analyzes server logs to see which AI bots crawled the site.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
