@@ -84,7 +84,7 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 - [SearchAtlas](https://searchatlas.com/) - AI-powered SEO platform with an [MCP server](https://github.com/Search-Atlas-Group/searchatlas-mcp-server) that exposes 16 tools for 
   keyword research, site auditing, content optimization, backlink analysis, PPC management, and LLM brand visibility monitoring directly inside AI assistants.
 
-- [AltoRank](https://github.com/AltoRank/altorank) - Open-source (AGPL-3.0) AI SEO content engine you can self-host. Keyword research, domain audit, article generation with scoring and fact-checking, rank tracking, and AI-visibility monitoring, publishing to 12 destinations. A person approves every article before it ships — the MCP server exposes no publish tool.
+- [AltoRank](https://github.com/AltoRank/altorank) - Open-source (AGPL-3.0) AI SEO content engine you can self-host. Keyword research, domain audit, article generation with scoring and fact-checking, rank tracking, and AI-visibility monitoring, publishing to 13 destinations. A person approves every article before it ships — the MCP server exposes no publish tool.
 
 ## Keyword Research
 
