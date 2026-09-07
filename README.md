@@ -194,6 +194,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [AI Visibility Checker](https://ai-visibility.lastminutedealshq.com) - Checks whether a site's robots.txt allows the AI search crawlers that feed citations (OAI-SearchBot, PerplexityBot), whether its homepage ships readable text without JavaScript, and whether it serves an llms.txt. Free, no signup. Backed by an open census of the Tranco top 5,000 sites.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
@@ -310,6 +312,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [Lighthouse Rich Result Checker](https://search.google.com/test/rich-results) - Tests whether your website is eligible for rich results in Google Search.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
+
+- [llms.txt Generator and Validator](https://ai-visibility.lastminutedealshq.com/llms-txt) - Builds an llms.txt from a site's real homepage and sitemap, or validates an existing one against the spec, including whether the links in it resolve. Free, no signup.
 
 
 ## Social Media & Open Graph
