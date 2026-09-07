@@ -65,7 +65,6 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 
 - [Clicks.so](https://www.clicks.so/) - The Beginner-Friendly Affordable SEO Tool.
 
-  
 - [SEO Utils](https://seoutils.app/) - An SEO desktop application built for macOS, Windows, Linux.
 
 - [Spexia](https://getspexia.com) - All in one tool to create & optimize informational content (specialized on ECom shops).
@@ -81,6 +80,9 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 - [Bishopi.io](https://www.bishopi.io/) - Get Enterprise-Grade SEO and Domain Intelligence.
 
 - [Fast SEO Fix](https://www.fastseofix.com) - Grow Your Organic Traffic with Automated SEO.
+
+- [SearchAtlas](https://searchatlas.com/) - AI-powered SEO platform with an [MCP server](https://github.com/Search-Atlas-Group/searchatlas-mcp-server) that exposes 16 tools for 
+  keyword research, site auditing, content optimization, backlink analysis, PPC management, and LLM brand visibility monitoring directly inside AI assistants.
 
 ## Keyword Research
 
