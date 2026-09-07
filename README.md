@@ -330,6 +330,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [marketingskills/seo](https://github.com/marketingskills/seo) - Open-source collection of 20 SEO operator skills for AI coding agents (Claude Code, Codex, Cursor): diagnose traffic decay, find keyword opportunities, and generate client-ready reports using live Google Search Console and GA4 data.
+
 Happy optimizing! 🚀
 
 ## Information
