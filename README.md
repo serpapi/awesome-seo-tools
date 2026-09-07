@@ -244,6 +244,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [geo-lint](https://github.com/IJONIS/geo-lint) - First open-source linter for Generative Engine Optimization (GEO). 92 rules for AI search visibility including structured data, citation density, and answer-ready formatting. Agent-first JSON output for automated lint-fix loops.
 
+- [XML Sitemap Generator](https://www.nasrtech.dev/tools/sitemap-generator/) - Free browser-based tool that builds a valid XML sitemap, HTML sitemap, and robots.txt from your URL list. Runs 100% client-side — no upload, no sign-up.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
@@ -310,6 +312,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [Lighthouse Rich Result Checker](https://search.google.com/test/rich-results) - Tests whether your website is eligible for rich results in Google Search.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
+
+- [NasrTech SEO Checker](https://www.nasrtech.dev/tools/seo-checker/) - Free on-page SEO audit for any URL — title, meta, headings, canonical, schema, Open Graph, robots.txt/sitemap, security headers, AI-crawler access and Lighthouse speed, with a 0-100 score. No sign-up.
 
 
 ## Social Media & Open Graph
