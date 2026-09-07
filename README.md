@@ -230,6 +230,8 @@ Ensure your website's foundation is solid for search engines and user experience
 - [SEO Score API](https://seoscoreapi.com/) - API-first SEO audit tool that returns a score (0-100), grade, and 28 checks across meta, technical, social, performance, and accessibility with prioritized fix recommendations. Free tier available.
 
 
+- [EdgeComet](https://github.com/edgecomet/engine) - Open-source JavaScript rendering engine that serves pre-rendered HTML to search engine bots and AI crawlers. Built in Go with headless Chrome pool management and Redis caching.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
