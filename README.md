@@ -328,6 +328,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [GEO Boost](https://geo-boost.makesall.cn) - AI Visibility & Agent Optimization Platform. Free scan to check how AI search engines see your brand. Includes GEO/AEO scoring, competitor comparison, and actionable optimization recommendations.
+
 Happy optimizing! 🚀
 
 ## Information
