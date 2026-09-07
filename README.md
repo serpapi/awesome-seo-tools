@@ -311,6 +311,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [Robots.txt Tester](https://devbox.tools/utils/robots-txt-tester) - Test and validate robots.txt files for syntax errors and analyze crawl directives.
+
 
 ## Social Media & Open Graph
 
@@ -329,6 +331,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 - [Pingdom](https://tools.pingdom.com/) - Tests website load time and gives performance analysis.
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
+
+- [SEO URL Generator](https://devbox.tools/utils/friendly-url-generator) - Generate SEO-friendly URL slugs from text with automatic transliteration, whitespace cleanup, and special character removal.
 
 Happy optimizing! 🚀
 
