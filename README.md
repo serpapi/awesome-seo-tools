@@ -300,6 +300,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [SEO Sidebar](https://chromewebstore.google.com/detail/seo-sidebar/gmmiickdcmghfpliaiefhjafccapgmpp) - A browser extension that displays real-time on-page SEO data in a persistent side panel, with one-click export to text reports.
 
+- [LLMs.txt Compliance Inspector](https://chromewebstore.google.com/detail/llmstxt-compliance-inspec/kobabmaojpooanphhogepogipcnajcao) - Audits website llms.txt files for compliance with search crawler templates, showing scores and findings in a glassmorphic dashboard.
+
   
 ## Validator / Checker
 
