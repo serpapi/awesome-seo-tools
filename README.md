@@ -244,6 +244,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [geo-lint](https://github.com/IJONIS/geo-lint) - First open-source linter for Generative Engine Optimization (GEO). 92 rules for AI search visibility including structured data, citation density, and answer-ready formatting. Agent-first JSON output for automated lint-fix loops.
 
+- [SearchVitals](https://searchvitals.com/) - Free technical SEO and AI-visibility checks: which AI crawlers your robots.txt blocks, llms.txt validity, JS-free rendered HTML, structured data and Core Web Vitals.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
