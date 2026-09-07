@@ -242,6 +242,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [EdgeComet](https://github.com/edgecomet/engine) - Open-source JavaScript rendering engine that serves pre-rendered HTML to search engine bots and AI crawlers. Built in Go with headless Chrome pool management and Redis caching.
 
+- [GEOScore AI](https://geoscoreai.com/) - Free AI search visibility scanner that checks 11 GEO (Generative Engine Optimization) signals including robots.txt, llms.txt, structured data, and citation readiness for AI search engines (ChatGPT, Perplexity, Gemini). Also offers free tools: [AI Robots.txt Generator](https://geoscoreai.com/tools/robots-txt-generator) and [AI Crawler Access Checker](https://geoscoreai.com/tools/ai-crawler-checker).
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
