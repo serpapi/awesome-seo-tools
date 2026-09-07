@@ -244,6 +244,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [geo-lint](https://github.com/IJONIS/geo-lint) - First open-source linter for Generative Engine Optimization (GEO). 92 rules for AI search visibility including structured data, citation density, and answer-ready formatting. Agent-first JSON output for automated lint-fix loops.
 
+- [Greadme](https://www.greadme.com/) - Website audits for SEO, performance and AI visibility, with fixes you can copy. Includes a free Schema Validator and AI Access Checker that need no signup.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
