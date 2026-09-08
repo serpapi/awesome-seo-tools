@@ -285,6 +285,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
   
 ## Validator / Checker
 
+- [A11yKit](https://a11ykit.site) - Free client-side web accessibility and heading structure audit tools for WCAG 2.2 compliance and technical SEO.
+
 - [Broken Link Checker](https://www.brokenlinkcheck.com/) - Detects and reports broken links on websites.
 
 - [Robots.txt Checker](https://support.google.com/webmasters/answer/6062598?hl=en) - Checks robots.txt files for errors.
