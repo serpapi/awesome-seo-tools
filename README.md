@@ -238,6 +238,7 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 - [SEO Score API](https://seoscoreapi.com/) - API-first SEO audit tool that returns a score (0-100), grade, and 28 checks across meta, technical, social, performance, and accessibility with prioritized fix recommendations. Free tier available.
+- [robots-check](https://github.com/janibert1/robots-check) - Free CLI that shows what robots.txt a domain is actually serving, including detecting when Cloudflare's "AI Crawl Control" is silently injecting its own rules on top of the origin's file. No signup, no dependencies.
 
 
 - [EdgeComet](https://github.com/edgecomet/engine) - Open-source JavaScript rendering engine that serves pre-rendered HTML to search engine bots and AI crawlers. Built in Go with headless Chrome pool management and Redis caching.
