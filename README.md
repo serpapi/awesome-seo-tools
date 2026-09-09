@@ -330,6 +330,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [Retainer OS — Starter](https://eliteseo6.gumroad.com/l/ewvwy) - Notion template for solo and small SEO agencies to track client deliverables and retainer work in one board.
+
 Happy optimizing! 🚀
 
 ## Information
