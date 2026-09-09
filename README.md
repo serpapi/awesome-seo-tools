@@ -244,6 +244,9 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [geo-lint](https://github.com/IJONIS/geo-lint) - First open-source linter for Generative Engine Optimization (GEO). 92 rules for AI search visibility including structured data, citation density, and answer-ready formatting. Agent-first JSON output for automated lint-fix loops.
 
+- [Sitemap Cohort Auditor](https://github.com/edilec/sitemap-cohort-auditor) - Dependency-free Node.js CLI for comparing sitemap URL cohorts, counting image entries, and reporting sitemap metadata issues.
+
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
