@@ -244,7 +244,7 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [geo-lint](https://github.com/IJONIS/geo-lint) - First open-source linter for Generative Engine Optimization (GEO). 92 rules for AI search visibility including structured data, citation density, and answer-ready formatting. Agent-first JSON output for automated lint-fix loops.
 
-- [geo-score](https://github.com/jianruntech/geo-score) - Open, MIT-licensed rubric that scores a site 0–100 on whether AI answer engines can find, parse, trust and cite it. Zero-dependency Python CLI, GitHub Action, and a public 229-site benchmark.
+- [geo-score](https://github.com/jianruntech/geo-score) - Open, MIT-licensed rubric that scores a site 0–100 on whether AI answer engines can find, parse, trust and cite it. Zero-dependency Python CLI, GitHub Action, and a public multi-sector benchmark with the raw data in the repo.
 
 ## Local SEO
 
