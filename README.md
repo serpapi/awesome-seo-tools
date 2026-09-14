@@ -246,6 +246,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [squirrelscan](https://squirrelscan.com/) - Website QA tool for developers and coding agents. Crawls your site and runs 260+ rules across SEO, performance, security, accessibility, and agent experience, then hands your coding agent the exact fixes. Runs from the CLI, inside coding agents, in the cloud, or over MCP. Local audits are free.
 
+- [GEOScore AI](https://geoscoreai.com/) - Free AI search visibility scanner that checks 11 GEO (Generative Engine Optimization) signals including robots.txt, llms.txt, structured data, and citation readiness for AI search engines (ChatGPT, Perplexity, Gemini). Also offers free tools: [AI Robots.txt Generator](https://geoscoreai.com/tools/robots-txt-generator) and [AI Crawler Access Checker](https://geoscoreai.com/tools/ai-crawler-checker).
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
