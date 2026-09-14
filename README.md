@@ -332,6 +332,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [Revenue Grader](https://getrevenuegrader.com) - Free tool that scores whether ChatGPT, Claude, and Perplexity would cite a page (AEO/GEO), with subscores and fixes. No signup for the initial scan.
+
 Happy optimizing! 🚀
 
 ## Information
