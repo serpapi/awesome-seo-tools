@@ -313,6 +313,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [DMCA Detector](https://www.dmcadetector.com/) - Checks whether Google copyright-removal (DMCA) requests name a domain, which URLs were listed, and whether Google actually removed them — a frequently missed cause of unexplained indexing and ranking loss. No Search Console verification required.
+
 
 ## Social Media & Open Graph
 
