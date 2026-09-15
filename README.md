@@ -312,6 +312,7 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [Lighthouse Rich Result Checker](https://search.google.com/test/rich-results) - Tests whether your website is eligible for rich results in Google Search.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
+- [OmniSEO](https://omniseotools.com) - Fast, client-side social card previewer and Google SERP pixel ruler.
 
 
 ## Social Media & Open Graph
