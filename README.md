@@ -194,6 +194,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [ChatGPT Citation Checker](https://github.com/lourdespaul/chatgpt-citation-checker) - Open-source, single-file Python script that runs buyer-intent prompts through ChatGPT, saves every answer and cited URL to CSV, and reports how often each company was named (e.g. 3/10).
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
