@@ -194,6 +194,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [llmstxtgenerator.dev](https://llmstxtgenerator.dev/) - Free llms.txt generator and validator. Crawls a site or reads its sitemap to assemble an llms.txt file with real page titles, and scores an existing file with an AI readiness check. No account required.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
