@@ -332,6 +332,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [Mentioned](https://mentioned.to/) - Done-for-you Reddit growth for search and AI visibility. Finds the Reddit threads already ranking on Google for your keywords, places your brand in them, and reports share of voice vs competitors.
+
 Happy optimizing! 🚀
 
 ## Information
