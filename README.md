@@ -313,6 +313,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [ShiftPress Sitemap Checker](https://shiftpress.ai/sitemap-check) - Finds a site's XML sitemap and checks listed URLs for broken links, redirects, and junk entries.
+
 
 ## Social Media & Open Graph
 
