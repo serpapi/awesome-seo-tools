@@ -246,6 +246,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [squirrelscan](https://squirrelscan.com/) - Website QA tool for developers and coding agents. Crawls your site and runs 260+ rules across SEO, performance, security, accessibility, and agent experience, then hands your coding agent the exact fixes. Runs from the CLI, inside coding agents, in the cloud, or over MCP. Local audits are free.
 
+- [CrawlFuse Monitor](https://github.com/Mandrilsquad1441/crawlfuse-monitor) - Open-source GitHub Action that fails CI when HTTP status, canonical, meta robots, or X-Robots-Tag checks regress on selected public URLs.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
