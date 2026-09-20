@@ -293,6 +293,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [SitemapKit Sitemap Extractor](https://sitemapkit.com/tools/sitemap-extractor) - Free, no-account sitemap URL extractor that follows nested indexes and exports filtered URLs as CSV, TXT, or JSON.
+
 
 ## Social Media & Open Graph
 
