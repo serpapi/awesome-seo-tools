@@ -266,6 +266,8 @@ Boost your local presence and connect with audiences in your community.
  
 - [SEO Gets](https://seogets.com/) - Privacy-focused analytics tool built to replace Google Search Console for Agencies and Affiliates.
 
+- [SearchLink](https://searchlink.namubase.com) - Search Console analysis inside Claude, Cursor or any MCP client: period comparisons, pages losing clicks, queries with impressions but no clicks, and indexing checks. Free for one site, and the local read-only version is open source at [searchlink-lite](https://github.com/GlobalMatchHub/searchlink-lite).
+
 ## SEO Browser Extensions
 
 Equip your browser with tools for quick and efficient SEO insights on the go.
