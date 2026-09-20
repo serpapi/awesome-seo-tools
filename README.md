@@ -332,6 +332,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [TrackAIMentions](https://trackaimentions.com/ai-visibility-checker) - Free report-first AI visibility checker that samples ChatGPT-style answers and Perplexity to show whether a brand or its competitors are organically recommended.
+
 Happy optimizing! 🚀
 
 ## Information
