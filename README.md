@@ -332,6 +332,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [AgentReady](https://agentready.site/) - AI readiness scanner that scores any website on 8 factors including llms.txt, ai.txt, schema markup, MCP protocol support, and bot accessibility. Provides actionable recommendations to improve AI agent compatibility.
+
 Happy optimizing! 🚀
 
 ## Information
