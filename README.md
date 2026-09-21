@@ -332,6 +332,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [IndexFox](https://indexfox.ai/) - AI-powered website search widget with 90+ free SEO tools including meta tag generator, schema markup generator, sitemap generator, and keyword density checker.
+
 Happy optimizing! 🚀
 
 ## Information
