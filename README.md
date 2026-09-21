@@ -332,6 +332,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [Cited By AI®](https://citedbyai.info) - Block-level AI citation auditing powered by the Citation Probability Score® (CPS®). Identifies which content sections are cited by ChatGPT, Perplexity, Gemini, and Google AI Overviews across five scoring pillars.
+
 Happy optimizing! 🚀
 
 ## Information
