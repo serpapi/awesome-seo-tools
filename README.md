@@ -246,6 +246,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [squirrelscan](https://squirrelscan.com/) - Website QA tool for developers and coding agents. Crawls your site and runs 260+ rules across SEO, performance, security, accessibility, and agent experience, then hands your coding agent the exact fixes. Runs from the CLI, inside coding agents, in the cloud, or over MCP. Local audits are free.
 
+- [AEOrank](https://github.com/vinpatel/aeorank) - Open-source CLI that scans any website for AI Engine Optimization (AEO), scores it 0-100 across 12 dimensions, and generates the 8 files AI search engines look for. Includes 13 framework plugins and a GitHub Action.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
