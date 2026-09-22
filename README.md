@@ -332,6 +332,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [XKnow](https://xknow.org/) - Research-backed SEO and SaaS knowledge base, exposed as an [MCP server](https://xknow.org/mcp) so AI assistants can search and cite 571 sourced notes instead of guessing. Local-first and no API key.
+
 Happy optimizing! 🚀
 
 ## Information
