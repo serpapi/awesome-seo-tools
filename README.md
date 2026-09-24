@@ -332,6 +332,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [PageSpeed.ONE](https://pagespeed.one/en) - Page speed monitoring with daily automated synthetic tests and current and historical CrUX field data for Core Web Vitals.
+
 Happy optimizing! 🚀
 
 ## Information
