@@ -126,6 +126,8 @@ Delve deep into your link profile and discover opportunities for growth and risk
 
 - [BacklinkScan](https://backlinkscan.com/) - Backlink Checker. Simple. Powerful.
 
+- [indexaction Free Google Index Checker](https://indexaction.com/free-google-index-checker) - Checks whether up to 10 URLs are indexed by Google, on any domain, without Search Console access. No signup.
+
 - Other "All in one SEO tools" offer this feature as well.
 
 ## Content Optimization
@@ -312,6 +314,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [Lighthouse Rich Result Checker](https://search.google.com/test/rich-results) - Tests whether your website is eligible for rich results in Google Search.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
+
+- [Robots.txt Tester](https://indexaction.com/tools/robots-txt-tester) - Tests a URL against a pasted robots.txt and shows the exact rule that allows or blocks it, using Google's longest-match logic. Runs in the browser, no signup.
 
 
 ## Social Media & Open Graph
