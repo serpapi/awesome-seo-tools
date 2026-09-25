@@ -313,6 +313,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [RedirectAtlas Check](https://github.com/mattyjackie/redirectatlas-check) - Open-source CLI and GitHub Action that checks redirect CSVs for loops, conflicting targets and chains before deployment.
+
 
 ## Social Media & Open Graph
 
