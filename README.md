@@ -226,7 +226,7 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
-- [TrustYourWebsite](https://trustyourwebsite.com) - Automated GDPR, cookie banner and accessibility (axe-core) compliance scanner for EU and UK small-business sites. Free scan returns a risk score and issue counts.
+- [TrustYourWebsite](https://trustyourwebsite.com/eu/en) - Compliance scanner for European small-business websites: checks cookies, consent, legal pages and WCAG accessibility (axe-core) against each country's own rules, such as the German Impressum, French mentions légales and UK PECR. The free scan returns a risk score and issue counts.
 
 ## Local SEO
 
