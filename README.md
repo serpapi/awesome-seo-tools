@@ -190,6 +190,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 ## GEO / AI Visibility
 
+- [AnswerLine](https://answerline.dev) - API that returns the real answers from ChatGPT, Gemini, Copilot, Google AI Mode, AI Overview and Google News as JSON, with cited sources and per-country data. Sync and batch endpoints, MCP server included, free tier.
+
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
