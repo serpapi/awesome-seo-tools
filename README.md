@@ -194,6 +194,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [Peak Answer](https://peakanswer.com) - GEO/AEO and SEO in one loop: tracks brand presence across ChatGPT, Claude, Perplexity, Gemini, Google AI Mode and Bing, shows which buying questions name a competitor instead of you, then closes those gaps through measurement, content, link placements, social and ongoing technical optimization. MCP connector and 38 free tools included.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
