@@ -194,6 +194,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [AI Visibility Checker](https://marketingandai.com/free-tools/ai-search-visibility/) - Free checker that shows whether AI search crawlers (OAI-SearchBot, Claude-SearchBot, PerplexityBot, Bingbot) can reach a page, plus llms.txt, structured data, and metadata checks. No login.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
@@ -260,6 +262,8 @@ Boost your local presence and connect with audiences in your community.
 
 - [Moz Local](https://moz.com/products/local) - Maximize your online visibility with Moz's powerful local SEO and reputation management tool.
 
+- [Local Business Schema Generator](https://marketingandai.com/free-tools/local-business-schema/) - Free generator for LocalBusiness JSON-LD from public business facts, matched to a specific Schema.org business type.
+
 ## SEO Analytics
 
 - [Google Search Console](https://search.google.com/search-console/about) - Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results
@@ -313,6 +317,7 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [AEO Checker](https://marketingandai.com/free-tools/aeo-answer-readiness/) - Scores whether a page passage answers a question clearly enough for search features and AI answers to use.
 
 ## Social Media & Open Graph
 
