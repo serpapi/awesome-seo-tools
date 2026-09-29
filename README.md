@@ -313,6 +313,7 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [AuditReady](https://feaefe371424d0725b266468856c9101.ctonew.app/) - Server-side accessibility checker for a single page: 12 deterministic HTML checks mapped to WCAG 2.2 criteria with a suggested fix for each finding. Free instant scan; a printable client-ready report is a one-off $29. No JavaScript executed, no account needed.
 
 ## Social Media & Open Graph
 
