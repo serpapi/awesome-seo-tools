@@ -178,6 +178,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [SERPWatcher](https://serpwatch.io/) - The most advanced rank tracker for marketers and agencies.
 
+- [SerpentAPI](https://apiserpent.com/) - Real-time Google SERP API to scrape search engine results pages, track keyword rankings, and monitor organic positions.
+
 - [AccuRanker](https://www.accuranker.com/) - The world's fastest & most accurate rank tracker.
 
 - [Nightwatch](https://nightwatch.io/) - Nightwatch is a cloud-based SEO and analytics tool that focuses on rank tracking and reporting.
