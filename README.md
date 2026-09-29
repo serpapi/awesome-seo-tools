@@ -126,6 +126,8 @@ Delve deep into your link profile and discover opportunities for growth and risk
 
 - [BacklinkScan](https://backlinkscan.com/) - Backlink Checker. Simple. Powerful.
 
+- [LinkCensus](https://linkcensus.com/) - Discover related websites through shared linking domains in dated Common Crawl graph editions. Five-result preview without signup; one-time paid reports.
+
 - Other "All in one SEO tools" offer this feature as well.
 
 ## Content Optimization
