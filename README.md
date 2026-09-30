@@ -332,6 +332,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [Knocket](https://knocket.com/) - Free live chat widget that improves visitor engagement and dwell time. One script tag, unified inbox (Telegram/email), shareable contact page. No seat limits, no ads.
+
 Happy optimizing! 🚀
 
 ## Information
