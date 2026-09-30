@@ -332,6 +332,7 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [PageRX](https://ivo1974kanchev-arch.github.io/pagerx-frontend/) - AI-powered landing page analyzer that scores 5 perspectives (UX, Copy, SEO, Performance, Security). Free tool for instant page audits.
 Happy optimizing! 🚀
 
 ## Information
