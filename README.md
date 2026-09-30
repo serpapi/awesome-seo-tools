@@ -246,6 +246,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [squirrelscan](https://squirrelscan.com/) - Website QA tool for developers and coding agents. Crawls your site and runs 260+ rules across SEO, performance, security, accessibility, and agent experience, then hands your coding agent the exact fixes. Runs from the CLI, inside coding agents, in the cloud, or over MCP. Local audits are free.
 
+- [GeoScore](https://geoscoreapp.pages.dev) - Free, open-source instant SEO & GEO (AI search visibility) audit. 39 checks covering technical SEO, Core Web Vitals, E-E-A-T, structured data, and AI citation signals (ChatGPT, Perplexity, Gemini). No login, no tracking. ([GitHub](https://github.com/sprawf/geoscore))
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
