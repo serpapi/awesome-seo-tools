@@ -332,6 +332,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [SEO Report Kit](https://seoreportkit.com/tools/seo-report-brief-generator/) - Free, browser-based generators and original templates for client SEO reports, audits, keyword rankings, and AI visibility; no signup or data upload.
+
 Happy optimizing! 🚀
 
 ## Information
