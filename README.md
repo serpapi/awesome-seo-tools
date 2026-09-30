@@ -332,6 +332,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [calcfuel](https://calcfuel.com) - Free suite of 35+ marketing calculators (ROI, ROAS, CAC, CLV, CTR, and more) to help measure and optimize marketing performance.
+
 Happy optimizing! 🚀
 
 ## Information
