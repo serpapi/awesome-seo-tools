@@ -332,6 +332,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [SEO for AI](https://getseoforai.com/) - AI search visibility audits for small businesses. Free citation checker and $197 full report covering ChatGPT, Perplexity, Claude, Gemini, and Google AI Overviews.
+
 Happy optimizing! 🚀
 
 ## Information
