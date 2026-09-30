@@ -332,6 +332,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [Awesome Agentic Commerce](https://github.com/MentionNetwork/awesome-agentic-commerce) - Curated hub of GEO and agentic commerce resources: AI-visibility tools, llms.txt, and the protocols behind AI shopping agents (UCP, ACP, AP2).
+
 Happy optimizing! 🚀
 
 ## Information
