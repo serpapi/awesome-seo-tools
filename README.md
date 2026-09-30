@@ -332,6 +332,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [SmartBizCalc](https://smartbizcalc.com) - Free collection of 280+ business calculators for small business owners. Includes marketing ROI, break-even, contractor pricing, and tax calculators — useful for evaluating digital marketing budgets and client business decisions.
+
 Happy optimizing! 🚀
 
 ## Information
