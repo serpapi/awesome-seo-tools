@@ -332,6 +332,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based toolkit with several SEO-relevant utilities: SEO meta tag generator (title/description/OG/Twitter), AI robots.txt generator (configures GPTBot, Claude-Web, etc.), favicon generator, and OG image generator. No signup, runs client-side, open source.
+
 Happy optimizing! 🚀
 
 ## Information
