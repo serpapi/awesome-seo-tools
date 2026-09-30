@@ -332,6 +332,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [MiN8T UTM Builder](https://min8t.com/tools/utm-builder/) - GA4-compatible UTM parameter generator with copy-ready URL preview. Browser-only, no signup.
+
 Happy optimizing! 🚀
 
 ## Information
