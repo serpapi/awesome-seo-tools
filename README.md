@@ -246,6 +246,10 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [squirrelscan](https://squirrelscan.com/) - Website QA tool for developers and coding agents. Crawls your site and runs 260+ rules across SEO, performance, security, accessibility, and agent experience, then hands your coding agent the exact fixes. Runs from the CLI, inside coding agents, in the cloud, or over MCP. Local audits are free.
 
+- [Sitemap Doctor](https://apify.com/lintlab/sitemap-doctor) - Validate XML sitemaps (sitemap indexes and gzip included), extract every URL with lastmod, diff against a previous run and optionally check each URL's HTTP status. Pay per sitemap file on Apify.
+
+- [SEO Site QA](https://apify.com/lintlab/seo-site-qa) - Crawl a site or its XML sitemap for broken internal links, duplicate titles, missing metadata, canonical and heading issues, with per-page fixes. Pay per page audited on Apify.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
