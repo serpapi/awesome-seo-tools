@@ -332,6 +332,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [LinkMeta](https://linkmeta.dev) - Free URL metadata extraction API that retrieves title, description, Open Graph tags, and other meta information from any URL.
+
 Happy optimizing! 🚀
 
 ## Information
