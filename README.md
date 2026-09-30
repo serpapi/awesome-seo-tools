@@ -332,6 +332,7 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [SellerMind](https://thesellermind.com/) - AI-powered Etsy SEO tool for listing optimization, fee calculation, and data-driven pricing insights.
 Happy optimizing! 🚀
 
 ## Information
