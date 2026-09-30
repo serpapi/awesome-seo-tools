@@ -45,6 +45,8 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 
 - [SERanking](https://seranking.com/) - All-in-one agency-tailored SEO platform.
 
+- [Revolead](https://revolead.ai) - Done-for-you AI search optimization (GEO) and B2B lead generation across Google and AI answers (ChatGPT, Perplexity, Gemini, Google AI Overviews).
+
 - [Moz Pro](https://moz.com/) - SEO software and data to help you increase traffic, rankings, and visibility in search results.
 
 - [Serpstat](https://serpstat.com/) - SEO management platform.
