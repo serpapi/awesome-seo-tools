@@ -332,6 +332,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [Glotier](https://glotier.com) - Affordable AI-visibility tracking across ChatGPT, Gemini and Perplexity, with a free AI-readiness check and an open dataset of which sources AI cites.
+
 Happy optimizing! 🚀
 
 ## Information
