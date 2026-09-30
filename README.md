@@ -332,6 +332,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [Reputation Engine](https://github.com/sinabarimd/reputation-engine) - Open-source multi-site automated publishing system for entity-first SEO using n8n workflows, AI agents, and structured data across multiple owned domains.
+
 Happy optimizing! 🚀
 
 ## Information
