@@ -194,6 +194,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [jev-seo](https://github.com/DeployMates/jev-seo) - Audits any business website for SEO and AI answer engine visibility (ChatGPT, Perplexity, AI Overviews). A deterministic crawler measures each page, then Jev answers narrow typed questions and the results surface as probabilities in a dashboard. TypeScript, runs locally as an npx CLI on a single port, no API key required.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
