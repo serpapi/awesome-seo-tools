@@ -332,6 +332,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [Arenza](https://arenza.ai/) - Generative Engine Optimization platform that measures brand visibility, share of voice, sentiment, and citations across ChatGPT, Claude, Gemini, Perplexity, Copilot, and Grok.
+
 Happy optimizing! 🚀
 
 ## Information
