@@ -332,6 +332,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [DomainScout](https://domainscout.dev/) - Real-time domain availability search with instant results across 46+ TLDs and free unlimited searches.
+
 Happy optimizing! 🚀
 
 ## Information
