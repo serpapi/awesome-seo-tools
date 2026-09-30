@@ -332,6 +332,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [Signals CLI](https://github.com/sortlist/signals-cli) - Intent signal monitoring CLI for B2B. Track LinkedIn engagement, keyword posters, job changers, and funding events. JSON output. Install with `npm install -g signals-sortlist-cli`.
+
 Happy optimizing! 🚀
 
 ## Information
