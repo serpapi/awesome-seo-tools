@@ -332,6 +332,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [Rankfor.AI](https://rankfor.ai/) - Measures how AI assistants (ChatGPT, Gemini, Perplexity) describe and recommend brands, per model and per language, with a repeated-query methodology published as open data.
+
 Happy optimizing! 🚀
 
 ## Information
