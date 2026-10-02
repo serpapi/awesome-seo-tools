@@ -193,6 +193,7 @@ Monitor your website's position in search results and gauge your SEO strategies'
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
+- [LogNorm](https://lognorm.com) - Growth platform that combines a site and GEO audit, Search Console, keyword and competitor data, and ChatGPT, Gemini and Google AI Overviews answer tracking into one ranked backlog. AI agents connect over MCP to fix issues in the repo and write content, and fixes are re-checked on the live site.
 
 ## Technical SEO
 
