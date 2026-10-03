@@ -313,6 +313,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [Google Index Checker](https://github.com/oussch702/google-index-checker) - Open-source bulk index checker. Inspects every sitemap URL with the Search Console URL Inspection API and shows which pages changed status since the last run.
+
 
 ## Social Media & Open Graph
 
