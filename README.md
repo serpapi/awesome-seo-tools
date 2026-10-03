@@ -301,6 +301,7 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [Checkbot SEO checker](https://www.checkbot.io/) - Chrome extension that crawls 100s of pages at the same time checking for 50+ common website SEO, page speed and security problems. 
 
 - [SEO Sidebar](https://chromewebstore.google.com/detail/seo-sidebar/gmmiickdcmghfpliaiefhjafccapgmpp) - A browser extension that displays real-time on-page SEO data in a persistent side panel, with one-click export to text reports.
+- [CompressFile Image Audit](https://chromewebstore.google.com/detail/kfofpbpbbbhahiofnkejpfgbomnfeopf) - Chrome extension that audits every image on a page for oversized files, outdated formats and weak compression, shows the potential page-weight and load-time savings, and compresses the images on-device with no upload or account.
 
   
 ## Validator / Checker
