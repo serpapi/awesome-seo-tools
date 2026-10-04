@@ -302,6 +302,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [SEO Sidebar](https://chromewebstore.google.com/detail/seo-sidebar/gmmiickdcmghfpliaiefhjafccapgmpp) - A browser extension that displays real-time on-page SEO data in a persistent side panel, with one-click export to text reports.
 
+- [Unrendered](https://missiongrowth.io/tools/unrendered) - Free, open-source Chrome extension that shows which content on a page AI crawlers such as GPTBot can't read because it needs JavaScript. Includes an MCP server for bulk checks.
+
   
 ## Validator / Checker
 
