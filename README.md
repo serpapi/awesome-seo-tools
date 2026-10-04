@@ -246,6 +246,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [squirrelscan](https://squirrelscan.com/) - Website QA tool for developers and coding agents. Crawls your site and runs 260+ rules across SEO, performance, security, accessibility, and agent experience, then hands your coding agent the exact fixes. Runs from the CLI, inside coding agents, in the cloud, or over MCP. Local audits are free.
 
+- [Firm Beacon On-Page SEO Checker](https://www.firmbeacon.co.uk/tools/seo-checker?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome_seo_tools) - Check one public page's title, meta description, H1, canonical, robots, language, viewport and Open Graph tags without an account.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
