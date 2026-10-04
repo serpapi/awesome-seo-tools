@@ -212,6 +212,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [Sitebulb](https://sitebulb.com/) - The website auditing tool for SEO consultants and agencies.
 
+- [Firm Beacon Website Audit](https://www.firmbeacon.co.uk/tools/website-audit?utm_source=github&utm_medium=awesome_list&utm_campaign=website_audit) - Free audit of up to ten public HTML pages that reports HTTPS, robots.txt, sitemaps, titles, headings, canonicals and Open Graph signals without an account.
+
 - [Moz On-Page Grader](https://moz.com/tools/onpage-grader) - Analyzes individual page optimization.
 
 - [BROWSEO](https://www.browseo.net) - See your site through the eyes of a search engine. BROWSEO gives you the type of x-ray vision that search engines have.
