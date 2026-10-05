@@ -194,6 +194,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [Searcherries](https://searcherries.com) - MCP for GEO. Collects your AI visibility data, connects Google Search Console, Bing Webmaster Tools and GA4, and makes all of it available to Claude, Claude Code, Codex, Cursor, VS Code or any other MCP client. Instead of studying another dashboard, you ask your AI assistant which questions you lose to competitors, which pages to fix and what to do first, and it answers from your own numbers.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
