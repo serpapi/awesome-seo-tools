@@ -315,6 +315,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [Firm Beacon XML Sitemap Generator](https://www.firmbeacon.co.uk/tools/sitemap-generator?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome_seo_tools) - Create an XML sitemap from a curated URL list in your browser. No upload or account required.
 
+- [AI Crawler Access Checker](https://www.firmbeacon.co.uk/tools/ai-crawler-check?utm_source=github&utm_medium=awesome_seo_tools&utm_campaign=ai_crawler_checker) - Checks which robots.txt rules match search and training crawlers such as OAI-SearchBot, GPTBot, ClaudeBot, PerplexityBot, Google and Bing.
+
 
 ## Social Media & Open Graph
 
