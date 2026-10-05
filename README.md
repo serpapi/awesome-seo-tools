@@ -109,6 +109,8 @@ Uncover high-potential keywords to target and captivate your audience.
 - [AnswerThePublic](https://answerthepublic.com/) - AnswerThePublic visualizes search questions and autocomplete searches in an easy-to-digest keyword research tool that helps you create content ideas.
 
 - [Keywordideas.xyz](https://keywordideas.xyz/) - Get keyword suggestions based on a URL or example keyword from real Google search data.
+
+- [Google Trends Scraper (Apify)](https://apify.com/cprussin/google-trends?fpr=to54nm) - Export Google Trends interest over time, by region and city, related queries/topics and trending searches to JSON/CSV; compares more than 5 terms on one scale. Paid per result.
   
 ## Backlink Analysis
 
