@@ -246,6 +246,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [squirrelscan](https://squirrelscan.com/) - Website QA tool for developers and coding agents. Crawls your site and runs 260+ rules across SEO, performance, security, accessibility, and agent experience, then hands your coding agent the exact fixes. Runs from the CLI, inside coding agents, in the cloud, or over MCP. Local audits are free.
 
+- [Website SEO Audit, Broken Links & Change Monitor](https://apify.com/ozzie_bagadirov/seo-audit-change-monitor) - Crawls up to 5,000 pages for broken links, redirects, and sitemap and indexing problems, with a fix for each issue and a list of what changed since the last run. Runs on Apify and needs an Apify account. Free under 10 pages, then paid per audit.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
