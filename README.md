@@ -84,6 +84,8 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 - [SearchAtlas](https://searchatlas.com/) - AI-powered SEO platform with an [MCP server](https://github.com/Search-Atlas-Group/searchatlas-mcp-server) that exposes 16 tools for 
   keyword research, site auditing, content optimization, backlink analysis, PPC management, and LLM brand visibility monitoring directly inside AI assistants.
 
+- [Robot Speed](https://www.robot-speed.com/) - AI SEO and content automation: keyword research, SEO audits, article generation and publishing, backlinks and AI visibility tracking. Also usable from AI assistants through its hosted [MCP server](https://www.robot-speed.com/mcp) (OAuth; a smaller set of free tools works without sign-in).
+
 ## Keyword Research
 
 Uncover high-potential keywords to target and captivate your audience.
