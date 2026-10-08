@@ -337,3 +337,4 @@ Happy optimizing! 🚀
 ## Information
 
 This repo is maintained by [SerpApi](https://serpapi.com?utm_source=awesome-seo-tools) team: "Scrape Google and other search engines from our fast, easy, and complete API."
+- [Free Web Tools](https://github.com/ildar937/free-web-tools) - A collection of free online SEO and web utilities.
