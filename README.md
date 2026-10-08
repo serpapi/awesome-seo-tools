@@ -65,7 +65,6 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 
 - [Clicks.so](https://www.clicks.so/) - The Beginner-Friendly Affordable SEO Tool.
 
-  
 - [SEO Utils](https://seoutils.app/) - An SEO desktop application built for macOS, Windows, Linux.
 
 - [Spexia](https://getspexia.com) - All in one tool to create & optimize informational content (specialized on ECom shops).
@@ -79,6 +78,11 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 - [SEO Toolbox](https://seotoolbox.site) – An all-in-one SEO platform that combines page-by-page analysis with AI powered insights and in-depth report generation, built for everyone from individuals to SEO agencies.
 
 - [Bishopi.io](https://www.bishopi.io/) - Get Enterprise-Grade SEO and Domain Intelligence.
+
+- [Fast SEO Fix](https://www.fastseofix.com) - Grow Your Organic Traffic with Automated SEO.
+
+- [SearchAtlas](https://searchatlas.com/) - AI-powered SEO platform with an [MCP server](https://github.com/Search-Atlas-Group/searchatlas-mcp-server) that exposes 16 tools for 
+  keyword research, site auditing, content optimization, backlink analysis, PPC management, and LLM brand visibility monitoring directly inside AI assistants.
 
 ## Keyword Research
 
@@ -184,6 +188,12 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - Other "All in one SEO tools" offer this feature as well.
 
+## GEO / AI Visibility
+
+- [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
+
+- [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
@@ -224,8 +234,19 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [Server-side Rendering (SSR) Checker](https://www.crawlably.com/ssr-checker/) - Check any URL for SSR (Server-side rendering) by visually comparing server-side rendered version of a page with regular version.
 
-- [PrerenderBuddy](https://github.com/kopachlager/prerenderbuddy-cli) - CLI that compares raw and rendered website output for crawler visibility checks and helps detect JavaScript indexing issues.
+- [PreRender24](https://prerender24.com/) - Edge-based prerendering service for JavaScript SPAs (React, Vue, Angular). Delivers fully rendered HTML to search engine and AI crawlers via Cloudflare's edge network in <250ms. DNS-only setup, no code changes required.
+
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
+- [SEO Score API](https://seoscoreapi.com/) - API-first SEO audit tool that returns a score (0-100), grade, and 28 checks across meta, technical, social, performance, and accessibility with prioritized fix recommendations. Free tier available.
+
+
+- [EdgeComet](https://github.com/edgecomet/engine) - Open-source JavaScript rendering engine that serves pre-rendered HTML to search engine bots and AI crawlers. Built in Go with headless Chrome pool management and Redis caching.
+
+- [geo-lint](https://github.com/IJONIS/geo-lint) - First open-source linter for Generative Engine Optimization (GEO). 92 rules for AI search visibility including structured data, citation density, and answer-ready formatting. Agent-first JSON output for automated lint-fix loops.
+
+- [squirrelscan](https://squirrelscan.com/) - Website QA tool for developers and coding agents. Crawls your site and runs 260+ rules across SEO, performance, security, accessibility, and agent experience, then hands your coding agent the exact fixes. Runs from the CLI, inside coding agents, in the cloud, or over MCP. Local audits are free.
+
+- [Prerender Buddy CLI](https://github.com/kopachlager/prerenderbuddy-cli) - Checks crawler-visible HTML and discovery files, and compares crawler and browser-style HTTP responses to identify access and content issues.
 
 ## Local SEO
 
@@ -312,8 +333,6 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 - [Pingdom](https://tools.pingdom.com/) - Tests website load time and gives performance analysis.
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
-  
-- [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
 Happy optimizing! 🚀
 
