@@ -246,6 +246,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [squirrelscan](https://squirrelscan.com/) - Website QA tool for developers and coding agents. Crawls your site and runs 260+ rules across SEO, performance, security, accessibility, and agent experience, then hands your coding agent the exact fixes. Runs from the CLI, inside coding agents, in the cloud, or over MCP. Local audits are free.
 
+- [Prerender Buddy CLI](https://github.com/kopachlager/prerenderbuddy-cli) - Checks crawler-visible HTML and discovery files, and compares crawler and browser-style HTTP responses to identify access and content issues.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
