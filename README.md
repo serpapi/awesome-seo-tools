@@ -322,6 +322,8 @@ Tools for optimizing how your content appears when shared on social platforms.
 
 - [ogimg.xyz](https://ogimg.xyz/) - API for generating Open Graph images programmatically. 10 templates, custom branding, URL auto-fetch mode. Free tier available.
 
+- [ogmake](https://ogmake.com/) - OG image API and editor. Render a 1200×630 og:image for every page from one signed URL, with guides for Hugo, Jekyll, Ghost and Laravel. Free plan includes 100 renders per month.
+
 ## Miscellaneous Tools
 
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
