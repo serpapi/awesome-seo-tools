@@ -170,7 +170,7 @@ Fine-tune your content to resonate with search algorithms and your audience alik
 
 - [TuxSEO](https://tuxseo.com/) - Fully automated, SEO optimized, blog creation for your business.
 
-- [Global Longform SEO Studio](https://github.com/LydiaTools/longform-atlas) - Bilingual, local-first workspace to define a creator IP and plan evidence-led long-form articles for X, Quora, Medium, LinkedIn, and Substack; optional AI drafting uses your own model endpoint.
+- [Global Longform SEO Studio](https://github.com/LydiaTools/longform-atlas) - Plan long-form creator content across X Articles, Quora Answers, Medium, LinkedIn Articles, and Substack. Define a creator profile, build evidence-linked article plans, then edit and export Markdown; optional AI drafting connects to your own model endpoint.
 
 ## Rank Tracking
 
