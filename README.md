@@ -313,6 +313,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [Sitemap Scraper](https://apify.com/tinyrex/sitemap-scraper) - Extracts every URL from a site's XML sitemaps (robots.txt discovery, sitemap indexes, .gz, hreflang, images, lastmod) to CSV/JSON and optionally checks each URL's HTTP status and redirect chain to find broken or redirected sitemap entries. Pay per result, runs on the Apify free tier.
+
 
 ## Social Media & Open Graph
 
