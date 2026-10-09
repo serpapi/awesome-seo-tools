@@ -168,8 +168,10 @@ Fine-tune your content to resonate with search algorithms and your audience alik
 
 - [Hypertxt](https://hypertxt.ai) - If Perplexity, ChatGPT and Ahrefs had a baby, you'd have Hypertxt. Generate deeply-researched SEO/GEO-optimized content.
 
-- [TuxSEO](https://tuxseo.com/) - Fully automated, SEO optimized, blog creation for your business.  
- 
+- [TuxSEO](https://tuxseo.com/) - Fully automated, SEO optimized, blog creation for your business.
+
+- [Global Longform SEO Studio](https://github.com/LydiaTools/longform-atlas) - Bilingual, local-first workspace to define a creator IP and plan evidence-led long-form articles for X, Quora, Medium, LinkedIn, and Substack; optional AI drafting uses your own model endpoint.
+
 ## Rank Tracking
 
 Monitor your website's position in search results and gauge your SEO strategies' effectiveness.
