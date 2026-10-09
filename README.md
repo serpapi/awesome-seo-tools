@@ -169,6 +169,8 @@ Fine-tune your content to resonate with search algorithms and your audience alik
 - [Hypertxt](https://hypertxt.ai) - If Perplexity, ChatGPT and Ahrefs had a baby, you'd have Hypertxt. Generate deeply-researched SEO/GEO-optimized content.
 
 - [TuxSEO](https://tuxseo.com/) - Fully automated, SEO optimized, blog creation for your business.  
+
+- [SERP to Prompt Writer](https://github.com/aivrar/serp-to-prompt-writer) - Open-source Windows desktop tool that scrapes the top-ranking pages for a keyword, runs local NLP (TF-IDF, NER, zero-shot content-type detection) and generates a data-backed AI writing brief, with a content-gap analyzer.
  
 ## Rank Tracking
 
