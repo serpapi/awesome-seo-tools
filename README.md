@@ -322,6 +322,8 @@ Tools for optimizing how your content appears when shared on social platforms.
 
 - [ogimg.xyz](https://ogimg.xyz/) - API for generating Open Graph images programmatically. 10 templates, custom branding, URL auto-fetch mode. Free tier available.
 
+- [og-lint](https://github.com/dimonch-byte/og-lint) - Free, open-source Open Graph / Twitter card linter: paste your `<head>` in the browser or run it as a GitHub Action to catch a missing or relative `og:image` before it ships.
+
 ## Miscellaneous Tools
 
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
