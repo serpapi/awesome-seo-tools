@@ -169,6 +169,8 @@ Fine-tune your content to resonate with search algorithms and your audience alik
 - [Hypertxt](https://hypertxt.ai) - If Perplexity, ChatGPT and Ahrefs had a baby, you'd have Hypertxt. Generate deeply-researched SEO/GEO-optimized content.
 
 - [TuxSEO](https://tuxseo.com/) - Fully automated, SEO optimized, blog creation for your business.  
+
+- [Blawgy](https://blawgy.com/) - Researches keywords, writes SEO blog posts with images and internal links, and publishes them to WordPress, Shopify, Webflow, Wix, Framer, Ghost or Duda, with an MCP server so any AI agent can run the blog.
  
 ## Rank Tracking
 
