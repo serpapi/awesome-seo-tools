@@ -84,6 +84,8 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 - [SearchAtlas](https://searchatlas.com/) - AI-powered SEO platform with an [MCP server](https://github.com/Search-Atlas-Group/searchatlas-mcp-server) that exposes 16 tools for 
   keyword research, site auditing, content optimization, backlink analysis, PPC management, and LLM brand visibility monitoring directly inside AI assistants.
 
+- [SEO Page Creator Agent](https://github.com/aiapplications001-art/seo-page-creator-agent) - Open-source AI SEO workflow for research-backed page creation, keyword and SERP research, content optimization, and technical SEO checks.
+
 ## Keyword Research
 
 Uncover high-potential keywords to target and captivate your audience.
