@@ -212,6 +212,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [Sitebulb](https://sitebulb.com/) - The website auditing tool for SEO consultants and agencies.
 
+- [Shipwork](https://shipwork.io/) - Free technical SEO audit of any public site: crawl access, indexability, sitemaps, canonicals, structured data, broken links and AI crawler access, with a JSON API.
+
 - [Moz On-Page Grader](https://moz.com/tools/onpage-grader) - Analyzes individual page optimization.
 
 - [BROWSEO](https://www.browseo.net) - See your site through the eyes of a search engine. BROWSEO gives you the type of x-ray vision that search engines have.
