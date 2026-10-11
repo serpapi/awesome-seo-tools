@@ -126,6 +126,8 @@ Delve deep into your link profile and discover opportunities for growth and risk
 
 - [BacklinkScan](https://backlinkscan.com/) - Backlink Checker. Simple. Powerful.
 
+- [Rhino Rank](https://www.rhinorank.io/) - Link building and press release marketplace: browse the link catalogue, get quotes and place orders. Also available to AI assistants through a hosted MCP server (https://app.rhinorank.io/mcp/setup).
+
 - Other "All in one SEO tools" offer this feature as well.
 
 ## Content Optimization
