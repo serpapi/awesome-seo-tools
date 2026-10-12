@@ -313,6 +313,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [Hustle Schema Studio](https://hustlemarketers-art.github.io/hustle-schema-studio/) - Free, open-source JSON-LD generator and checker for 12 schema types, with plain-language error reports. Runs in the browser.
+
 
 ## Social Media & Open Graph
 
