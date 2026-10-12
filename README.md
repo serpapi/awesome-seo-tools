@@ -246,6 +246,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [squirrelscan](https://squirrelscan.com/) - Website QA tool for developers and coding agents. Crawls your site and runs 260+ rules across SEO, performance, security, accessibility, and agent experience, then hands your coding agent the exact fixes. Runs from the CLI, inside coding agents, in the cloud, or over MCP. Local audits are free.
 
+- [SearchVitals](https://searchvitals.com/) - Free technical SEO and AI-visibility checks: which AI crawlers your robots.txt blocks, llms.txt validity, JS-free rendered HTML, structured data and Core Web Vitals.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
