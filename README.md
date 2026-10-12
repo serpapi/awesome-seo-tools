@@ -337,3 +337,4 @@ Happy optimizing! 🚀
 ## Information
 
 This repo is maintained by [SerpApi](https://serpapi.com?utm_source=awesome-seo-tools) team: "Scrape Google and other search engines from our fast, easy, and complete API."
+- [OmniForce](https://www.omniforce.run) — GEO / AI-search visibility platform.
