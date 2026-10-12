@@ -186,6 +186,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [That's Rank!](https://www.thatisrank.com/) - That's Rank! helps you know and track instantly where your website ranks on Google for every keyword.
 
+- [looot-seo](https://github.com/loootai/looot-seo) - Open-source, self-hosted rank tracker and keyword research workspace (MIT, Next.js and Supabase). A rank check costs about $0.001 per results page at list price, so 100 checks are about $0.10, and every refresh shows its price before it runs. Demo mode needs no account; live data needs a looot API key.
+
 - Other "All in one SEO tools" offer this feature as well.
 
 ## GEO / AI Visibility
