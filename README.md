@@ -293,6 +293,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [FaviconDL](https://favicondl.com/) - Checks which favicons a site declares (ICO, PNG, SVG, Apple touch, manifest) and downloads them in every size; free, no-key API.
+
 
 ## Social Media & Open Graph
 
