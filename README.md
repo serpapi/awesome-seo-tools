@@ -332,6 +332,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [mesure-citations](https://github.com/thomasmerlaud/mesure-citations) - Open-source tool measuring a brand's share of citations across ChatGPT, Perplexity, Gemini, Claude and Google AI Overviews. Deliberately manual rather than API-driven, so the numbers reflect what a real user sees. Node.js, zero dependencies, data stays local.
+
 Happy optimizing! 🚀
 
 ## Information
