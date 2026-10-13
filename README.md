@@ -194,6 +194,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [PageLens Analytics](https://pagelens.io) - Cookieless web analytics with AI visibility: which AI crawlers read your pages, which ones assistants open to answer people, the visitors they send, and whether AI names your brand. Free AI crawler checker included.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
