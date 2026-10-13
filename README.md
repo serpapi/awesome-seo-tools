@@ -313,6 +313,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [Product Schema and Crawl Audit for WooCommerce](https://wordpress.org/plugins/webkoding-product-schema-crawl-audit/) - Free WordPress plugin that audits WooCommerce product pages for missing Product structured data and restores it, so Google rich results and AI assistants can read price, stock and reviews.
+
 
 ## Social Media & Open Graph
 
