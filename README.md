@@ -245,6 +245,7 @@ Ensure your website's foundation is solid for search engines and user experience
 - [geo-lint](https://github.com/IJONIS/geo-lint) - First open-source linter for Generative Engine Optimization (GEO). 92 rules for AI search visibility including structured data, citation density, and answer-ready formatting. Agent-first JSON output for automated lint-fix loops.
 
 - [squirrelscan](https://squirrelscan.com/) - Website QA tool for developers and coding agents. Crawls your site and runs 260+ rules across SEO, performance, security, accessibility, and agent experience, then hands your coding agent the exact fixes. Runs from the CLI, inside coding agents, in the cloud, or over MCP. Local audits are free.
+- [Technical SEO Page Audit (Apify actor)](https://mamoo85.github.io/open-data-actors/technical-seo-page-audit.html) - Audits a list of URLs and returns status, redirects, titles, meta, canonical, headings, hreflang and a score per page as data.
 
 ## Local SEO
 
