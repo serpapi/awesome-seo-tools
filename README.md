@@ -126,6 +126,8 @@ Delve deep into your link profile and discover opportunities for growth and risk
 
 - [BacklinkScan](https://backlinkscan.com/) - Backlink Checker. Simple. Powerful.
 
+- [Karma.Domains](https://karma.domains/) - Expired, auction and backorder domain search with backlink, authority and traffic metrics plus Wayback Machine history. Free plan with 5 credits; paid plans for full access.
+
 - Other "All in one SEO tools" offer this feature as well.
 
 ## Content Optimization
