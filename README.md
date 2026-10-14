@@ -193,6 +193,7 @@ Monitor your website's position in search results and gauge your SEO strategies'
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
+- [BotView](https://botview.app/?utm_source=github.com&utm_medium=outreach) - AI visibility checker. Shows whether 18 AI crawlers (OAI-SearchBot, GPTBot, ClaudeBot, PerplexityBot and more) can reach and read your pages, and how OpenAI web-search answers mention and cite your business. Free crawler scans; answer checks from $9/month.
 
 ## Technical SEO
 
