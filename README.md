@@ -109,6 +109,8 @@ Uncover high-potential keywords to target and captivate your audience.
 - [AnswerThePublic](https://answerthepublic.com/) - AnswerThePublic visualizes search questions and autocomplete searches in an easy-to-digest keyword research tool that helps you create content ideas.
 
 - [Keywordideas.xyz](https://keywordideas.xyz/) - Get keyword suggestions based on a URL or example keyword from real Google search data.
+
+- [PinGroupie](https://pingroupie.com/) - Keyword ideas for Pinterest pins, built from searches made on PinGroupie and group board names, with 10 free lookups a day. Also a searchable directory of Pinterest group boards.
   
 ## Backlink Analysis
 
