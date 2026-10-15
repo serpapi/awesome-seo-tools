@@ -194,6 +194,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [Said by AI](https://www.saidbyai.com/) - Checks whether AI answers name your brand. Sends 20 buyer-style questions about your category to OpenAI's GPT-4o mini in three answer styles (direct answer, ranked list, research-style list) and reports how often and where the brand is named, which competitors are named instead, and an action plan. Free 5-question check; the full audit is a one-time payment.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
