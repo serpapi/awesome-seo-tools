@@ -126,6 +126,8 @@ Delve deep into your link profile and discover opportunities for growth and risk
 
 - [BacklinkScan](https://backlinkscan.com/) - Backlink Checker. Simple. Powerful.
 
+- [RankProof](https://github.com/CometWeb-io/rankproof) - Open source CLI, web UI and HTTP API that checks search visibility on Bing, DuckDuckGo, Mojeek and Brave and verifies backlinks on the source page, without paid SEO APIs.
+
 - Other "All in one SEO tools" offer this feature as well.
 
 ## Content Optimization
