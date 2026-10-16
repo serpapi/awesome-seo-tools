@@ -196,6 +196,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [gtm.help](https://gtm.help) - AI growth engine for founders and B2B SaaS. Checks presence and citations in Perplexity, ChatGPT and AI Overviews, finds keyword gaps from live SERP data, and turns findings into ranked growth plays. Paid with a 7-day trial; also available as a remote MCP server.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
