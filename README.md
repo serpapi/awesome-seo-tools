@@ -315,6 +315,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [AI Crawler robots.txt Checker](https://airanked.ai/tools/robots-txt-ai-checker) - Shows which AI crawlers (GPTBot, ClaudeBot, PerplexityBot, Google-Extended and more) a robots.txt allows or blocks.
+
 
 ## Social Media & Open Graph
 
