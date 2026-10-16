@@ -196,6 +196,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [Causabi](https://causabi.com) - Free AI Score check for any site, plus llms.txt and Schema.org generators and validators. Also available as a WordPress plugin, an MCP server and an open-source CLI.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
