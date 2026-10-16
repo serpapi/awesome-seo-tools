@@ -262,6 +262,8 @@ Boost your local presence and connect with audiences in your community.
 
 - [Moz Local](https://moz.com/products/local) - Maximize your online visibility with Moz's powerful local SEO and reputation management tool.
 
+- [Formgong Google Review Link Generator](https://formgong.com/en/tools/google-review-link-generator/) - Free direct "write a review" link and printable QR code for a Google Business Profile, from a Place ID or Maps link. No account needed.
+
 ## SEO Analytics
 
 - [Google Search Console](https://search.google.com/search-console/about) - Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results
