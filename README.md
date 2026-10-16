@@ -304,6 +304,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [SEO Sidebar](https://chromewebstore.google.com/detail/seo-sidebar/gmmiickdcmghfpliaiefhjafccapgmpp) - A browser extension that displays real-time on-page SEO data in a persistent side panel, with one-click export to text reports.
 
+- [Local Site Audit + Pitch](https://github.com/Stephen-Psaradellis/local-site-audit) - Open-source (MIT) extension for Chrome, Edge and Firefox that checks the open page for common small-business site defects (no HTTPS, mixed content, missing title or meta description, broken links, images without alt text, phone numbers that cannot be tapped) and turns them into a printable client report.
+
   
 ## Validator / Checker
 
