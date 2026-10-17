@@ -126,6 +126,8 @@ Delve deep into your link profile and discover opportunities for growth and risk
 
 - [BacklinkScan](https://backlinkscan.com/) - Backlink Checker. Simple. Powerful.
 
+- [BacklinkGenie](https://backlinkgenie.com/) - AI link-building outreach agent: finds "best X" lists and roundups where your product fits, writes a pitch for each post, sends from a separate mailbox, and monitors the links you win.
+
 - Other "All in one SEO tools" offer this feature as well.
 
 ## Content Optimization
