@@ -196,6 +196,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [SEO·AEO·GEO](https://seoaeogeo.app) - Free audit of a page for Google and AI search: robots.txt rules per AI crawler, simulated OAI-SearchBot, Claude-SearchBot and PerplexityBot requests to catch CDN and firewall blocks, text visible without JavaScript and extractability, with fixes in priority order. Also available as a remote MCP server for Claude Code, Cursor and Codex.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
