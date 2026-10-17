@@ -89,6 +89,7 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 Uncover high-potential keywords to target and captivate your audience.
 
 - [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/) - Free tool from Google Ads that provides keyword ideas and traffic estimates.
+- [ZensInk](https://github.com/ZensInk/zens-ink-seo-package) - Open-source, zero-dependency SEO CLI for indie devs. Keyword research via Google Autocomplete, SERP-structure keyword difficulty, technical site audits, and AI-crawler readiness checks. Pure Python stdlib, MIT.
 
 - [Keyword Tool](https://keywordtool.io/) - Find great keywords using Google Autocomplete.
 
