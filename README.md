@@ -172,6 +172,8 @@ Fine-tune your content to resonate with search algorithms and your audience alik
  
 - [FirstSearch](https://firstsearch.ai/) - Done-for-you SEO articles for your website — 30 finished posts/month delivered to your CMS via webhook ($99).
 
+- [Internal Link Planner](https://benjaminolsen.dev/internal-link-planner/) - Free browser tool to review internal-link suggestions from a supplied page inventory, edit anchors and export a reviewed plan.
+
 ## Rank Tracking
 
 Monitor your website's position in search results and gauge your SEO strategies' effectiveness.
