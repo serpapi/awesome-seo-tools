@@ -196,6 +196,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [TidyTools AI Crawler Checker](https://tools.yukai.uk/free/ai-crawler-checker) - Free check of which AI crawlers (GPTBot, ClaudeBot, PerplexityBot, Google-Extended and 25 more) a site's robots.txt allows, with the matching rule and a ready-to-paste fix. No sign-up; JSON API available.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
