@@ -262,6 +262,8 @@ Boost your local presence and connect with audiences in your community.
 
 - [Moz Local](https://moz.com/products/local) - Maximize your online visibility with Moz's powerful local SEO and reputation management tool.
 
+- [VNCNT Labs Google Maps Rank Tracker](https://apify.com/vncntlabs/google-maps-rank-tracker) - Geo-grid local rank tracker: your Google Maps position at up to 15x15 points with top competitors, average rank, share of top 3 and an HTML heat map. Pay per grid point, no monthly seat.
+
 ## SEO Analytics
 
 - [Google Search Console](https://search.google.com/search-console/about) - Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results
