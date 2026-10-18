@@ -195,6 +195,7 @@ Monitor your website's position in search results and gauge your SEO strategies'
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
+- [Orkkid AI Citation Checker](https://orkkid.com/tools/ai-citation-checker) - Free check of whether ChatGPT and Perplexity name or cite a business for the questions its customers ask, with the competitors they name instead. Companion free tools: AI Visibility Audit, Prompt Panel Generator, AI Crawler Checker and llms.txt Generator.
 
 ## Technical SEO
 
