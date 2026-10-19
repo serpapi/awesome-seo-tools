@@ -109,6 +109,8 @@ Uncover high-potential keywords to target and captivate your audience.
 - [AnswerThePublic](https://answerthepublic.com/) - AnswerThePublic visualizes search questions and autocomplete searches in an easy-to-digest keyword research tool that helps you create content ideas.
 
 - [Keywordideas.xyz](https://keywordideas.xyz/) - Get keyword suggestions based on a URL or example keyword from real Google search data.
+
+- [CallAI](https://callaiapi.com/en/tools) - Pay-as-you-go keyword research (volume, KD, CPC by country), rank checking with AI Overview citation detection, and backlink checks, plus 30 free no-login SEO tools.
   
 ## Backlink Analysis
 
