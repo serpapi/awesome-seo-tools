@@ -196,6 +196,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [Seonix](https://seonix.ai/) - Automated SEO and GEO: audits your site, writes and publishes articles on schedule, and tracks rankings and brand mentions in ChatGPT, Gemini and Google AI answers. Free audit plan, MCP server for AI agents.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
