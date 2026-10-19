@@ -110,6 +110,8 @@ Uncover high-potential keywords to target and captivate your audience.
 
 - [Keywordideas.xyz](https://keywordideas.xyz/) - Get keyword suggestions based on a URL or example keyword from real Google search data.
   
+- [seodata.dev](https://www.seodata.dev/) - Free keyword search volume, CPC and competition by country, via a curl-friendly API and an MCP server for AI agents.
+
 ## Backlink Analysis
 
 Delve deep into your link profile and discover opportunities for growth and risk mitigation.
