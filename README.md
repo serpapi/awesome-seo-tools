@@ -268,6 +268,8 @@ Boost your local presence and connect with audiences in your community.
  
 - [SEO Gets](https://seogets.com/) - Privacy-focused analytics tool built to replace Google Search Console for Agencies and Affiliates.
 
+- [Google Search Console Connector](https://github.com/malaysherasia-ai/google-search-console-connector-for-claude-code) - Open-source local MCP server that connects Google Search Console to Claude Code, Cursor and other MCP clients with a Google sign-in, no API key. Search analytics, CSV export of every report past the 1,000-row UI limit, URL Inspection, sitemaps and a local dashboard. Free, MIT.
+
 ## SEO Browser Extensions
 
 Equip your browser with tools for quick and efficient SEO insights on the go.
