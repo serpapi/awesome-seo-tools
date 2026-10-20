@@ -324,6 +324,8 @@ Tools for optimizing how your content appears when shared on social platforms.
 
 - [ogimg.xyz](https://ogimg.xyz/) - API for generating Open Graph images programmatically. 10 templates, custom branding, URL auto-fetch mode. Free tier available.
 
+- [Uttily Open Graph Generator](https://seo.uttily.com/open-graph-generator) - Free in-browser generator for Open Graph and Twitter Card meta tags with a live share preview.
+
 ## Miscellaneous Tools
 
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
