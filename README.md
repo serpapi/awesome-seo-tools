@@ -196,6 +196,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [AEO Checker](https://github.com/pchewlo/aeo-check) - Open-source CLI, GitHub Action and pre-commit hook that checks a site's source code or a live URL for what stops ChatGPT, Claude and Perplexity crawling, quoting or buying from it. 53 rules, including AI crawler access in robots.txt, llms.txt, content that only renders with JavaScript, canonicals, JSON-LD and Offer schema, and Buy/Book buttons agents can read. Text, JSON, SARIF and Markdown output.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
