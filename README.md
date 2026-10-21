@@ -324,6 +324,8 @@ Tools for optimizing how your content appears when shared on social platforms.
 
 - [ogimg.xyz](https://ogimg.xyz/) - API for generating Open Graph images programmatically. 10 templates, custom branding, URL auto-fetch mode. Free tier available.
 
+- [Peekly](https://linkcard-tau.vercel.app) - Free Open Graph / link-preview checker: see X, Discord, Slack and LinkedIn cards plus copy-paste tag fixes. No signup.
+
 ## Miscellaneous Tools
 
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
