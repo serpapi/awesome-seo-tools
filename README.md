@@ -315,6 +315,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [Site Spell Checker](https://sitespellchecker.com/) - Scans every page of a live website for spelling and grammar mistakes and lists each one with its page URL. One page free, full-site scan is a one-off $99.
+
 
 ## Social Media & Open Graph
 
