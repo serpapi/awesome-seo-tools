@@ -222,6 +222,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [PressProxy](https://pressproxy.io/) - No-code tool to serve blog.domain.tld on domain.tld/blog using Cloudflare Workers.
 
+- [AnalyzeInsta SEO Scanner](https://analyzeinsta.com/seo-website-scanner) - Googlebot crawler and technical SEO auditor that analyzes /robots.txt, sitemaps, meta tags, and JSON-LD schemas, with 1-click AI fix prompts.
+
 - [Wizardstool](https://wizardstool.com/) - A tool to check broken links.
 
 - [SEOnaut](https://seonaut.org) - Open source technical SEO auditing tool.
