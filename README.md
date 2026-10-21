@@ -272,6 +272,8 @@ Boost your local presence and connect with audiences in your community.
 
 Equip your browser with tools for quick and efficient SEO insights on the go.
 
+- [Mode VC Backlink & WebMCP Lens](https://modevc.com/tools/webmcp-backlink-lens) - Open-source Chrome extension ([source](https://github.com/alexbuilding/webmcp-backlink-lens)) to audit outbound dofollow vs nofollow links, highlight link attributes on page, and check `.well-known/mcp.json` and `/llms.txt` AI search readiness.
+
 - [SEO Minion](https://chrome.google.com/webstore/detail/seo-minion/giihipjfimkajhlcilipnjeohabimjhi) - SEO Minion helps you in your daily SEO tasks such as On-Page SEO analysis, Broken Link Checking, SERP Preview and more.
 
 - [SEOquake](https://www.seoquake.com/index.html) - A powerful SEO toolbox for your browser.
