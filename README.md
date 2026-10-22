@@ -315,6 +315,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [Stillindexed Robots.txt Tester](https://stillindexed.com/tools/robots-txt-tester) - Free robots.txt tester that fetches a live robots.txt and reports whether a URL is allowed for a given user agent, following RFC 9309 and Google's matching rules.
+
 
 ## Social Media & Open Graph
 
