@@ -315,6 +315,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [BrandTactics Accessibility Validator](https://brandtactics.co.il/accessibility-generator/) - Automated WCAG 2.1 Level AA & Israeli Standard IS 5568 web accessibility compliance auditor and statement generator.
+
 
 ## Social Media & Open Graph
 
