@@ -172,6 +172,8 @@ Fine-tune your content to resonate with search algorithms and your audience alik
  
 - [FirstSearch](https://firstsearch.ai/) - Done-for-you SEO articles for your website — 30 finished posts/month delivered to your CMS via webhook ($99).
 
+- [KiloPlume](https://kiloplume.com/) - Content ideas generator providing weekly topics and structured briefs drawn from your business and news.
+
 ## Rank Tracking
 
 Monitor your website's position in search results and gauge your SEO strategies' effectiveness.
