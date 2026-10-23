@@ -248,6 +248,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [squirrelscan](https://squirrelscan.com/) - Website QA tool for developers and coding agents. Crawls your site and runs 260+ rules across SEO, performance, security, accessibility, and agent experience, then hands your coding agent the exact fixes. Runs from the CLI, inside coding agents, in the cloud, or over MCP. Local audits are free.
 
+- [Toadstone](https://github.com/spcaeo/toadstone) - Free, self-hosted, source-available technical SEO crawler with JavaScript rendering, 222 checks, crawl-to-crawl diffs with stable issue ids, server log analysis, Search Console/GA4 data, an HTTP API and an MCP server; a fork of LibreCrawl. [Live demo](https://spcaeo.github.io/toadstone/).
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
