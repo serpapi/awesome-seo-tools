@@ -334,6 +334,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [StackScan](https://www.stackscan.com/) - Looks up the technology stack of any website and finds every site running a given CMS, plugin or framework.
+
 Happy optimizing! 🚀
 
 ## Information
