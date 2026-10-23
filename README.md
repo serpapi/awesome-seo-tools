@@ -315,6 +315,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [WebToolBench Robots.txt Tester](https://www.webtoolbench.com/robots-txt-tester) - Fetches a site's live robots.txt and tests whether Googlebot, Bingbot, GPTBot or any other crawler can reach a given path, showing the exact rule that matched.
+
 
 ## Social Media & Open Graph
 
