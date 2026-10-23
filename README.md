@@ -267,6 +267,7 @@ Boost your local presence and connect with audiences in your community.
 - [Google Search Console](https://search.google.com/search-console/about) - Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results
  
 - [SEO Gets](https://seogets.com/) - Privacy-focused analytics tool built to replace Google Search Console for Agencies and Affiliates.
+- [gsc-hub](https://github.com/izzipizzy/gsc-hub) - Local self-hosted multi-account hub for Google Search Console: all sites from several Google accounts in one table, aggregated queries and pages, per-site SEO analytics, CSV export (MIT).
 
 ## SEO Browser Extensions
 
