@@ -188,6 +188,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [That's Rank!](https://www.thatisrank.com/) - That's Rank! helps you know and track instantly where your website ranks on Google for every keyword.
 
+- [YouTube Search & Rank Tracker](https://apify.com/heyitsgautham/youtube-search-scraper) - Tracks where videos and channels rank in YouTube search for a keyword, by country, and flags changes since the last run. Paid per result on Apify, $0.24 per 1,000 results.
+
 - Other "All in one SEO tools" offer this feature as well.
 
 ## GEO / AI Visibility
