@@ -324,6 +324,8 @@ Tools for optimizing how your content appears when shared on social platforms.
 
 - [ogimg.xyz](https://ogimg.xyz/) - API for generating Open Graph images programmatically. 10 templates, custom branding, URL auto-fetch mode. Free tier available.
 
+- [PasteZap OG Image Generator](https://pastezap.com/tools/og-image-generator/) - Design 1200 × 630 link-preview images with templates and get the matching Open Graph meta tags. Free, no account.
+
 ## Miscellaneous Tools
 
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
