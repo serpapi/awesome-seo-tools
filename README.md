@@ -188,6 +188,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [That's Rank!](https://www.thatisrank.com/) - That's Rank! helps you know and track instantly where your website ranks on Google for every keyword.
 
+- [SEMPITE Google Rank Checker](https://sempite.com/tools/google-rank-checker) - Free, no-signup check of your live Google position, page number and ranking URL for any keyword.
+
 - Other "All in one SEO tools" offer this feature as well.
 
 ## GEO / AI Visibility
