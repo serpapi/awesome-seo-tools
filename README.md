@@ -196,6 +196,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [Skald](https://skaldanalytics.com/) - Self-hosted web analytics read from your server access log. Separates people from AI assistants and crawlers, shows which pages each AI assistant fetched, and checks what AI assistants answer about your brand. Source-available (Elastic License 2.0), free to self-host.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
