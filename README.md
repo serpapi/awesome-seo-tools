@@ -315,6 +315,10 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [Free Site Audit](https://kevindurant735rocket-creator.github.io/ks-audit-bot/) - Runs 16 technical checks on any URL (security headers, JSON-LD, meta description, alt text, H1, robots, sitemap, cache, compression, TLS) and links each failing check to a fix page with copy-paste snippets for nginx, Apache, Next.js and plain HTML. No signup, no crawl queue, one URL per run.
+
+- [SERP Snippet Checker](https://kevindurant735rocket-creator.github.io/freetoolkit-en/t/serp-snippet.html) - Measures a title and meta description in pixels rather than characters, shows exactly where Google truncates them, and outputs the corrected tags. Runs entirely in the browser.
+
 
 ## Social Media & Open Graph
 
