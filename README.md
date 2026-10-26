@@ -315,6 +315,10 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [Redirect Trace](https://redirect-trace.pages.dev/) - Free redirect chain checker: traces every hop with status codes and response times, bulk-checks up to 50 URLs with CSV export. EN/DE/IT.
+
+- [Redirect Trace Schema Validator](https://redirect-trace.pages.dev/schema-markup-validator/) - Free JSON-LD validator that explains every error in plain words, checks Google rich result eligibility and returns corrected JSON-LD.
+
 
 ## Social Media & Open Graph
 
