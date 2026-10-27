@@ -188,6 +188,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [That's Rank!](https://www.thatisrank.com/) - That's Rank! helps you know and track instantly where your website ranks on Google for every keyword.
 
+- [DataForSEO Rank & AI Tracker](https://github.com/digital-royalty-ltd/dataforseo-rank-ai-tracker) - Open-source Python script that tracks Google rankings and brand mentions in AI answers using the DataForSEO API. MIT licensed, bring your own API key.
+
 - Other "All in one SEO tools" offer this feature as well.
 
 ## GEO / AI Visibility
