@@ -172,6 +172,8 @@ Fine-tune your content to resonate with search algorithms and your audience alik
  
 - [FirstSearch](https://firstsearch.ai/) - Done-for-you SEO articles for your website — 30 finished posts/month delivered to your CMS via webhook ($99).
 
+- [SERP Preview](https://ignura.com/tools/serp-preview) - Free preview of a title and meta description as a Google desktop result, with pixel widths and where they may get cut. Runs in the browser, open source (MIT).
+
 ## Rank Tracking
 
 Monitor your website's position in search results and gauge your SEO strategies' effectiveness.
