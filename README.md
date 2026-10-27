@@ -239,7 +239,7 @@ Ensure your website's foundation is solid for search engines and user experience
 - [PreRender24](https://prerender24.com/) - Edge-based prerendering service for JavaScript SPAs (React, Vue, Angular). Delivers fully rendered HTML to search engine and AI crawlers via Cloudflare's edge network in <250ms. DNS-only setup, no code changes required.
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
-- [SEO Score API](https://seoscoreapi.com/) - API-first SEO audit tool that returns a score (0-100), grade, and 28 checks across meta, technical, social, performance, and accessibility with prioritized fix recommendations. Free tier available.
+- [SEO Score API](https://seoscoreapi.com/) - API-first SEO audit tool that returns a score (0-100), grade and prioritized fixes as JSON, with 80+ checks per URL including AI readability. Free tier available.
 
 
 - [EdgeComet](https://github.com/edgecomet/engine) - Open-source JavaScript rendering engine that serves pre-rendered HTML to search engine bots and AI crawlers. Built in Go with headless Chrome pool management and Redis caching.
