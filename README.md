@@ -324,6 +324,10 @@ Tools for optimizing how your content appears when shared on social platforms.
 
 - [ogimg.xyz](https://ogimg.xyz/) - API for generating Open Graph images programmatically. 10 templates, custom branding, URL auto-fetch mode. Free tier available.
 
+- [CohesionStack Link Preview](https://www.cohesionstack.com/link-preview) - Free, no-account tool that shows approximate share cards for LinkedIn, Facebook, X, Slack and WhatsApp from a page's live Open Graph and Twitter Card tags.
+
+- [CohesionStack Metadata Packer](https://www.cohesionstack.com/opengraph-webpage-metadata) - Free, no-account tool that extracts Open Graph, Twitter Card and JSON-LD metadata from up to 10 URLs and exports a CSV plus a ZIP of images and favicons.
+
 ## Miscellaneous Tools
 
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
