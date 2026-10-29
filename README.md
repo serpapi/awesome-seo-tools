@@ -315,6 +315,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [Broken Link & Sitemap Checker (Apify)](https://apify.com/lineagersiui/sitemap-url-health-checker) - Checks every URL listed in an XML sitemap for 404s, server errors, redirect chains and noindex headers. Hosted Apify Actor, pay per URL checked.
+
 
 ## Social Media & Open Graph
 
