@@ -333,6 +333,7 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 - [Pingdom](https://tools.pingdom.com/) - Tests website load time and gives performance analysis.
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
+* [awesome-geo-seo](https://github.com/yes155/awesome-geo-seo) - Curated generative engine optimization (GEO) and knowledge graph blueprints for AI search citation.
 
 Happy optimizing! 🚀
 
