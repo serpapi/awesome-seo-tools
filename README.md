@@ -324,6 +324,8 @@ Tools for optimizing how your content appears when shared on social platforms.
 
 - [ogimg.xyz](https://ogimg.xyz/) - API for generating Open Graph images programmatically. 10 templates, custom branding, URL auto-fetch mode. Free tier available.
 
+- [CurlShot](https://curlshot.com/tools/open-graph-image-generator) - Screenshot API that renders an HTML template or any URL into a 1200x630 PNG for Open Graph and social share cards, with caching. Free plan with 100 renders a month.
+
 ## Miscellaneous Tools
 
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
