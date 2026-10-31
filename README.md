@@ -266,7 +266,7 @@ Boost your local presence and connect with audiences in your community.
  
 - [SEO Gets](https://seogets.com/) - Privacy-focused analytics tool built to replace Google Search Console for Agencies and Affiliates.
 
-- [OneLence](https://onelence.com) - Marketing analytics: what to scale, hold or stop across ads, SEO, AI search and affiliates. Ranks Search Console opportunities (Bing optional) and shows which bots and AI crawlers visit your site.
+- [OneLence](https://onelence.com) - Marketing analytics for founders and marketing teams that finds growth opportunities in organic search and AI search visibility (GEO/AEO), alongside paid and affiliates, and shows where to focus next. Ranks Search Console opportunities and shows which AI crawlers visit your site.
 
 ## SEO Browser Extensions
 
