@@ -315,6 +315,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [AI Website Pipeline](https://aiwebsitepipeline.com/) - Free browser checkers for robots.txt rules, canonical tags, hreflang, Open Graph, meta robots and XML sitemaps. No account needed.
+
 
 ## Social Media & Open Graph
 
