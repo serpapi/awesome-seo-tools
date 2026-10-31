@@ -109,6 +109,8 @@ Uncover high-potential keywords to target and captivate your audience.
 - [AnswerThePublic](https://answerthepublic.com/) - AnswerThePublic visualizes search questions and autocomplete searches in an easy-to-digest keyword research tool that helps you create content ideas.
 
 - [Keywordideas.xyz](https://keywordideas.xyz/) - Get keyword suggestions based on a URL or example keyword from real Google search data.
+
+- [Keyword Research API](https://apify.com/gaelasao/keyword-research-api) - Bulk search volume, AI search volume, CPC, difficulty and search intent by API, with no Google Ads account. $3 per 1,000 keywords.
   
 ## Backlink Analysis
 
