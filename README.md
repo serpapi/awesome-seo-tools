@@ -196,6 +196,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [Contentstack Canoe](https://canoe.contentstack.com/) - AI visibility from Contentstack. Asks ChatGPT, Gemini, Perplexity and Claude the questions your buyers ask, then shows how often you're named, which competitors win and which sources the engines cite. Includes a site audit for AI crawlers and up to ten ranked fixes per run. Free forever plan.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
