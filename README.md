@@ -269,6 +269,8 @@ Boost your local presence and connect with audiences in your community.
  
 - [SEO Gets](https://seogets.com/) - Privacy-focused analytics tool built to replace Google Search Console for Agencies and Affiliates.
 
+- [site-traffic-teardown](https://github.com/zhuyansen/site-traffic-teardown) - Open-source agent skill (Claude Code, Codex, Cursor) for competitor teardowns: finds a site's competitors, compares their traffic trend, channel mix, keywords, backlinks and domain rating in one table, and names three growth opportunities. Similarweb, Semrush and Ahrefs data via a paid AIsa API key, under $1 per domain.
+
 ## SEO Browser Extensions
 
 Equip your browser with tools for quick and efficient SEO insights on the go.
