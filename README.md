@@ -110,6 +110,8 @@ Uncover high-potential keywords to target and captivate your audience.
 - [AnswerThePublic](https://answerthepublic.com/) - AnswerThePublic visualizes search questions and autocomplete searches in an easy-to-digest keyword research tool that helps you create content ideas.
 
 - [Keywordideas.xyz](https://keywordideas.xyz/) - Get keyword suggestions based on a URL or example keyword from real Google search data.
+
+- [new-term-radar](https://github.com/zhuyansen/new-term-radar) - Open-source daily radar that catches the names of new AI models, products and repos on X, Hugging Face, GitHub and sitemaps before keyword tools list them, then sizes the generic search terms behind each name.
   
 ## Backlink Analysis
 
@@ -126,6 +128,8 @@ Delve deep into your link profile and discover opportunities for growth and risk
 - [YouLinker](https://youlinker.pro/) - Submit your product to multiple directories.
 
 - [BacklinkScan](https://backlinkscan.com/) - Backlink Checker. Simple. Powerful.
+
+- [backlink-guard](https://github.com/zhuyansen/backlink-guard) - Open-source CLI and agent skill: check a directory or link source against Google's link spam policies before you submit to it, verify the listing afterwards, and find backlinks that now land on 404 pages.
 
 - Other "All in one SEO tools" offer this feature as well.
 
