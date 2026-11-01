@@ -85,6 +85,8 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 - [SearchAtlas](https://searchatlas.com/) - AI-powered SEO platform with an [MCP server](https://github.com/Search-Atlas-Group/searchatlas-mcp-server) that exposes 16 tools for 
   keyword research, site auditing, content optimization, backlink analysis, PPC management, and LLM brand visibility monitoring directly inside AI assistants.
 
+- [Serpier](https://serpier.com/) - All-in-one SEO and AI visibility platform: SEO performance tracking (rankings, search traffic, backlinks), AI visibility monitoring, a vetted publisher marketplace for link building, and publication tracking. Also available as a hosted [MCP server](https://serpier.com/mcp).
+
 ## Keyword Research
 
 Uncover high-potential keywords to target and captivate your audience.
