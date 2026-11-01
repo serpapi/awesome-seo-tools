@@ -196,6 +196,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [Snoffle](https://snoffle.broke2builtai.com) - Paid report ($29) for one product URL: searches the questions buyers ask on Google, asks an AI assistant which tools it would recommend, checks how readable the site is to AI crawlers, and lists the fixes with a prompt a coding agent can apply. Free example report on the site.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
