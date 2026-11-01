@@ -1,4 +1,5 @@
-![Awesome SEO tools cover](/awesome-seo-tools-cover.webp)
+<img width="1200" height="397" alt="awesome seo tools" src="https://github.com/user-attachments/assets/8608250f-b9a6-4f1d-af4b-47bbfb8d993c" />
+
 
 # Awesome SEO tools
 
