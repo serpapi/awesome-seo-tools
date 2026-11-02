@@ -316,6 +316,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [Next.js robots.txt Checker](https://www.afaqrashid.com/tools/nextjs-robots-txt-checker) - Free browser-based check for robots.txt rules that block Next.js JavaScript, CSS, fonts or optimized images.
+
 
 ## Social Media & Open Graph
 
@@ -324,6 +326,8 @@ Tools for optimizing how your content appears when shared on social platforms.
 - [ShotOG](https://github.com/nicepkg/shotog) - Open source, edge-native OG image generation API (~50ms) to boost social media click-through rates and improve content visibility.
 
 - [ogimg.xyz](https://ogimg.xyz/) - API for generating Open Graph images programmatically. 10 templates, custom branding, URL auto-fetch mode. Free tier available.
+
+- [Next.js Metadata Checker](https://www.afaqrashid.com/tools/nextjs-metadata-checker) - Free browser-based check of a page's title, canonical, Open Graph tags and share image, with the Next.js fix for each.
 
 ## Miscellaneous Tools
 
