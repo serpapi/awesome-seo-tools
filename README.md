@@ -196,6 +196,7 @@ Monitor your website's position in search results and gauge your SEO strategies'
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
+- [AI Crawler Access Checker](https://awesomedevkit.com/ai-crawler-access-checker) - Free tool that checks whether AI crawlers like GPTBot and ClaudeBot can access your site, based on your robots.txt rules.
 
 ## Technical SEO
 
@@ -315,6 +316,7 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [Lighthouse Rich Result Checker](https://search.google.com/test/rich-results) - Tests whether your website is eligible for rich results in Google Search.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
+- [llms.txt Validator](https://awesomedevkit.com/llms-txt-validator) - Validates your llms.txt file against the llms.txt standard so AI crawlers can parse your content correctly.
 
 
 ## Social Media & Open Graph
