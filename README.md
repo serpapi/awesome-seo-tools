@@ -248,6 +248,8 @@ Ensure your website's foundation is solid for search engines and user experience
 - [geo-lint](https://github.com/IJONIS/geo-lint) - First open-source linter for Generative Engine Optimization (GEO). 92 rules for AI search visibility including structured data, citation density, and answer-ready formatting. Agent-first JSON output for automated lint-fix loops.
 
 - [squirrelscan](https://squirrelscan.com/) - Website QA tool for developers and coding agents. Crawls your site and runs 260+ rules across SEO, performance, security, accessibility, and agent experience, then hands your coding agent the exact fixes. Runs from the CLI, inside coding agents, in the cloud, or over MCP. Local audits are free.
+- [IndexFast](https://indexfast.co/) - Watches your sitemap and submits new or changed URLs via IndexNow, with per-URL noindex, canonical and redirect checks.
+
 
 ## Local SEO
 
