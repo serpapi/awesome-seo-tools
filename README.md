@@ -197,6 +197,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [Rillow AI Overview Checker](https://rillow.ai/tools/ai-overview-checker) - Free check of whether Google's AI Overview and Claude cite your site for a search, and where you rank in Google's top 10.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
@@ -315,6 +317,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [Lighthouse Rich Result Checker](https://search.google.com/test/rich-results) - Tests whether your website is eligible for rich results in Google Search.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
+
+- [Domain Rating Checker](https://rillow.ai/tools/domain-rating-checker) - Free check of any domain's rating from 0 to 100, how many sites link to it, and the strongest of them.
 
 
 ## Social Media & Open Graph
