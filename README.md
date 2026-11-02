@@ -242,6 +242,8 @@ Ensure your website's foundation is solid for search engines and user experience
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 - [SEO Score API](https://seoscoreapi.com/) - API-first SEO audit tool that returns a score (0-100), grade, and 28 checks across meta, technical, social, performance, and accessibility with prioritized fix recommendations. Free tier available.
 
+- [Website Checker by OLBO](https://olbo.com.ua/en/website-checker) - Free online website check with no sign-up: overall score and a 20-point traffic light covering site age, hosting, SSL, security headers, DMARC, broken links and mobile speed. Optional paid PDF report with fixes.
+
 
 - [EdgeComet](https://github.com/edgecomet/engine) - Open-source JavaScript rendering engine that serves pre-rendered HTML to search engine bots and AI crawlers. Built in Go with headless Chrome pool management and Redis caching.
 
