@@ -197,6 +197,10 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [AI Crawler & Robots.txt Checker](https://ajaypadhy.com/tools/ai-crawler-checker) - Free check of whether GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot and Googlebot can crawl a page, rule by rule from robots.txt, plus a firewall test. No sign-up.
+
+- [llms.txt Generator & Checker](https://ajaypadhy.com/tools/llms-txt-generator) - Free tool that builds an llms.txt file from a sitemap, or validates an existing file against the llmstxt.org format.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
@@ -316,6 +320,7 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [Hreflang Checker](https://ajaypadhy.com/tools/hreflang-checker) - Checks hreflang codes, self-references, x-default and return links from every alternate URL. Free, no sign-up.
 
 ## Social Media & Open Graph
 
