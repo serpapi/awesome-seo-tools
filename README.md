@@ -325,6 +325,8 @@ Tools for optimizing how your content appears when shared on social platforms.
 
 - [ogimg.xyz](https://ogimg.xyz/) - API for generating Open Graph images programmatically. 10 templates, custom branding, URL auto-fetch mode. Free tier available.
 
+- [Shareglint](https://shareglint.com/) - API that renders Open Graph and social images from your own HTML/CSS templates or 153 built-in ones, with a no-code auto og:image tag, GIF/MP4 output and an MCP server. Free tier available.
+
 ## Miscellaneous Tools
 
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
