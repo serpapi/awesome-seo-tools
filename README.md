@@ -197,6 +197,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [Elivate SEO Audit](https://elivateseo.com/audit) - Free, no-sign-up audit that reads robots.txt, the sitemap, llms.txt and the page, and reports which AI crawlers are allowed (training separated from retrieval), structured data and on-page basics.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
