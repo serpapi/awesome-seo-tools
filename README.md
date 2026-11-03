@@ -197,6 +197,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [Vercite](https://vercite.io/) - Tracks how ChatGPT, Gemini, Perplexity, Google AI Overviews and AI Mode mention and cite your brand. Prompt tracking, citation source discovery, sentiment, and competitor benchmarks, with recommendations to improve AI visibility.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
