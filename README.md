@@ -335,6 +335,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [mcpmarketing.ai](https://mcpmarketing.ai/) - Free directory of over 150 MCP servers that connect AI assistants to SEO, ads, analytics, CRM and email tools, including Search Console, Ahrefs and Semrush.
+
 Happy optimizing! 🚀
 
 ## Information
