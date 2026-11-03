@@ -335,6 +335,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [Bulk PageSpeed & Core Web Vitals Monitor](https://apify.com/tobbyb/pagespeed-core-web-vitals-monitor) - Runs PageSpeed Insights and Chrome UX Report field data for URL lists or sitemaps, with regression alerts.
+
 Happy optimizing! 🚀
 
 ## Information
