@@ -242,6 +242,8 @@ Ensure your website's foundation is solid for search engines and user experience
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 - [SEO Score API](https://seoscoreapi.com/) - API-first SEO audit tool that returns a score (0-100), grade, and 28 checks across meta, technical, social, performance, and accessibility with prioritized fix recommendations. Free tier available.
 
+- [NitroSERP](https://www.nitroserp.com/) - Collection of 50+ free, browser-based technical SEO utilities (meta tag & Next.js metadata generators, Google SERP simulator, JSON-LD schema builder, `llms.txt` & `robots.txt` generators, and GSC RE2 regex builder) with no signup required.
+
 
 - [EdgeComet](https://github.com/edgecomet/engine) - Open-source JavaScript rendering engine that serves pre-rendered HTML to search engine bots and AI crawlers. Built in Go with headless Chrome pool management and Redis caching.
 
