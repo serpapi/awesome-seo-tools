@@ -265,6 +265,8 @@ Boost your local presence and connect with audiences in your community.
 
 ## SEO Analytics
 
+- [CrakSEO Search Console MCP](https://docs.crakseo.com/mcp-servers/search-console) - Free remote MCP access to owned-site Google Search Console and Bing Webmaster data; OAuth or an API key required.
+
 - [Google Search Console](https://search.google.com/search-console/about) - Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results
  
 - [SEO Gets](https://seogets.com/) - Privacy-focused analytics tool built to replace Google Search Console for Agencies and Affiliates.
