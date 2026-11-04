@@ -316,6 +316,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [Fix42 Sitemap Validator](https://fix42.com/tools/sitemap-validator/) - Free checker that loads a sitemap URL or pasted XML and lists format errors and search engine limit problems, with no sign-up.
+
 
 ## Social Media & Open Graph
 
