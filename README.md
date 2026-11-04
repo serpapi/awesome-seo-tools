@@ -110,6 +110,7 @@ Uncover high-potential keywords to target and captivate your audience.
 - [AnswerThePublic](https://answerthepublic.com/) - AnswerThePublic visualizes search questions and autocomplete searches in an easy-to-digest keyword research tool that helps you create content ideas.
 
 - [Keywordideas.xyz](https://keywordideas.xyz/) - Get keyword suggestions based on a URL or example keyword from real Google search data.
+- [twtData Trends](https://twtdata.com/twitter-trends/) - Top topics and hashtags on X worldwide and per country, updated hourly, for spotting keyword demand early.
   
 ## Backlink Analysis
 
