@@ -316,6 +316,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [YouTube Upload Checker](https://www.markstudios.com/tools/youtube-upload-checker) - Checks a YouTube title, description, tags and chapters against YouTube's limits and shows where the title gets cut off in search and suggested.
+
 
 ## Social Media & Open Graph
 
