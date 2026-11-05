@@ -316,6 +316,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [DevOmniTools Robots.txt Tester](https://www.devomnitools.com/en/tools/robots-txt-tester/) - Free in-browser RFC 9309 robots.txt parser and validator featuring 1-click AI crawler presets (GPTBot, ClaudeBot, PerplexityBot) and rule precedence conflict detection.
+
 
 ## Social Media & Open Graph
 
