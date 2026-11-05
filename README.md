@@ -127,6 +127,8 @@ Delve deep into your link profile and discover opportunities for growth and risk
 
 - [BacklinkScan](https://backlinkscan.com/) - Backlink Checker. Simple. Powerful.
 
+- [LinkDR](https://linkdr.com/) - Free backlink checker, domain email finder, and link-building outreach platform for SEO teams.
+
 - Other "All in one SEO tools" offer this feature as well.
 
 ## Content Optimization
