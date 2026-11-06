@@ -305,6 +305,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [SEO Sidebar](https://chromewebstore.google.com/detail/seo-sidebar/gmmiickdcmghfpliaiefhjafccapgmpp) - A browser extension that displays real-time on-page SEO data in a persistent side panel, with one-click export to text reports.
 
+- [AuditLamp](https://chromewebstore.google.com/detail/auditlamp-seo-ai-audit-in/idkdnjinmoheapbfcfjhohklpbfbhmfo) - Browser extension that checks the open page's title, description, headings, image alt text, links, schema, social tags and AI crawler access in robots.txt, with an on-page overlay and CSV export. No signup.
+
   
 ## Validator / Checker
 
