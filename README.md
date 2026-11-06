@@ -263,6 +263,8 @@ Boost your local presence and connect with audiences in your community.
 
 - [Moz Local](https://moz.com/products/local) - Maximize your online visibility with Moz's powerful local SEO and reputation management tool.
 
+- [ReputeMap](https://reputemap.com) - Google review management for multi-location businesses: one inbox for every location's reviews, AI reply drafts you approve, review requests by email/QR, and 1–3★ review alerts. Freemium: free Google reviews widget for one location, paid plans from $19/mo.
+
 ## SEO Analytics
 
 - [Google Search Console](https://search.google.com/search-console/about) - Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results
