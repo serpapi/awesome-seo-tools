@@ -316,6 +316,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [Bulk Redirect Checker](https://bealinawaz.com/tools/redirect-checker/) - Free bulk redirect checker for up to 100 URLs: flags 404s, 302s, redirect chains and loops, with CSV export and no sign-up.
+
 
 ## Social Media & Open Graph
 
