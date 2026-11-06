@@ -52,6 +52,8 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 
 - [SEO PowerSuite](https://www.link-assistant.com/) - Rankings, on-page, backlinks, and reports — all in one easy-to-use toolkit.
 
+- [GoAnyAPI](https://goanyapi.com/) - All-in-one SEO data API and MCP server for AI agents: keyword research, difficulty and suggestions, backlinks, domain rating, website traffic, SERP and Google Ads Transparency data — callable directly from Claude Code, Cursor, Codex and other MCP clients via OAuth sign-in.
+
 - [WebCEO](https://www.webceo.com/) - SEO & digital marketing tools. For agency-level analysis, reports & lead generation.
 
 - [SpyFu](https://www.spyfu.com/) - SEO marketing suite, PPC analyzer, historic data, competitive analysis, backlink outreach, unlimited keyword & domain projects, custom reporting.
