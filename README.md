@@ -197,6 +197,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [EveryInfra SEO Skills](https://github.com/everyinfra/seo-skills) - Free, open-source SEO and GEO skill for Claude Code, Codex and other agent hosts. Covers technical audits, keyword and SERP research, and AI search visibility, with 18 market portals and stdlib-only scripts.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
