@@ -172,6 +172,7 @@ Fine-tune your content to resonate with search algorithms and your audience alik
 - [TuxSEO](https://tuxseo.com/) - Fully automated, SEO optimized, blog creation for your business.  
  
 - [FirstSearch](https://firstsearch.ai/) - Done-for-you SEO articles for your website — 30 finished posts/month delivered to your CMS via webhook ($99).
+- [brownie.tools Keyword Density Checker](https://brownie.tools/seo-tools/keyword-density-checker/) - Analyze keyword frequency and density in pasted text directly in your browser.
 
 ## Rank Tracking
 
