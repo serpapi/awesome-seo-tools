@@ -197,6 +197,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [LinkGPT](https://www.linkgpt.app) - SEO and AI visibility platform. Tracks brand mentions and citations across ChatGPT, Perplexity, Gemini, Claude and Grok alongside Search Console data, and applies fixes automatically or on approval. Works inside Claude and ChatGPT via MCP.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
