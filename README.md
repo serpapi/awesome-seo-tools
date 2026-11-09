@@ -110,6 +110,8 @@ Uncover high-potential keywords to target and captivate your audience.
 - [AnswerThePublic](https://answerthepublic.com/) - AnswerThePublic visualizes search questions and autocomplete searches in an easy-to-digest keyword research tool that helps you create content ideas.
 
 - [Keywordideas.xyz](https://keywordideas.xyz/) - Get keyword suggestions based on a URL or example keyword from real Google search data.
+
+- [Google Trends Scraper](https://apify.com/rsiddiq95/google-trends-scraper) - Bulk Google Trends data: interest over time, interest by region, related queries and topics, and Trending Now.
   
 ## Backlink Analysis
 
@@ -334,6 +336,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 - [Pingdom](https://tools.pingdom.com/) - Tests website load time and gives performance analysis.
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
+
+- [Domain Intelligence](https://apify.com/rsiddiq95/domain-intelligence) - Bulk domain checker: registration date and age, registrar and expiry (RDAP), DNS, email provider, SPF/DMARC, first and last Wayback capture, and SSL.
 
 Happy optimizing! 🚀
 
