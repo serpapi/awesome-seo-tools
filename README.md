@@ -197,6 +197,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [PageCritic AI Readiness Checker](https://pagecritic.app/ai-readiness-checker) - Free check of whether GPTBot, ClaudeBot, PerplexityBot and other AI crawlers can fetch and read a page: robots.txt rules per bot, no-JS text, JSON-LD, llms.txt, with fixes. No sign-up.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
@@ -324,6 +326,8 @@ Tools for optimizing how your content appears when shared on social platforms.
 - [ShotOG](https://github.com/nicepkg/shotog) - Open source, edge-native OG image generation API (~50ms) to boost social media click-through rates and improve content visibility.
 
 - [ogimg.xyz](https://ogimg.xyz/) - API for generating Open Graph images programmatically. 10 templates, custom branding, URL auto-fetch mode. Free tier available.
+
+- [PageCritic OG Image Checker](https://pagecritic.app/og-image-checker) - Free link-preview checker: shows the X, LinkedIn, Facebook, Slack and iMessage cards for a URL, scores the image and tags, and lists fixes.
 
 ## Miscellaneous Tools
 
