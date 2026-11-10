@@ -197,6 +197,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [Cited Lens](https://citedlens.com) - Free audit of whether AI answer engines can crawl and cite a page: robots.txt rules for 13 AI crawlers (RFC 9309 parser), JSON-LD and FAQ schema, llms.txt and freshness, plus a live check of whether ChatGPT, Gemini and Google AI Overviews name the site for a buying query.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
