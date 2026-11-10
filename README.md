@@ -335,6 +335,20 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [Google Images API by FlashData](https://flashdata.dev/docs/sources/google_images) - Image search result references and URLs for visual search research; not image file delivery; requires an API key and paid Credits.
+- [Google News API by FlashData](https://flashdata.dev/docs/sources/google_news) - News search result links and available metadata for topic research; not article full text; requires an API key and paid Credits.
+- [Google Places API by FlashData](https://flashdata.dev/docs/sources/google_places) - Place search results and available business details for local research; contact fields may be absent; requires an API key and paid Credits.
+- [Google Search API by FlashData](https://flashdata.dev/docs/sources/google_search) - Structured Google search results for SEO and research; requires an API key and paid Credits.
+- [Google Shopping API by FlashData](https://flashdata.dev/docs/sources/google_shopping) - Shopping search results and available offer fields for product research; no stock or checkout-price guarantee; requires an API key and paid Credits.
+- [Google Videos API by FlashData](https://flashdata.dev/docs/sources/google_videos) - Google video search result links and available metadata for video research; requires an API key and paid Credits.
+- [YouTube Captions API by FlashData](https://flashdata.dev/docs/sources/youtube_captions) - Existing YouTube captions, defaulting to manual tracks, for content research; no ASR, translation or automatic fallback; requires an API key and paid Credits.
+- [YouTube Channel API by FlashData](https://flashdata.dev/docs/sources/youtube_channel) - Available channel details and video records for channel research; requires an API key and paid Credits.
+- [YouTube Extended Search API by FlashData](https://flashdata.dev/docs/sources/youtube_search_extended) - YouTube video search results with a requested limit up to 700; fewer results may be available and pricing differs from standard search; requires an API key and paid Credits.
+- [YouTube Metadata API by FlashData](https://flashdata.dev/docs/sources/youtube_metadata) - Available video metadata for video SEO and content research; requires an API key and paid Credits.
+- [YouTube Search API by FlashData](https://flashdata.dev/docs/sources/youtube_search) - YouTube video search results for topic research, with a requested limit up to 20; result count is not guaranteed; requires an API key and paid Credits.
+- [YouTube Suggestions API by FlashData](https://flashdata.dev/docs/sources/youtube_suggestions) - YouTube autocomplete suggestions for keyword and topic research; requires an API key and paid Credits.
+- [YouTube Transcript API by FlashData](https://flashdata.dev/docs/sources/youtube_transcript) - Existing timestamped caption tracks for content research; no ASR, translation or automatic fallback; requires an API key and paid Credits.
+
 Happy optimizing! 🚀
 
 ## Information
