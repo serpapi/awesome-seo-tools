@@ -335,6 +335,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [FlashData Google Search API](https://flashdata.dev/docs/sources/google_search) - REST API for structured Google search results; API key authentication and paid Credits.
+
 Happy optimizing! 🚀
 
 ## Information
