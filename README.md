@@ -197,6 +197,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [AI Visibility Checker](https://usamarketingpros.com/free-seo-tools/ai-visibility-checker/) - Free tool that scores how ready a website is for ChatGPT, Google AI Overviews and other AI search. Checks AI crawler access, LocalBusiness schema, readable content, technical basics and mobile speed. No sign-up.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
@@ -304,6 +306,10 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [Checkbot SEO checker](https://www.checkbot.io/) - Chrome extension that crawls 100s of pages at the same time checking for 50+ common website SEO, page speed and security problems. 
 
 - [SEO Sidebar](https://chromewebstore.google.com/detail/seo-sidebar/gmmiickdcmghfpliaiefhjafccapgmpp) - A browser extension that displays real-time on-page SEO data in a persistent side panel, with one-click export to text reports.
+
+- [LocalBusiness Schema Generator](https://chromewebstore.google.com/detail/localbusiness-schema-gene/moemnilgmlhgniindclgofimimfgedhg) - Free Chrome extension that builds LocalBusiness JSON-LD schema markup from a simple form, flags missing details and links to Google’s Rich Results Test.
+
+- [AI Crawler Access Checker](https://chromewebstore.google.com/detail/ai-crawler-access-checker/moeacaecippdmcmameeilcplepjjdddh) - Free Chrome extension that shows which AI and search crawlers (GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot, Googlebot and more) a site’s robots.txt allows or blocks.
 
   
 ## Validator / Checker
