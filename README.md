@@ -269,6 +269,8 @@ Boost your local presence and connect with audiences in your community.
  
 - [SEO Gets](https://seogets.com/) - Privacy-focused analytics tool built to replace Google Search Console for Agencies and Affiliates.
 
+- [Visola](https://visola.app/) - Native app for Mac, iPhone and iPad that shows Google Search Console and Bing Webmaster Tools data side by side, with widgets and alerts. No server in between. Paid, one-time purchase.
+
 ## SEO Browser Extensions
 
 Equip your browser with tools for quick and efficient SEO insights on the go.
