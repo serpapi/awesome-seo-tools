@@ -249,6 +249,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [squirrelscan](https://squirrelscan.com/) - Website QA tool for developers and coding agents. Crawls your site and runs 260+ rules across SEO, performance, security, accessibility, and agent experience, then hands your coding agent the exact fixes. Runs from the CLI, inside coding agents, in the cloud, or over MCP. Local audits are free.
 
+- [Stackiox Robots.txt Generator](https://stackiox.com/robots-txt-generator/) - Free robots.txt generator with one-click blocking of AI crawlers (GPTBot, ClaudeBot, Google-Extended, CCBot, Bytespider), a sitemap line, and a rule tester that shows which rule wins.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
