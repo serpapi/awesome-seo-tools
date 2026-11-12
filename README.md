@@ -269,6 +269,8 @@ Boost your local presence and connect with audiences in your community.
  
 - [SEO Gets](https://seogets.com/) - Privacy-focused analytics tool built to replace Google Search Console for Agencies and Affiliates.
 
+- [Lomen Analytics](https://lomenanalytics.com/) - Cookie-free website analytics that shows how many visits come from search engines and from AI assistants such as ChatGPT, Claude, Perplexity and Gemini (nine assistants, matched on referrer and utm_source). Free during the public beta.
+
 ## SEO Browser Extensions
 
 Equip your browser with tools for quick and efficient SEO insights on the go.
