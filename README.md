@@ -335,6 +335,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [FigureNook Website Speed Test](https://figurenook.com/web/website-speed-test/) - Free page speed test for mobile or desktop that shows Google PageSpeed Insights (Lighthouse) scores, five timing measures and the biggest fixes.
+
 Happy optimizing! 🚀
 
 ## Information
