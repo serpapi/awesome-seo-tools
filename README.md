@@ -173,6 +173,8 @@ Fine-tune your content to resonate with search algorithms and your audience alik
  
 - [FirstSearch](https://firstsearch.ai/) - Done-for-you SEO articles for your website — 30 finished posts/month delivered to your CMS via webhook ($99).
 
+- [FlowCaptions SEO Title Generator](https://flowcaptions.com/tools/seo-title-generator) - Free, no-login tool that writes 3 SEO title options from a keyword and search intent, with character counts. Daily per-visitor limit; review titles before publishing.
+
 ## Rank Tracking
 
 Monitor your website's position in search results and gauge your SEO strategies' effectiveness.
