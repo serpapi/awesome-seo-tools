@@ -269,6 +269,8 @@ Boost your local presence and connect with audiences in your community.
  
 - [SEO Gets](https://seogets.com/) - Privacy-focused analytics tool built to replace Google Search Console for Agencies and Affiliates.
 
+- [SearchDock CLI](https://github.com/xplormityai/searchdock-cli) - Open-source CLI and MCP server that reads Google Search Console analytics, inspects indexed URLs and monitors sitemaps, locally with read-only Google access.
+
 ## SEO Browser Extensions
 
 Equip your browser with tools for quick and efficient SEO insights on the go.
