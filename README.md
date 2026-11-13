@@ -213,6 +213,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [Screpy](https://screpy.com/) - Stop worrying about missing important website metrics or checking multiple platforms!
 
+- [Free SEO Generator](https://free-seo-generator.web-free.site/) - Free client-side generator for meta tags (with SERP preview), robots.txt, XML sitemaps from a URL list, JSON-LD schema, and hreflang tags. No sign-up.
+
 - [Sitebulb](https://sitebulb.com/) - The website auditing tool for SEO consultants and agencies.
 
 - [Moz On-Page Grader](https://moz.com/tools/onpage-grader) - Analyzes individual page optimization.
