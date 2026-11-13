@@ -316,6 +316,7 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [RadarMakers Meta Tag Checker](https://radarmakers.com/tools/meta-tag-preview) - Fetches a live page and shows its title, description, canonical, robots rules and redirects, or previews a search result from text you edit. Free, no account.
 
 ## Social Media & Open Graph
 
