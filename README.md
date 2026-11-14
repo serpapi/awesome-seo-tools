@@ -209,6 +209,8 @@ Ensure your website's foundation is solid for search engines and user experience
  
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/#spider-features) - SEO Spider is a website crawler that helps you improve onsite SEO by auditing for common SEO issues.
 
+- [Denwix SEO Crawler](https://denwix.com/denwix-seo-crawler/) - A browser-based website crawler that audits technical SEO, flagging broken links, redirects, duplicate titles and missing meta across your whole site.
+
 - [SiteAnalyzer](https://site-analyzer.pro/) - Scan your websites and get detailed information about each page.
 
 - [Screpy](https://screpy.com/) - Stop worrying about missing important website metrics or checking multiple platforms!
