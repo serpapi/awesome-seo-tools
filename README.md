@@ -315,6 +315,7 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [Lighthouse Rich Result Checker](https://search.google.com/test/rich-results) - Tests whether your website is eligible for rich results in Google Search.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
+- [FrostRank JSON Formatter](https://frostrank.com/tools/json-formatter) - Free formatter and validator with exact line-and-column error messages, running entirely in the browser with no signup
 
 
 ## Social Media & Open Graph
