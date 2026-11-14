@@ -197,6 +197,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [zaDojo](https://zadojo.com/) - Free MCP for Google Search Console and Google Analytics, plus SERP, keyword research, rank tracking with charts, GEO, AEO and AI visibility tracking (ChatGPT, Gemini, Perplexity, Google AI Overviews). Paid research is optional pay-as-you-go.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
