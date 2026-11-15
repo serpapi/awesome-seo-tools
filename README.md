@@ -316,6 +316,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [Sitecomb](https://sitecomb.com/) - Automated website quality audits across six areas: security, privacy and legal, page health, works on phones, contact details, and found online, with a website quality score out of 100.
+
 
 ## Social Media & Open Graph
 
