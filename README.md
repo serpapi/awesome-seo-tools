@@ -83,6 +83,8 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 - [Fast SEO Fix](https://www.fastseofix.com) - Grow Your Organic Traffic with Automated SEO.
 
 - [SearchAtlas](https://searchatlas.com/) - AI-powered SEO platform with an [MCP server](https://github.com/Search-Atlas-Group/searchatlas-mcp-server) that exposes 16 tools for 
+
+- [SEO Rank Fixer](https://seorankfixer.com/) - Connects Google Search Console and Bing Webmaster Tools, ranks SEO fixes by the clicks they can win, audits the site and tracks AI search visibility. Free plan; also works inside Claude and ChatGPT.
   keyword research, site auditing, content optimization, backlink analysis, PPC management, and LLM brand visibility monitoring directly inside AI assistants.
 
 ## Keyword Research
