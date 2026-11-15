@@ -172,6 +172,7 @@ Fine-tune your content to resonate with search algorithms and your audience alik
 - [TuxSEO](https://tuxseo.com/) - Fully automated, SEO optimized, blog creation for your business.  
  
 - [FirstSearch](https://firstsearch.ai/) - Done-for-you SEO articles for your website — 30 finished posts/month delivered to your CMS via webhook ($99).
+- [GetYouTubeTranscript](https://getyoutubetranscript.com/) - Pull the transcript of any YouTube video for content research, or turn your own videos into text for blog posts and show notes.
 
 ## Rank Tracking
 
