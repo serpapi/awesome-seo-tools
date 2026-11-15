@@ -197,6 +197,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [Seeably](https://seeably.ai/) - AI visibility scans for local markets. Pick a niche and a city to see which businesses ChatGPT, Gemini, Claude, Perplexity and Google AI Mode recommend and which they skip, with audits agencies can send under their own brand.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
