@@ -263,6 +263,8 @@ Boost your local presence and connect with audiences in your community.
 
 - [Moz Local](https://moz.com/products/local) - Maximize your online visibility with Moz's powerful local SEO and reputation management tool.
 
+- [Local SEO Data](https://localseodata.com/) - Local rankings, Google Business Profile, reviews, citations, geogrid scans and AI visibility as an API and MCP server.
+
 ## SEO Analytics
 
 - [Google Search Console](https://search.google.com/search-console/about) - Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results
