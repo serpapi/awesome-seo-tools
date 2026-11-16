@@ -151,6 +151,8 @@ Fine-tune your content to resonate with search algorithms and your audience alik
 
 - [Yoast SEO](https://yoast.com/) - WordPress plugin for SEO optimization of posts and pages.
 
+- [HumanPen](https://humanpen.net/) - Document-level AI humanizer, 12-language translator, condenser, and citation formatter with REST API and 100 free signup credits.
+
 - [SearchSocket](https://searchsocket.com/) - A free AI-powered tool that provides real-time SEO suggestions to improve content alignment with Google's guidelines.
 
 - [BlogBud AI](https://blogbud.ai) - Generate SEO-optimized articles and export directly to your CMS (WordPress, Webflow, Ghost, Shopify)
