@@ -316,6 +316,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [Comprueba tu web (Facilo)](https://webs.facilo.es/comprueba-tu-web/) - Free check of speed, mobile, HTTPS and basic SEO, with plain-language results in Spanish.
+
 
 ## Social Media & Open Graph
 
