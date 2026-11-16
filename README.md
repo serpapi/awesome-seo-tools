@@ -197,6 +197,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [LaunchPal AI Visibility Checker](https://launchpal.app/tools/ai-visibility-checker) - Free check of whether ChatGPT, Claude, Perplexity and Google are allowed to read a site.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
@@ -316,6 +318,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [LaunchPal Sitemap Validator](https://launchpal.app/tools/sitemap-validator) - Free check that finds a site's sitemap, validates it and lists the pages in it.
+
 
 ## Social Media & Open Graph
 
@@ -324,6 +328,8 @@ Tools for optimizing how your content appears when shared on social platforms.
 - [ShotOG](https://github.com/nicepkg/shotog) - Open source, edge-native OG image generation API (~50ms) to boost social media click-through rates and improve content visibility.
 
 - [ogimg.xyz](https://ogimg.xyz/) - API for generating Open Graph images programmatically. 10 templates, custom branding, URL auto-fetch mode. Free tier available.
+
+- [LaunchPal Open Graph Preview](https://launchpal.app/tools/open-graph-preview) - Free preview of how a link looks on WhatsApp, LinkedIn, Facebook and Slack, with the missing tags explained.
 
 ## Miscellaneous Tools
 
