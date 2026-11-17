@@ -197,6 +197,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [searchVIU GEO Check](https://www.searchviu.com/en/geo-check/) - Free check of AI crawler access, content without JavaScript, llms.txt and structured data.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
@@ -310,7 +312,7 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [Broken Link Checker](https://www.brokenlinkcheck.com/) - Detects and reports broken links on websites.
 
-- [Robots.txt Checker](https://support.google.com/webmasters/answer/6062598?hl=en) - Checks robots.txt files for errors.
+- [searchVIU robots.txt Tester](https://www.searchviu.com/en/robots-txt-checker/) - Tests URLs against a robots.txt for Googlebot, GPTBot, ClaudeBot and other bots, with an editor for trying changed rules.
 
 - [Lighthouse Rich Result Checker](https://search.google.com/test/rich-results) - Tests whether your website is eligible for rich results in Google Search.
 
