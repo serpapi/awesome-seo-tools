@@ -193,6 +193,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 ## GEO / AI Visibility
 
+- [AI-Vision](https://ai-vision.top) - Product discovery and Generative Engine Optimization (GEO) platform that indexes products with real-time `/llms.txt` vector endpoints and Schema.org markup to get cited by ChatGPT, Perplexity, Claude, and Gemini.
+
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
