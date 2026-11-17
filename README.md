@@ -316,6 +316,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [Get1pct SEO Title Checker](https://get1pct.com/tools/title-check) - Free checker for a page's SEO title, meta description, noindex, H1 and canonical URL. No signup required.
+
 
 ## Social Media & Open Graph
 
