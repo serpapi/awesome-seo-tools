@@ -249,6 +249,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [squirrelscan](https://squirrelscan.com/) - Website QA tool for developers and coding agents. Crawls your site and runs 260+ rules across SEO, performance, security, accessibility, and agent experience, then hands your coding agent the exact fixes. Runs from the CLI, inside coding agents, in the cloud, or over MCP. Local audits are free.
 
+- [SEOBolt](https://seobolt.app/) - Crawls a site, audits Google and AI-search readiness and produces a prioritised fix plan; its MCP server lets a coding agent apply the fixes and re-crawl to verify. Paid plans.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
