@@ -197,6 +197,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [Canlah GEO — AI Answer Monitor](https://canlah.ai/extension/?utm_source=github&utm_medium=directory&utm_campaign=ext-w47.EXT-GH-AWESOMESEOTOOLS) - Chrome extension that asks ChatGPT and Google AI Overviews the questions your buyers type, on a schedule, in your own Chrome. Shows whether the answer names your brand, which competitors it names instead and which sites it cites, and every number opens to the AI's own words.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
