@@ -316,6 +316,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [Meta Description and Title Tag Checker](https://norlif.com/tools/shopify-seo-length-checker) - Checks page title and meta description length against what Google shows; can also scan a Shopify product CSV.
+
 
 ## Social Media & Open Graph
 
