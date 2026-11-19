@@ -197,6 +197,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [AI Crawler Access Checker](https://involvepro.com/tools/ai-crawler-checker/) - Free check of a site's robots.txt against 12 AI crawlers and fetchers (OpenAI, Anthropic, Perplexity, Google, Apple). Parses the file to RFC 9309 rather than searching for strings, and lists the lines it had to ignore. No login.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
@@ -315,6 +317,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [Lighthouse Rich Result Checker](https://search.google.com/test/rich-results) - Tests whether your website is eligible for rich results in Google Search.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
+
+- [Redirect Checker](https://involvepro.com/tools/redirect-checker/) - Free, no login. Follows a URL through up to 10 redirects and shows every hop's status code, plus scheme and host changes, loops and cookies set mid-chain. Also available as an open-source CLI: [redirect-chain](https://github.com/involvepro-agency/redirect-chain).
 
 
 ## Social Media & Open Graph
