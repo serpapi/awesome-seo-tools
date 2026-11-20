@@ -305,6 +305,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [SEO Sidebar](https://chromewebstore.google.com/detail/seo-sidebar/gmmiickdcmghfpliaiefhjafccapgmpp) - A browser extension that displays real-time on-page SEO data in a persistent side panel, with one-click export to text reports.
 
+- [Optia](https://chromewebstore.google.com/detail/optia/gnlidlpidaoalbbmekofjednjkhhmehn?utm_source=awesomelists&utm_medium=referral&utm_campaign=optia&utm_content=serpapi-awesome-seo-tools) - Chrome extension that scores a page's on-page SEO from 0 to 100 for a target keyword and lists fixes by priority. Free, with a paid Pro tier.
+
   
 ## Validator / Checker
 
