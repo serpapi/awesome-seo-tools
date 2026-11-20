@@ -316,6 +316,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [Affi-Chain SEO Tools](https://www.affichain.com/metadata-builder) - 100% client-side Open Graph previewer, robots.txt validator, and JSON-LD structured data generator.
+
 
 ## Social Media & Open Graph
 
