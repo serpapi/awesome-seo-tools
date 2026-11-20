@@ -268,6 +268,7 @@ Boost your local presence and connect with audiences in your community.
 - [Google Search Console](https://search.google.com/search-console/about) - Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results
  
 - [SEO Gets](https://seogets.com/) - Privacy-focused analytics tool built to replace Google Search Console for Agencies and Affiliates.
+- [GSCPAP](https://gscpap.com/?utm_source=awesome-seo-tools&utm_medium=directory) - Free hosted MCP server that lets Claude, ChatGPT and Cursor read your Google Search Console, GA4, Bing Webmaster Tools and PageSpeed data, with Search Console and Bing history kept past their 16-month limits.
 
 ## SEO Browser Extensions
 
