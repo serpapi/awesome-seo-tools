@@ -249,6 +249,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [squirrelscan](https://squirrelscan.com/) - Website QA tool for developers and coding agents. Crawls your site and runs 260+ rules across SEO, performance, security, accessibility, and agent experience, then hands your coding agent the exact fixes. Runs from the CLI, inside coding agents, in the cloud, or over MCP. Local audits are free.
 
+- [siteprobe](https://github.com/saimulft/siteprobe) - Zero-dependency security headers checker and website scanner with about 100 security, SEO and speed checks, as a CLI and library.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
@@ -315,6 +317,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [Lighthouse Rich Result Checker](https://search.google.com/test/rich-results) - Tests whether your website is eligible for rich results in Google Search.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
+
+- [static-preflight](https://github.com/saimulft/static-preflight) - Broken link checker and preflight for static site builds: links, assets, SEO basics, share cards, JSON-LD and redirects.
 
 
 ## Social Media & Open Graph
