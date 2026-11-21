@@ -197,6 +197,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [LaunchScaler AI Crawler Checker](https://www.launchscaler.com/tools/ai-crawler-checker) - Shows which AI crawlers a robots.txt allows and what each one receives when it requests a page. Free, no account.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
@@ -315,6 +317,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [Lighthouse Rich Result Checker](https://search.google.com/test/rich-results) - Tests whether your website is eligible for rich results in Google Search.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
+
+- [LaunchScaler robots.txt Checker](https://www.launchscaler.com/tools/robots-txt-checker) - Shows whether robots.txt lets a given crawler, such as Googlebot or GPTBot, fetch a URL, and which rule decides it. Free, no account.
 
 
 ## Social Media & Open Graph
