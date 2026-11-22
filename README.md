@@ -316,6 +316,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [FieldOS Website Grader](https://8083-agq6pwimmres4jrl6zkmx2vqtu.instabox.tech/grader) - Free instant website grader. Enter any URL for a 0-100 score across 12 mobile, speed, SEO, contact and social checks with prioritized fixes. No signup.
+
 
 ## Social Media & Open Graph
 
