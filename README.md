@@ -325,6 +325,8 @@ Tools for optimizing how your content appears when shared on social platforms.
 
 - [ogimg.xyz](https://ogimg.xyz/) - API for generating Open Graph images programmatically. 10 templates, custom branding, URL auto-fetch mode. Free tier available.
 
+- [Open Graph preview](https://bestlatestapps.com/tools/open-graph-preview/) - Free browser preview of Open Graph and Twitter card tags
+
 ## Miscellaneous Tools
 
 Explore a diverse range of tools for those niche tasks and unique SEO challenges.
