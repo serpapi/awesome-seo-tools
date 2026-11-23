@@ -309,6 +309,7 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 ## Validator / Checker
 
 - [Broken Link Checker](https://www.brokenlinkcheck.com/) - Detects and reports broken links on websites.
+- [Free Website Grader](https://8083-agq6pwimmres4jrl6zkmx2vqtu.instabox.tech/grade?utm_source=github&utm_medium=social&utm_campaign=obj044_traffic) - Free instant website speed, SEO & health audit for any URL. No signup.
 
 - [Robots.txt Checker](https://support.google.com/webmasters/answer/6062598?hl=en) - Checks robots.txt files for errors.
 
