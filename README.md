@@ -263,6 +263,8 @@ Boost your local presence and connect with audiences in your community.
 
 - [Moz Local](https://moz.com/products/local) - Maximize your online visibility with Moz's powerful local SEO and reputation management tool.
 
+- [Glocavo](https://gbpseotools.com/google-maps-rank-tracker) - Google Maps grid rank tracker with heatmaps, plus AI visibility tracking and Google Business Profile management.
+
 ## SEO Analytics
 
 - [Google Search Console](https://search.google.com/search-console/about) - Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results
@@ -304,6 +306,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [Checkbot SEO checker](https://www.checkbot.io/) - Chrome extension that crawls 100s of pages at the same time checking for 50+ common website SEO, page speed and security problems. 
 
 - [SEO Sidebar](https://chromewebstore.google.com/detail/seo-sidebar/gmmiickdcmghfpliaiefhjafccapgmpp) - A browser extension that displays real-time on-page SEO data in a persistent side panel, with one-click export to text reports.
+
+- [Geo Spoofing by GBP SEO Tools](https://chromewebstore.google.com/detail/geo-spoofing-by-gbp-seo-t/fppgllcaaondbfopnagbgnkoolkcaenf) - Chrome extension that shows Google search results as if you were in another city, for checking local rankings.
 
   
 ## Validator / Checker
