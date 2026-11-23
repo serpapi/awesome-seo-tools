@@ -197,6 +197,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [FUF GEO Checker](https://www.gofuf.com/geo-checker) - Free AI visibility checker. Grades whether the search bots of ChatGPT, Claude, Perplexity, Google and Copilot may read a website, whether the text stands in the HTML without JavaScript and whether pages offer schema.org facts they can quote. No sign-up.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
@@ -315,6 +317,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [Lighthouse Rich Result Checker](https://search.google.com/test/rich-results) - Tests whether your website is eligible for rich results in Google Search.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
+
+- [FUF SEO Checker](https://www.gofuf.com/seo-checker) - Free SEO checker that grades up to 50 pages for titles, descriptions, H1, indexing and redirects, and detects the TYPO3, Drupal or WordPress version with its end of security updates. No sign-up.
 
 
 ## Social Media & Open Graph
