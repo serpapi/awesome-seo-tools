@@ -197,6 +197,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [Sonnetpilot](https://sonnetpilot.com/) - SEO, AEO and GEO tool for small sites and agencies: audits, AI crawler and llms.txt checks, AI visibility tracking, and fixes applied to WordPress or Shopify after approval. Free plan, plus free tools without sign-up: AI crawler checker, robots.txt generator for AI crawlers and llms.txt generator.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
