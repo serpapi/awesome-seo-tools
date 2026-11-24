@@ -335,6 +335,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [SEO Skills](https://seoskills.io) - Free, open-source agent skills and a remote MCP server that answer SEO questions from the Google leak, Google patents, official Search documentation and Google staff statements, citing the source.
+
 Happy optimizing! 🚀
 
 ## Information
