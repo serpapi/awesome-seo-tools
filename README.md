@@ -127,6 +127,8 @@ Delve deep into your link profile and discover opportunities for growth and risk
 
 - [BacklinkScan](https://backlinkscan.com/) - Backlink Checker. Simple. Powerful.
 
+- [AIWget Domain Rating Checker](https://aiwget.com/tools/domain-rating-checker) - Free, no-login live Ahrefs DR3 vs DR4 & Tranco Top-1M checker with embeddable SVG badges.
+
 - Other "All in one SEO tools" offer this feature as well.
 
 ## Content Optimization
