@@ -249,6 +249,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [squirrelscan](https://squirrelscan.com/) - Website QA tool for developers and coding agents. Crawls your site and runs 260+ rules across SEO, performance, security, accessibility, and agent experience, then hands your coding agent the exact fixes. Runs from the CLI, inside coding agents, in the cloud, or over MCP. Local audits are free.
 
+- [Visdenda](https://visdenda.com/tools/page-seo-check) - Free per-page technical SEO scan: canonical, noindex, redirects, titles, hreflang and sitemap checks, with a fix for each finding.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
