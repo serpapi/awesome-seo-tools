@@ -316,6 +316,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
+- [feedcheck-core](https://github.com/amunozsesma/feedcheck-core) - Open-source CLI and library that compares a Google Merchant Center product feed with the price and availability declared on each product page.
+
 
 ## Social Media & Open Graph
 
