@@ -335,6 +335,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [SERP Preview Tool](https://alltoolsverse.com/tools/serp-preview-tool/) - Preview desktop and mobile Google snippets with title pixel-width checks, meta description length guidance, and a live checklist.
+
 Happy optimizing! 🚀
 
 ## Information
