@@ -197,6 +197,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [ReadyCheck](https://audit.runglab.dev) - Instant 100-point live website auditor scoring AEO and AI crawler readiness (40 pts: 12-bot search vs. training matrix, llms.txt, A2A agent-card.json, MCP, Schema.org JSON-LD), email deliverability (35 pts: SPF/DMARC/DKIM/MX/MTA-STS/BIMI), and web security headers (25 pts).
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
