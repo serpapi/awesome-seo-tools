@@ -170,6 +170,8 @@ Fine-tune your content to resonate with search algorithms and your audience alik
 - [Hypertxt](https://hypertxt.ai) - If Perplexity, ChatGPT and Ahrefs had a baby, you'd have Hypertxt. Generate deeply-researched SEO/GEO-optimized content.
 
 - [TuxSEO](https://tuxseo.com/) - Fully automated, SEO optimized, blog creation for your business.  
+
+- [SERP Analyzer](https://github.com/david-forer/serp-analyzer) - Open-source Windows desktop app for writers. Reads the top 10 results for a search and reports, in plain language, which content format Google rewards and how crowded the competition is.
  
 - [FirstSearch](https://firstsearch.ai/) - Done-for-you SEO articles for your website — 30 finished posts/month delivered to your CMS via webhook ($99).
 
