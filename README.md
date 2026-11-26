@@ -197,6 +197,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [SagBot](https://sagbot.app/) - AI-readiness checker. Scores whether AI crawlers and agents can read a site and whether AI answer engines can cite it: robots.txt rules for 24 AI bots, llms.txt, Markdown for agents, structured data and answer-ready page structure. Each failed check comes with a fix for a coding agent. Scans are free; also works as an MCP server.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
