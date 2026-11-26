@@ -335,6 +335,8 @@ Explore a diverse range of tools for those niche tasks and unique SEO challenges
 
 - [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
 
+- [GEOKit](https://geokit.site) - Free, client-side Generative Engine Optimization (GEO) & AI SEO toolkit featuring llms.txt generators, AI crawler permissions manager, and AI search readiness audit.
+
 Happy optimizing! 🚀
 
 ## Information
