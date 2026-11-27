@@ -127,6 +127,8 @@ Delve deep into your link profile and discover opportunities for growth and risk
 
 - [BacklinkScan](https://backlinkscan.com/) - Backlink Checker. Simple. Powerful.
 
+- [SaaSCity Open SEO & Directory DR4 Datasets](https://github.com/best-directories/saas-launch-datasets-2026) - CC-BY-4.0 CSV datasets covering 1,667 SaaS directories with Ahrefs DR3 vs DR4 deltas, 760 dofollow SEO directories, and a 2,801-domain directory link-health audit (interactive index at [saascity.io/best-saas-directories](https://saascity.io/best-saas-directories)).
+
 - Other "All in one SEO tools" offer this feature as well.
 
 ## Content Optimization
