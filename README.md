@@ -52,6 +52,8 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 
 - [SEO PowerSuite](https://www.link-assistant.com/) - Rankings, on-page, backlinks, and reports — all in one easy-to-use toolkit.
 
+- [The SEO Agent](https://www.theseoagent.ai/) - AI SEO platform covering keyword research, cited article writing, claim verification, and direct CMS publishing.
+
 - [WebCEO](https://www.webceo.com/) - SEO & digital marketing tools. For agency-level analysis, reports & lead generation.
 
 - [SpyFu](https://www.spyfu.com/) - SEO marketing suite, PPC analyzer, historic data, competitive analysis, backlink outreach, unlimited keyword & domain projects, custom reporting.
@@ -196,6 +198,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across AI tools. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
+
+- [AI Prompt Tracking](https://aiprompttracking.com/) - Free AI search visibility tool to check and track brand mentions and citations across ChatGPT, Perplexity, and other answer engines.
 
 ## Technical SEO
 
