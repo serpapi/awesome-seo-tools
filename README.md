@@ -197,6 +197,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 
 - [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Measures composite AI Visibility Scores with per-dimension analysis (YouTube, Reddit, search, LLM knowledge testing) and prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
+- [Cygnix SEO MCP](https://mcp.cygnixlabs.com) - Hosted MCP server that audits a site for SEO and AI-search readiness inside Claude, ChatGPT or Cursor, lists the top fixes with ready-to-paste titles, meta descriptions and llms.txt, then re-audits to show a before/after score. Free tier available.
+
 ## Technical SEO
 
 Ensure your website's foundation is solid for search engines and user experience.
